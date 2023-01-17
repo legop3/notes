@@ -1,0 +1,81 @@
+1/17/23
+
+
+COMMUNICATION
+
+communication is easily disrupted
+computers are just a bunch of zeros and ones
+noise:
+    a common way for information to be intercepted
+
+
+SOCIAL ENGINEERING FUNDAMENTALS
+
+Social enginerring is the act of manipulating users into revealing confidental information:
+    social engineers rely on public informetion
+        OSINT - open source intelligence
+    social engineering works because if the lack of user awareness, laziness, and public networks
+
+Phishing:
+    spear phishing - targets specific groups or individuals
+    smishing involves sms phishing
+    vishing is initiated by a phone call
+    waling attacks the people at the top of a company
+
+Spam:
+    spim is spam over the internet
+    common from social media sites
+    spam can also come from phone calls or SMS messages commonly
+
+Pharming:
+    redirects a victim from a valid website to a malicious website that collects the users information
+    
+Piggybacking:
+    - refers to when an unauthorized person is allowed by an authorized person to enter a secure location
+    - tailgating, a similar concept is the same thing without the permission of the authorized person
+
+
+Other social engineering techniques:
+
+    - Dumpster diving
+    - Shoulder surfing
+    - Eliciting information - people that are good at getting other people to willingly say things
+    - Prepending
+    - Identity fraud
+    - credential harvesting
+    - reconnaissance
+    - hoax - something that is just not true
+    - pretexting (or impersonation) - acting to be a different person
+    - eavesdropping - close enough to listen
+    - baiting - put something out there as a reward for someone to do something that will compromise themselves
+    - typo squatting - targeting common typos in web domains, like goggle.com and goole.com
+
+Principles of social engineering:
+    - motivation techniques used by social engineers:
+        - authority - show confidence/authority, legal, organizational, or social authority
+        - indimidation
+        - consensus - social proof, research other employees, research about the business
+        - scarcity - get yours before its gone -> urgency
+        - familiarity - a person that youre familiar with could be used against you
+        - trust... heightened trust leading to wrongdoing
+
+
+USER SECURITY AWARENESS EDUCATION:
+    - rules to convey when training employees:
+        - never give out authentication details
+        - always shield keypads when entering passwords
+        - hide documents and devices when not at your desk
+        - screen emails and phone calls, keep log of events
+        - use encryption when possible (up to date encryption)
+        - always shred sensitive information to be discarded
+        - always comply with company policy regarding data handling and disposal
+        - be careful when using a web browser
+    
+    - social media - hybrid warfare:
+        - threat actors use automated bots in social media sites like twitter and facebook to influence the sentiment of a given user:
+            - bots used to manipulate public sentiment on modern issues like politics or abortion
+        - hybrid warfare:
+            - techniques to manipulate people to believe things that arent true
+            - social engineering at a national level
+        
+
