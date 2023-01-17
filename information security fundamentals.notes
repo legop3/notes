@@ -79,3 +79,33 @@ USER SECURITY AWARENESS EDUCATION:
             - social engineering at a national level
         
 
+ANALYZING POTENTIAL INDICATORS TO DETERMINE THE TYPE OF ATTACK - CHAPTER 2:
+    - malicious software/malware:
+        - malware is software that is designed to infiltrate a computer system
+        - types of malware:
+            - ransomware - attacker restricts access, demanding payment - often in bitcoin.
+                - cybersecurity insurance that covers paying off ransomware (crazy stuff) these insurance companies sometimes pay off attackers so that they dont attack a target.
+            - phishing/spear phishing is a common vector for ransomware
+
+            - trojan horses - appear to preform a desireable function but are actually performing malicious functions behind the scenes
+            - remote access trojan (RAT) - most common trojan
+                - attackers can eleevate their permissions on the target system
+
+            - rootkit - software designed to gain administrator level control over a computer system without being detected
+                - root user (linux) and administrator control (windows)
+                - delayed/continued operations from the lower levels of the OS
+            
+            - worms - self-replicating, leveraging OS and application security holes and use similar os's and applications on the internet and replicate to them
+            - fileless virus - stores no files on the computer, run through SSH or a RAT
+                - attack may include files, targets weak endpoint security and ineffective access control
+            - botnet - one computer controlling a bunch of infected computers or devices
+                - bots are unaware of the malware installed on them, can be activated to create a DDOS attack (distributed denial of service)
+            - logic bomb - programming malware to do a certian thing at a certain date, time, or condition
+            
+            
+    - password attacks:
+    - physical attacks:
+    - adversarial artificial intelligence/AI:
+    - supply-chain attacks:
+    - cloud-based vs on-premises attacks:
+    - cryptographic attacks:
