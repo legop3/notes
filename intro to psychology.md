@@ -40,5 +40,30 @@
 - old school
     - structuralism
     - functionalism
+        - functions and purposes of mental processes
+            - william james
+                - first US psych lab
+                - darwin's theory of natural selection
     - behaviorism
+        - environmental determinants of observable behavior
+        - reject explanations referencing *thought*
+            - ivan pavlov (dogs)
+            - john watson
+            - b.f. skinner
     - humanism
+        - positive human qualities/potential
+        - free will: we have the ability to control our lives, we are not controlled by the environment
+            - carl rogers
+            - abraham maslow
+    - psychoanalysis
+        - emphasizes unconcious thought
+        - conflict between biological instincts and society's demands
+        - early family experiences
+        - ## sigmund freud
+- new school
+    - multiculturalism
+        - emphasizes influences of culture on behavior and mental processes
+        - culture: groups who share a lifestyle with its own unique norms, expectations, and values
+            - not just other countries
+    - evolutionary
+    - 
