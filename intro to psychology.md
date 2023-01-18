@@ -34,10 +34,10 @@
     - health: looks at relationships between the mind and body
     - comparative: comparing human and non-human species
 
-## history of psychology
-- rooted in two sciences: philosophy and physiology
+# history of psychology
+- ## rooted in two sciences: philosophy and physiology
     - connection between the mind and body
-- old school
+- ## old school
     - structuralism
     - functionalism
         - functions and purposes of mental processes
@@ -59,11 +59,30 @@
         - emphasizes unconcious thought
         - conflict between biological instincts and society's demands
         - early family experiences
-        - ## sigmund freud
-- new school
+        - sigmund freud
+- ## new school
     - multiculturalism
         - emphasizes influences of culture on behavior and mental processes
         - culture: groups who share a lifestyle with its own unique norms, expectations, and values
             - not just other countries
     - evolutionary
-    - 
+        - explanations of human behavior
+            - adaptation
+            - reproduction
+            - natural selection
+        - provides explanations for certain behaviors
+            - explains fears, phobias, against things that can kill you
+            - "wants to get laid"
+    - cognitive
+        - mental processes involved in thinking, language, attention, memory, and intelligence.
+        - how we solve problems, make decisions
+    - neuroscience
+        - emphasizes the study of the body
+        - the brain and the nervous system
+        - the brian and nervous system are essesntial to understanding our minds
+    - positive psychology
+        - strenghts and successes rather than disorder, weaknesses, and failures.
+        - psychology cannot only help us overcome problems but can help us be happy and thrive
+    - the biophysical theory
+        - mash up!
+        - studies interactions between biological, social, and physiological.
