@@ -86,3 +86,87 @@
     - the biophysical theory
         - mash up!
         - studies interactions between biological, social, and physiological.
+
+# the need for science in psychology
+- different than philosophy, psychology uses scientific methods to test
+- also different than pseudo-psychology
+
+## critical thinking precvents:
+- confirmation bias- we look at stuff that confirms our opinion and ignore stuff that doesn't
+- bandwagon fallacy- you believe it because everyone else does
+- emotional reasoning- "i feel this"
+- authority fallacy- "my parents said so" "my teacher said so"
+- antiquity fallacy- "we've always done it this way"
+- black and white fallacy- believing in the absolutes
+
+## descriptive research
+- goal: describing something
+    - observation
+    - surveys and interviews
+        - sometimes people will be socially acceptable instead of being honest about themselves
+        - survey construction can be problematic because of framing, or bias
+    - case studies
+        - also known as a case history
+        - when unique aspects of a persons life cant be duplicated in other individuals
+
+- allows a person to get a sense of something
+- **answers: what this is**
+
+## corrolational research
+- answers relationships between two or more variables
+- correlation coefficient
+    - -1.00 _< r _< 1.00
+    - strength of relationship: magnitude
+    - direction of relationship: +/-
+- correlations will always follow a positive or negative trend line
+- correlation is NOT causation EVER! you cannot imply a cause because of correlation.
+- 3rd variable problem
+    - ice cream sales go up with murder count
+    - in this case, summer is the 3rd variable
+- **answers: how do these variables relate**
+
+## experimental research
+- hypothesized cause is manipulated
+- the independent variable
+    - the variable that is manipulated
+- the dependent variable (independent = doesn't change)
+    - the variable that is the result of manipulating variable
+- participants in an experiment:
+    - experimental group: participants who recieve the treatment
+    - control group: participants who do not recieve the tratment that is the focus of the study
+- random assignment: randomly assigning people to each group
+- goal: **determine causation**
+
+## science is not a thing, its a method
+Scientific method:
+1. Ask a question
+    - something that you have observed that you want to know more about
+2. Conduct a literature search
+    - what others have written on your question?
+    - if a work is peer reviewed then it generally means it is trustworthy.
+    - find the research gap!
+3. Sate a hypothesis
+    - a testable prediction
+    - derived from theory: propose an explanation for proposed events
+    - operational definition: a specific definition of a variable: are you alive or dead?
+4. Test the hypothesis data
+    - who do we collect data from?
+    - population: whole range of people on whom a study's research is focused
+    - sample: a subset of the population
+        - use a large random sample
+        - the worst way to do it is a convenience sample
+5. Data analysus
+    - applies statistical methods to reach a conclusion
+    - statistics
+        - SPSS
+    - interperet the results
+    - replication
+
+## ethics in phsychological studies
+- research participants have rights
+- APA guidelines:
+    - informed consent
+    - confidentiality
+    - deception - dont tell them exactly what youre looking for
+    - debriefing - tell them everything youre looking for after
+- institutuonal review board (IRB)
