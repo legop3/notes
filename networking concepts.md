@@ -1,6 +1,6 @@
 # networking concepts
 
-1/19/23
+        1/19/23
 
 ## chapter 1: introduction to networking
 ### objectives:
@@ -125,3 +125,20 @@ MAC address means physical
             - SNMP
             - payload: the data that is passed between applications and the OS
             - data unit is a payload
+
+
+# 
+        1/24/23
+
+PDU: protocol data unit - the technical name for a group of bits as it moves from one layer to the next and from one LAN to the next
+- technicians loosely call this group of bits a message or a transmission
+
+### chapter 2
+How computers find each other on networks
+
+MAC addresses
+- first 24 bits are known as the OUI (organizationally unique identifier)
+    - assigned by the IEEE
+    - each manufacturer has an OUI
+- last 24 bits make up the extension identifier or device ID
+    - manufactarers assign each NIC a unique device ID

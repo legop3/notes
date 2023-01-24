@@ -1,6 +1,6 @@
 # information security fundamenals
 
-1/17/23
+        1/17/23
 
 
 ## COMMUNICATION
@@ -139,3 +139,18 @@
     - collision attacks - MD5 hashes, low consumption requirement
     - birthday attack - the chances balance 366: 100%
     - 
+
+
+        1/24/2023
+
+# chapter 2
+
+## AAA framework
+Authentication, Authorization, and Accounting
+- intelligently controlling access to computer resources, enforcing policies, auditing usage, and providing information nessescary for the audits
+
+- authentication: find out who the person is
+- authorization: find the person's access level
+- accounting: log the activity of the user
+
+vulnerable, vulnerable, vulnerable, vulnerable, vulnerable, vulnaerabel, vulnerable, vulnerable, vulnerable,  vulnerable, vulnerable
