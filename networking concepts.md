@@ -94,7 +94,7 @@ MAC address means physical
         - simplest layer
         - transmitted as RF, copper, or light
     2. data link
-        - nic and switch
+        - nic and switch, ARP
         - responsible for interfacing with physical hardware
         - protocols at this layer are programmed into the NIC's firmware
         - ethernet and wifi are examples
@@ -107,6 +107,7 @@ MAC address means physical
         - identifies each host
         - finds the best route to take
         - data unit is a packet
+        - IP
     4. transport
         - transporting application layer payloads from one application to another
         - encapsulation: adding a header to data from the above layer
@@ -142,3 +143,19 @@ MAC addresses
     - each manufacturer has an OUI
 - last 24 bits make up the extension identifier or device ID
     - manufactarers assign each NIC a unique device ID
+
+
+classes of ip address
+
+class A: 1.x.y.z to 126.x.y.z           126 networks        16,777,214 addresses per network
+class B: 128.0.x.y                      16,000 networks     65,000 addresses per network
+class C: 192.0.0.x to 223.255.255.x     2 million networks  254 devices per network
+
+127.0.0.1 is loopback
+
+APIPA: automatic private addressing, used when DHCP server doesn't work.
+range 169.254.0.1 to 169.254.255.254
+
+a double colon in an ipv6 address means that block is all zeros
+0000 and :: mean the same thing
+an address can only have one double colon
