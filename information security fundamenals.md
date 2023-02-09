@@ -154,3 +154,21 @@ Authentication, Authorization, and Accounting
 - accounting: log the activity of the user
 
 vulnerable, vulnerable, vulnerable, vulnerable, vulnerable, vulnaerabel, vulnerable, vulnerable, vulnerable,  vulnerable, vulnerable
+
+
+the what the when the who the whow the wyh the who the how thw whwn 
+
+
+## types of clouds
+- public cloud - apps and storage space
+- private cloud - particular organization
+- community cloud - hybrid cloud with multiple organizations sharing public cloud
+
+###### wa
+##### wa
+#### wa
+### wa
+## wa
+# wa
+
+

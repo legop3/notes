@@ -94,7 +94,8 @@ MAC address means physical
         - simplest layer
         - transmitted as RF, copper, or light
     2. data link
-        - nic and switch, ARP
+        - switches are ALWAYS layer 2 on a test
+        - nic and switch, ARP, and cabling
         - responsible for interfacing with physical hardware
         - protocols at this layer are programmed into the NIC's firmware
         - ethernet and wifi are examples
@@ -159,3 +160,20 @@ range 169.254.0.1 to 169.254.255.254
 a double colon in an ipv6 address means that block is all zeros
 0000 and :: mean the same thing
 an address can only have one double colon
+
+TCP OSI data units:
+data -> segment -> packet -> frame -> bit
+
+best path = router
+routing metrics: the lowest cost provides the best path
+NetBIOS is microsoft
+
+# chapter 4
+structured cabling and networking elements
+
+- maximum distance for ethernet cable is 100 meters/ about 330 feet without an amplifier
+- 802.3 is wired standard, 802.11 is wireless standards
+
+- full duplex: signals can travel both directions over a medium simultaneously
+- half duplex: signals can travel in both directions but only in one direction at a time
+- simplex: signals can only travel in one direction

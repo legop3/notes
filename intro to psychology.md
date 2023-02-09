@@ -170,3 +170,74 @@ Scientific method:
     - deception - dont tell them exactly what youre looking for
     - debriefing - tell them everything youre looking for after
 - institutuonal review board (IRB)
+
+
+
+## sensation
+[transduciton - the process of converting sensory into neural]
+
+absolute threshold - the minimum amount of energy an organism can detect 50% of the time
+noise - irrelavent and competing stimuli
+
+sensory adaptation - changes in response to level of stimulus: getting used to loud noise, dark or bright rooms
+perceptual consistency - the ability for the brain to maintain the same preception of an object even when conditions around it change
+sensory overload - at a point where you have to decide what to pay attention to
+
+
+# *cochlea*
+
+
+                    \ / /\
+                   /-------------\
+                  /
+
+triceratops
+
+# chapter 4 - conciousness
+
+## why do we sleep?
+- inactivity theory - we sleep at night to stay out of danger, we stay still at night when we are sleeping
+- energy conservation theory - sleep is a way to conserve our energy and save calories.
+- restorative theory - allows the body to recharge and recover, redirect energy to restoration
+- brain plasticity theory - allows the brian to change and reorganize itself
+- evolutionary theory (memory) - consolidating our memories and resting our eyes, our senses are still active while we are asleep
+
+## how does sleep work?
+- two stages of sleep, REM and non REM
+1. awake
+2. stage 1
+    - light sleep
+    - muscle activity slows
+    - occasional muscle twitching
+3. stage 2
+    - breathing pattern and heart rate slow
+    - slight decrease in body tempurature
+4. stages 3 and 4
+    - deep sleep
+    - rhythmic breathing
+    - limited muscle activity
+    - slow brain waves
+5. REM
+    - rapid eye movement
+    - brain waves speed up and dreaming occurs
+    - muscles relax and heart rate increases
+    - breathing is rapid and shallow
+    - sleep paralasys
+    - thought to play an important role in memory
+
+- monophasic sleep: restricted to one period, generally at night
+- biphasic: overnight plus an afternoon nap, common in places that are hot, spanish speaking
+- polyphasic: several small bursts of sleep througout the day
+
+- age
+    - newborns sleep around 16 hours a day
+    - 5 years old sleep around 12 hours
+    - teens 9 or 10 hours
+
+
+# chapter 5 - memory
+
+## the information processing model
+- encoding (information is converted for storage)
+- storage (information is retained in memory)
+- reteieval (information is retrieved from memory)
