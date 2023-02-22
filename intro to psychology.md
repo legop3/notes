@@ -241,3 +241,32 @@ triceratops
 - encoding (information is converted for storage)
 - storage (information is retained in memory)
 - reteieval (information is retrieved from memory)
+
+# what is learning?
+
+learning is an almost permanent change in behavior from experiences in life
+it is the nurture part of nature/nurture
+almost all things are learned from experience
+
+placebo effect
+a fake pill or a fake drink
+
+# reinforcement
+operant condidionting - if/then statements
+"if i ring the bell, i will get food"
+
+
+
+
+
+positive reinforcement: the frequency of a behavior increases because it is followed by presentation of something the person wants
+negative reinforcement: the frequency of behavior increases because it is followed by the removal of something the person does not want
+
+reinforcement *increases* behavior.
+
+
+positive punishment: punishment is added, adds something the person doesnt want
+negative punishment: takes away something the person does want
+
+punishment *decreases* behavior
+
