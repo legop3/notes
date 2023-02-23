@@ -251,7 +251,7 @@ almost all things are learned from experience
 placebo effect
 a fake pill or a fake drink
 
-# reinforcement
+## reinforcement
 operant condidionting - if/then statements
 "if i ring the bell, i will get food"
 
@@ -270,3 +270,4 @@ negative punishment: takes away something the person does want
 
 punishment *decreases* behavior
 
+mirror nuerons: empathic nuerons
