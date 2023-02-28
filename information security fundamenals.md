@@ -172,3 +172,94 @@ the what the when the who the whow the wyh the who the how thw whwn
 # wa
 
 
+# chapter 10
+fog and edge computing: 
+edge computing:
+- on the consumer side
+
+fog computing:
+- decentralized
+- focusing on scalability and performance
+- mesh stuff?
+
+# chapter 12
+- authentication methods
+    - CIA: Confidentiality, intrgrity, and avalability
+        - confidentiality: only people with authorization can access the data
+        - integrity: verification of information (hashes probably)
+        - availability: making sure access to the data is possible
+    - authentication is NOT authorization
+    - authentication *is* verifying the user's identity
+    - authoriation verifies that the user has the correct permissions for the action
+
+    - token
+        - physical: an actual physical device
+        - web tokens: digital process
+    - two-step:
+        1. user presents cridentials
+        2. user recieves an encrypted token for a fixed period of time (one time token)
+- biometrics
+    - distinctive, measurable body measurments and calculations related to human characteristics
+    - fingerprints
+    - retinal scan
+    - iris recognition
+    - facial recognition
+    - voice and speech recognition
+    - vein authentication
+    - gait analysis
+    
+- efficacy rates
+    - bring the CER to the center
+    - balance the false rejection vs false acceptance rates
+    - FAR: false acceptcance rate
+    - FRR: false rejection rate
+    
+- MFA (multi factor authentication)
+
+- cloud based authentication
+    - uses cloud services to authenticate using OAuth2 APIs
+    - deployment, cost, control, security, compliance
+
+# chapter 13
+reduncany, backups, (non)persistance, on premises vs cloud, recovery
+geographic dispersal of data assets
+
+- disk redundancy:
+    - raid 0 is only striping, high risk, high speed, lose one lose everything
+    - raid 1 is exact copies, lower speed, high resilliancy, lose any disk and rebuild
+    - raid 5 is striping and parity, more expensive, recoverable, lose one disk and rebuild
+    - raid 6 is striping with dual parity, lose 2 disks and still rebuild
+    - raid 10 is mirroring a striped set of disks, like a grid of raid 0 and 1
+
+- network resilliancy
+    - redundant switches and routers, IAAS
+    - network interface teaming
+        - grouping NICs so that each system can use any 
+        - software NIC teaming is very inefficient
+    - UPS
+        - might automatically tell the server to shut down
+    - generators
+        - 800 to 500,000 watts
+        - need sufficient platform, fuel supply, and power transfer equipment
+- replication
+    - duplicating virtual machines or containers
+    - Host Bus Adapters (HBAs)
+        - provide two paths to network storage
+    - full backups, differential backups, incrimental backups
+- non-persistance
+    - data that is gone once you turn the system off
+    - like stuf in RAM
+    - revert to known sate, automatically reset to a known working state
+    - last known good configuration, reset to a state where the computer worked correctly
+- order to restore
+    - connectivity
+    - authentication
+    - phone systems
+    - CRM/SAP/HRM, people management stuff.
+- diversity
+    - redundancy
+    - but with multiple ways to do things
+    - failsafes on elevators and machines
+
+#  chapter 14
+SOC, RTOS, drones...

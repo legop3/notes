@@ -90,9 +90,10 @@ MAC address means physical
 - OSI (open systems interconnection) reference model: a seven layer model developed to categorize the layers of communication
     1. physical
         - hub
-        - data unit is a bit
         - simplest layer
         - transmitted as RF, copper, or light
+        - data unit is a bit
+
     2. data link
         - switches are ALWAYS layer 2 on a test
         - nic and switch, ARP, and cabling
@@ -100,33 +101,38 @@ MAC address means physical
         - protocols at this layer are programmed into the NIC's firmware
         - ethernet and wifi are examples
         - puts control information in a link layer header and at the end of the packet in a trailer
-        - data unit is a frame
         - MAC address (media access control) - hardware address of the source and destination NICs
+        - data unit is a frame
+
     3. network
         - router
         - moves messages from one node to another
         - identifies each host
         - finds the best route to take
-        - data unit is a packet
         - IP
+        - data unit is a packet
+
     4. transport
         - transporting application layer payloads from one application to another
         - encapsulation: adding a header to data from the above layer
         - if message too large TCP devides it, called a segment
         - data unit is a segment in TCP or a datagram in UDP
+
     5. session
         - data unit is a payload
+
     6. presentation
         - responsible for reformatting, compressing, encrypting, and decrypting data
         - graphics are also in the presentation layer
         - data unit is a payload
+
     7. application
         - describes the interface between applications on seperate computers
             - SMTP
             - FTP
             - SNMP
             - payload: the data that is passed between applications and the OS
-            - data unit is a payload
+        - data unit is a payload
 
 
 # 
@@ -150,7 +156,7 @@ classes of ip address
 
 class A: 1.x.y.z to 126.x.y.z           126 networks        16,777,214 addresses per network
 class B: 128.0.x.y                      16,000 networks     65,000 addresses per network
-class C: 192.0.0.x to 223.255.255.x     2 million networks  254 devices per network
+class C: 192.0.0.x to 223.255.255.x     2 million networks  254 addresses per network
 
 127.0.0.1 is loopback
 
@@ -177,3 +183,26 @@ structured cabling and networking elements
 - full duplex: signals can travel both directions over a medium simultaneously
 - half duplex: signals can travel in both directions but only in one direction at a time
 - simplex: signals can only travel in one direction
+
+- 4 properties of an analog signal
+    - amplitude: measure of strength at any given point
+    - frequency: number of times amplitude cycles over time
+    - wavelength: distance between one peak and the next
+    - phase: progress of wave over time compared to a fixed point
+
+- throughput: the amount of data transmitted during a given time period (called payload rate or effective data rate), the current transfer rate
+- bandwidth: difference between the highest and lowest frequencies, static
+
+STP and UTP can transmit at the same rate
+
+EMI: electromagnetic interference, also RFI: radio frequency interference
+crosstalk: noise generated across twisted pair wiring
+- alien crosstalk: occurs between two cables
+- near cross talk: occurs near source
+- far end crosstalk: occurs at the far end
+
+scatter, refraction, reflection are issues in wifi
+
+mac address is 48 bits
+
+MAC sublayer and link control in 802.11

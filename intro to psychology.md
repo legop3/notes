@@ -242,6 +242,14 @@ triceratops
 - storage (information is retained in memory)
 - reteieval (information is retrieved from memory)
 
+
+
+
+
+
+
+
+
 # what is learning?
 
 learning is an almost permanent change in behavior from experiences in life
@@ -254,6 +262,43 @@ a fake pill or a fake drink
 ## reinforcement
 operant condidionting - if/then statements
 "if i ring the bell, i will get food"
+working memory is a part of short term memory
+
+semantic memory: trivia and facts
+episodic memory: remembers episodes that have played out in your own life
+
+
+note card for midterm: both sides of the note card, 3 inch by 5 inch
+
+# cognition
+
+"my cat ate my sandiwch"
+- cat
+- sandwich
+- eating
+
+
+### problem solving vs decision making
+- problem solving:
+    - find a way to achieve a goal
+    - make an answer from scratch
+    - urgent most of the time
+    - the right answer is needed
+    - problems:
+        - we are not machines
+        - confirmation bias
+            - we look for things that we already know
+            - ignore everything else
+        - framing
+            - how is the question asked
+            - challenge versus threat
+        - affective forecasting
+            - affect: how you feel about something
+- decision making:
+    - choosing between options that are already there
+    - answers are already made for you
+    - trying to choose the best answer
+    
 
 
 
@@ -271,3 +316,122 @@ negative punishment: takes away something the person does want
 punishment *decreases* behavior
 
 mirror nuerons: empathic nuerons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+hi izaak!!!
+HI ROSSSSSSS
+!!!!!HIROSS HI ROSS HIROSS HI ROSs
+lintery
+
+this is going on my github portfolio
+
+i love lean
+yes i do
+nananananananana
+NI NAY NUUUUU
+
