@@ -263,3 +263,6 @@ geographic dispersal of data assets
 
 #  chapter 14
 SOC, RTOS, drones...
+
+
+# physical access
