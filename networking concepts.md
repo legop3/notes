@@ -206,3 +206,13 @@ scatter, refraction, reflection are issues in wifi
 mac address is 48 bits
 
 MAC sublayer and link control in 802.11
+
+"a lot of people weren't really smart back in the day"
+
+AAA: authentication, authorization, accounting
+
+MFA factors:
+- knowledge: something you know
+- possession: something you have
+- inherence: something you are
+  

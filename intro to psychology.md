@@ -317,11 +317,43 @@ punishment *decreases* behavior
 
 mirror nuerons: empathic nuerons
 
+ya gotta eat to live
 
 
 
+- instinct theory
+  - motivation is driven by instinct, comes from our past
+- drive reduction theory
+  - drives are aroused states that come from a physiological need
+  - when a drive becomes stronger we are inclined to reduce it
+  - body wants to remain in homeostasis, perfect balance
+  - doesn't explain doing things out of curiosity
+- arousal theory
+  - we want to remain at optimal level of arousal
 
+- self determination theory
+  - strongest and healthiest motivations are ones that come from within yourself
+- regulatory focus theory
+  - promotion motivation
+  - prevention motivation
+    - goal: achieve regulatory fit
+- achievement goal theory
+  - mastery goals produce better outcomes than performance goals
 
+## *eating*
+
+- all organisms share the motivation to eat
+- americans tend to eat too much
+- BMI
+  - weight in KG / height in meters^2
+
+- hunger hormones
+  - leptin - signals that we are full
+  - ghrelin - signals feeling of hunger
+- set point - a weight a person maintains when there is no effort to gain or lose weight
+  - environment matters
+  - genetics matters
+- 
 
 
 
