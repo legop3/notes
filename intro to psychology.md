@@ -353,12 +353,78 @@ ya gotta eat to live
 - set point - a weight a person maintains when there is no effort to gain or lose weight
   - environment matters
   - genetics matters
-- 
+
+
+# emotion
+- feelings causing changes to the body
+- james-lange
+  - bodily reactions happen first, then we interperet the emotion
+- cannon-bard
+  - we simultaneously react physically and interperet the emotion at the same time
+- schatcter-singer (two-factor theory)
+  - the sensation is devided into two
+  - how you label the bodily reaction determines the emtotion you feel
+- cognitive appraisal
+  - thought about stimulus determines feeling
+- ## all of these have valdity in certain situations
+- facial feedback theory
+  - facial expressions can cause emotions
+  - also tested with bodily postures
+- when you are experiencing emotions you are also communicating them
+- emotions are contagious - empathy
+- facial expressions are universal across culture
+## maximizing positive emotion can contribute to your wellbeing
+- happy people live longer
+- broaden and build theory
+  - once we are safe and happy we can focus on other things
+  - like interactions with others
+  - and problem solving abilities
+  - coping skills
+  - make better decisions
+  - undo lingering negative emotions
+- how can i maximize my positive emotion>
+  - acts of kindness
+  - gratitude
+  - count your blessings
+  - visualize a bright future
+- can money make us happy?
+  - past having enough to meet basic needs, no.
+- ## hedonic treadmill
+- as you get used to the luxurious things you get, they dont effect you anymore
+- wealth may make us meaner
+- ## emotion and diversity
+- emtion increases with old age
+- older adults are less reactive
+- individualistic cultures see happiness as a goal
+- collectivist cultures consider how personal happiness will effec the group's harmony
 
 
 
-
-
+# chapter 9: development across the lifespan
+- developmental psychology
+  - study of changes to body, mind, and interpersonal interaction across the life span
+  - traditionally, the focus has been on childhood
+  - rise and decline
+- cross-sectional studies
+  - people of different developmental levels are assessed at the same time and compared
+  - easy, cheap, quick, only measure once
+  - cohort effect
+- longitudinal studies
+  - the same people are measured several times over a long period of time to compare changes
+  - no cohort effect
+  - time consuming, expensive, people drop out, you have to maintain incentive. 
+- ## big questions about developmental psychology
+  - stability versus change
+  - stage development versus continuous development
+  - nature versus nurture (as always)
+- ## development before birth
+- conception
+- parental development
+  - embryonic stage (embryo)
+  - fetal stage (fetus)
+- teratogens
+  - any agent (chemical, or medications) that causes birth defects
+  - 
 
 
 
