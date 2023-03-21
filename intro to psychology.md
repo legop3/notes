@@ -424,31 +424,74 @@ ya gotta eat to live
   - fetal stage (fetus)
 - teratogens
   - any agent (chemical, or medications) that causes birth defects
-  - 
+
+
+- theory of the mind
+  - a person's understanding that their thoughts and experinces are different than others
+- correlation does not imply causation
+- parenting styles
+  - authoritarian parenting style
+    - a strict style of parenting, the parent firmly limits and controls the child
+    - correlated with a child's lack of initative, poor communication skills
+  - permissive parenting
+    - places little limits on a child's behavior
+    - correlated with lack of respect, poor self control
+  - authoritative parenting
+    - encourages the child to be more independent, but still places limits
+    - more collaborative
+    - talking to the child, they are part of the rules-making
+
+- temperament
+- parenting is a relationship, you cant netglect the child's behavior
+
+
+- ## friend relationships
+- they matter!
+- same sex friendships are the norm across cultures
 
 
 
+- ## middle adulthood
+- "sandwich years"
+  - taking care of your children and parents at the same time
+- empty nest syndrome
+  - kind of a myth
+  - when the kids move out
+
+- ## older adulthood
+- ego integrity versus despair
+- life review
+  - making sure you had a good life
+- developing wisdom
+- retirement
+  - can be positive and stressful
+
+- ## stages of coping with death
+  - denial - this is not happening
+  - anger - "it's not fair"
+  - bargaining - bargaining with god, doctors
+  - depresison - realizing you will die
+  - acceptance - coming to terms with reality of death
+- not in any particular order
 
 
+# diversity, multiculturalism, gender and sexuality
 
+## diversity surrounds you
+- lived experiences
+  - we assign ourselves and others to a group based on our identities
+- intersectionality
+  - each person lives at an intersection of their own factors of diversity
+- controversial
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## multiculturalism
+- in the 60s and 70s attention shifted to diversities, race and ethnicity
+- explosion of interest in 90s/2000s
+- 
+## cultural intelligence
+- the ability to live and interact effectively in a multicultural society
+  - requires cultural knowledge
+- correlates with many positive outcomes
 
 
 

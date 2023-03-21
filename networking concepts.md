@@ -154,9 +154,9 @@ MAC addresses
 
 classes of ip address
 
-class A: 1.x.y.z to 126.x.y.z           126 networks        16,777,214 addresses per network
-class B: 128.0.x.y                      16,000 networks     65,000 addresses per network
-class C: 192.0.0.x to 223.255.255.x     2,097,152           254 addresses per network
+class A: 1.x.y.z to 126.x.y.z           126 networks         16,777,214 addresses per network
+class B: 128.0.x.y                      16,000 networks      65,000 addresses per network
+class C: 192.0.0.x to 223.255.255.x     2,097,152 networks   254 addresses per network
 
 127.0.0.1 is loopback
 
@@ -215,4 +215,4 @@ MFA factors:
 - knowledge: something you know
 - possession: something you have
 - inherence: something you are
-  
+- 
