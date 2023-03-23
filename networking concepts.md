@@ -216,3 +216,17 @@ MFA factors:
 - possession: something you have
 - inherence: something you are
 - 
+
+# chapter 10: networking segmentation and virtualization
+- supernetting??????
+## segmentation
+- dividing a network into multiple smaller networks
+- traffic on one network is seperated from another network's traffic
+- each network is.. 
+- all classes can be subnetted
+- https://subnetting.net for practice
+
+## supernetting
+- combine contiguous networks that use the same CIDR block into one supernet
+- also calld classless routing
+- 
