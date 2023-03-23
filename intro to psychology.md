@@ -493,6 +493,19 @@ ya gotta eat to live
   - requires cultural knowledge
 - correlates with many positive outcomes
 
+## microagressions
+- everyday actions or comments
+- unintentional
+- hostile
+- small action
+- death by a thousand cuts
+  
+## gender
+- psychological and behavioral experience of femaleness or maleness
+- the first thing we notice about people
+- deeply embedded in language
+- sex: biological maleness or femaleness
+- 
 
 
 
@@ -550,7 +563,7 @@ ya gotta eat to live
 
 
 
-
+ 
 
 
 
