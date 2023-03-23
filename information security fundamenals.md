@@ -266,3 +266,27 @@ SOC, RTOS, drones...
 
 
 # physical access
+
+# chapter 20: installing and configuring wireless security settings
+## crypeographic protocols
+- WPA2 (wifi protected access 2), or WPA3
+  - 128 bit key, 48 bit initialization vector
+  - includes support for counter-mode/CBC-MAC protocol (CCMP)
+    - MAC is a hash that authenticates the whole process
+  - includes AES-based symmetric encryption
+  - can be used in PSK (pre shared key) mode, but you shouldn't
+  - can also be used in enterprise mode with an authentication server like RADIUS
+  - introduced in 2004
+- CBC-MAC
+  - CCMP, 128 bit keys
+- WPA3
+  - introduced in 2018
+  - 192 bit minumum protocol strength
+  - 256 bit galois
+  - 384 bit hashed message authentication code
+  - elliptic curve digital signature algorithm is supported
+- simultaneous authentication of equals
+  - 4 way handshake
+  - perfect forward secrecy, each communication creates a new key
+
+# 
