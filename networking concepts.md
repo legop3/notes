@@ -229,4 +229,16 @@ MFA factors:
 ## supernetting
 - combine contiguous networks that use the same CIDR block into one supernet
 - also calld classless routing
+
+network bits are the ones at the beginning, host bits are the zeroes at the end.
+
+# windows server :)
+- Domain Name System
+- Dynamic Host Configuration Protocol
+- Cloud omputing
+  - a collection of technology
+- FAT - file allocation table (32: 32 gigabytes)
+- NTFS - new technology file system
+- ## Active Directory
+  - the doundation of a windows netowkr environment. enables administrators to create and manage users and groups, set network-wide user and computer policies
 - 
