@@ -289,4 +289,18 @@ SOC, RTOS, drones...
   - 4 way handshake
   - perfect forward secrecy, each communication creates a new key
 
-# 
+# chapter 23: implimenting identity and account management controls
+- federation
+  - principal - the end user themselves, the person who is asking to be authenticated
+  - service provider (SP) - the service that the user is logging into, like spotify, google
+  - identity provider (idP) - 
+    - SAML
+    - OAuth2
+    - OpenID connect
+  - assertion - information produced by the authentication authority to allow the user to do things
+  - type 1 error: False Rejection Rate: FRR
+  - type 2 error: False Acceptance Rate: FAR
+  - crossover rate: equal FRR or FAR indicates quality
+  - privilage creep: you may begin to do things that you really aren't supposed to do
+
+# chapter 24: implementing authentication management protocols
