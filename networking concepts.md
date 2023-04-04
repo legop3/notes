@@ -243,3 +243,8 @@ network bits are the ones at the beginning, host bits are the zeroes at the end.
   - the doundation of a windows netowkr environment. enables administrators to create and manage users and groups, set network-wide user and computer policies
 - resillient file system
   - a file system that is compatible with NTFS but does not have compression, disk quotas
+  
+
+# final exam study:
+cengage 2-1j: expanding your network
+cengage 2-2j: when not to use server core (minimal server without GUI)
