@@ -505,12 +505,146 @@ ya gotta eat to live
 - the first thing we notice about people
 - deeply embedded in language
 - sex: biological maleness or femaleness
-- 
 
 
-
-
-
+## stress
+- physiological stress
+  - stress that happens to your body
+  - injury, illness
+- psychological stress
+  - things that happen to your mind
+- socio-cultural stress
+  - stress that effects the groups that we might belong to
+  - racism, etc
+- fight or flight
+  - automatic emotional and physical reaction to precieved threat
+    - either face it head on and fight it
+    - or run away from it as fast as possibel
+- hassles
+  - common annoying crap
+- what does stress do to your body?
+  - damages your health directly
+    - stress hormones
+  - reactions can damage our body directly
+    - drinking
+    - losing sleep
+- hans selye's three stage model
+- alarm stage
+  - oh my god i have to deal with everything all at once  
+- temporary state of shock stage
+  - resistance to illness and stress falls below normal
+  - body produces stress hormones to protect our body
+- if the stress persists:
+- exhaustion stage
+  - immune system bottoms out
+  - physical health is compromised
+  - cant eat, losing weight, cant sleep
+- psychoneuroimmunoligy
+  - the study of how stress hormones interfere with or immune system
+  - psychophysiological illnesses
+    - coronary heart disease
+    - wounds and healing rates
+- stress and personality types
+  - type A personality
+    - excessively competitive, hostile, impatient
+    - high risk for heart disease
+  - type B personality
+    - more relaxed, easy going, noncompetitive
+    - low risk for stress related illnesses
+  - type C personality
+    - hold in their emotions
+    - higher risk for certain types of cancers
+  - type D behavior
+    - people who are generally distressed. negative emotions
+    - higher risk of heart disease
+- trait theory
+- our personality can be described by our traits
+  - neuroticism
+    - leads to poor health
+  - extraversion
+    - leads to good health, mostly
+  - openness to experience
+    - positive correlation to lower stress, better health
+  - conscientiousness
+    - the most important of the five traits
+  - agreeableness
+    - weak correlation to lower stress, better health
+- stress-related psychological disorders
+- PTSD
+  - lasting at least a month
+  - avoiding reminders of the event that happened
+  - frequently recalling or reliving an event
+- acute stress disorder
+  - similar to PTSD
+  - like pre-PTSD
+- adjustment disorder
+  - no actual trauma
+  - exxageratied distruped reaction to every day distressors
+  - like moving houses
+- posttraumatic growth
+- men and women experience stress differently
+  - women:
+    - more caregiving stressors
+    - illness of a close friend or relative
+  - men:
+    - changes with work and money
+    - more stress at beginnings and ends of relationships
+- stress and ethnicity
+  - minority and immigrant groups:
+    - poverty
+    - language barriers
+    - limited education
+    - racism
+    - unemployment
+- culture and coping
+  - coping
+    - using efforts to manage the experience of stress
+  - collectivist cultures  change things within themselves to cope better
+  - individualist cultures change things outside themselves to cope better
+    - rely much more on social support
+    - directly asking friends and family
+  - universal
+    - women cope py tending and befriending
+    - men tend to cope by fight or flight, fix it or miss it
+  - problem focused coping
+    - emphasizes changing the stressor itself
+    - works with controllable stressors
+  - emotion focused coping
+    - changing the reaction to the stressor
+  - mindfulness
+    - increased awareness and acceptance of what is going on with you right now
+    - as mindfulness increases, stress decreases
+  - social relationships are the strongest teller of physical health
+  - social support
+    - instrumental assistance
+      - friends and family can provide goods and resources in a time of need
+    - emotional
+      - the person can reassure the stressed person that they are valued and loved
+      - knowing that other people care helps a ton
+    - informational
+  - 
+# chapter personality
+- psychodynamic theory
+  - psychic determinism
+    - all thoughts and behaviors are determined by psychological influences
+      - even if they seem accidental
+  - freudian slips
+    - things you say or do that you don't mean
+      - but you actually do mean it subconciously
+  - the id
+    - animalistic part of the mind that generates primal impulses
+    - completely unconsious
+  - the ego
+    - realistic mediator between the id and the superego
+    - half consious
+  - the superego
+    - opposes the id by enforcing rules, restrictions, and morality
+    - mostly unconsious
+  - defense mechanisms
+- humanistic theory
+- behavioral and social cognitive theories
+- trait theories
+- personality assessment
 
 
 
@@ -583,9 +717,3 @@ HI ROSSSSSSS
 lintery
 
 this is going on my github portfolio
-
-i love lean
-yes i do
-nananananananana
-NI NAY NUUUUU
-
