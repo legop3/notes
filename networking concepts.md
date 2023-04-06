@@ -248,3 +248,12 @@ network bits are the ones at the beginning, host bits are the zeroes at the end.
 # final exam study:
 cengage 2-1j: expanding your network
 cengage 2-2j: when not to use server core (minimal server without GUI)
+
+report:
+intro: state your problem
+main topic: solve your problem
+conclusion: mitigate the problem
+
+quiz:
+network+ 7,8,10
+windows server chapter 1
