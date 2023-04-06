@@ -304,3 +304,32 @@ SOC, RTOS, drones...
   - privilage creep: you may begin to do things that you really aren't supposed to do
 
 # chapter 24: implementing authentication management protocols
+
+# chapter 25: implementing public key infrastructure
+- PKI is the systems of people, hardware, software, and policies.
+  - creates asymmettic key pairs
+- a certificate authority
+  - the entity that issues certificates to users
+  - most PKI systems use a CA
+  - browser shows various indicators when the website is secure
+    - a padlock in the locked position is shown when secure
+    - the lock shows certificate information when clicked
+- types of certificates
+- certificate formats
+- PKI is meant to develop a trust model
+  - decentralized
+  - peer to peer
+- certificate pinning
+  - checks the hashed public key in the server's certificate against a public key used for the server's name
+- stapling
+  - allows the presenter of the certificate to bear the cost involved when providing OCSP responses
+- key escrow: a copy of the user's private key is stored
+  - prevents unacceptable data loss
+  - allows the government to access your encrypted data
+- key recovery agent
+  - lost or corrupted keys can be restored
+- if a root CA is compromised, all of it's certs are compromised
+  - add a layer of security by setting up a root CA that is offline unless needed
+
+# chapter 26; "reading the dictionary"
+- 
