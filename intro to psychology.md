@@ -645,19 +645,77 @@ ya gotta eat to live
 - behavioral and social cognitive theories
 - trait theories
 - personality assessment
-- 
 
-
-
-
-
-
-
-
-
-
-
-
+# social psychology
+- the study of how people relate to other people
+- social cognition
+  - attributions
+    - an explanation for the cause of a behavior
+    - the person who produces the behavior
+      - the actor
+    - the person who offers an explanation
+      - the observer
+- fundamental attribution error
+  - example: driving behavior
+  - self serving bias
+    - attributing our success to internal factors
+    - attributing our failures to external factors
+- attitude
+  - a viewpoint influinced by both thoughts and emotions
+  - affects a person's responses towards things or people
+  - basically they aer our thoughts and opinions
+  - strong attitudes will effect your resonses
+  - convenient attitudes will also effect responses
+  - explicit and implicit attitudes
+    - we know we have them
+    - explicit attitudes
+    - orbital frontal cortex
+  - implicit attitudes
+    - automatic, involuntary
+    - in the amygdala
+    - we dont know we have these
+  - implicit an implicit attitudes can differ
+    - one example is race
+      - automatic bias towards people that are more like us
+  - attitude persuasion strategies
+    - central route persuasion
+      - emphasizes the message's content
+      - a deep actual discussion
+      - most effective way
+      - also the hardest way
+    - peripheral realm of persuasuion
+      - relies more on the person doing the convincing
+      - "he has a phD! you can trust him!"
+    - foot in the door
+      - make a small request first then a big request
+    - door in the face technique
+      - ask a big request than a smaller one
+      - smaller request now sounds more reasonable
+    - low balling
+      - getting someone to agree then adding fees to the cost
+- social role
+  - a title, position, or status that carries expectations for acceptable behavior
+  - stanford prison experiment
+    - examined the effects of social roles
+- cognitive dissonance
+  - festinger and carlsmith (1959)
+  - how do you resolve discomfort?
+    - change attitude A
+    - change attitude B
+    - create a third attitude
+    - change your behavior
+  - self perception theory
+    - we make inferences abour our attitudes by observing our behaviors
+  - asch studies and conformity
+- group inclusion
+  - an innate need to be in a group
+- normative conformity
+  - stems from wanting to be liked
+- obedience
+  - people change behavior to comply with demands of an authority figure
+- deindividuation
+  - a loss of personal identity
+  - military, gangs, hate groups
 
 
 
