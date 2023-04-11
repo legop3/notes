@@ -333,3 +333,24 @@ SOC, RTOS, drones...
 
 # chapter 26; "reading the dictionary"
 - 
+# chapter 27: summarizing the importance of policies processes and procedures for incident response.
+- incident response plan: a set of instructions to recover from a cybersecurity incident
+- the plan ensures that the right people are in place to deal with a threat
+- failure to implement a plan can have legal repercussions
+- the computer security incident response team (CSIRT) must have skills to deal with the situation
+- develop playbooks: provide guidance to the SOC when triaging an incident
+- playbooks and procedures should be tested with the teams that will use them
+- tabletop exercise
+  - the group thinking through what would happen, who would do what
+  - missing the realism and stress of actually doing it
+- runbooks: an automated response that are based on what's happening
+- IRP based on PIR
+
+# chapter 28
+- run vulnerability scans often
+  - it only takes one exploitable vulnerability
+  - programmers are people and people make mistakes
+- SIEM dashboard
+  - sends alerts
+- SIP: voip signaling protocol
+- 
