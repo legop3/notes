@@ -243,7 +243,26 @@ network bits are the ones at the beginning, host bits are the zeroes at the end.
   - the doundation of a windows netowkr environment. enables administrators to create and manage users and groups, set network-wide user and computer policies
 - resillient file system
   - a file system that is compatible with NTFS but does not have compression, disk quotas
+- ## file and sharing print functions
+  - share permissions
+  - different than NTFS permissions
+  - read
+    - view files, copy files, view attributes of file
+  - change
+    - all permissions of read, plus changing files and folders, change contents, and delete files and folders
+  - full control
+    - all permissions of change, plus being allowed to change the permissions, change owners of files and folders
+- ## NTFS permissions
+  - read - can read files and attributes. can't run executables
+  - read and execute - same as read, can run executables
+  - list folder contents - 
+  - write
+  - modify - everything but full control
+  - full control - everything, including changing permissions and taking ownership
   
+  
+
+
 
 # final exam study:
 cengage 2-1j: expanding your network

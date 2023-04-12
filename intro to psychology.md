@@ -717,6 +717,29 @@ ya gotta eat to live
   - a loss of personal identity
   - military, gangs, hate groups
 
+# group decision making
+- group polarization
+  - a groups attitude becomes more extreme as a result of group discussions
+  - POLITICS ON soCIAL MEDIA!!
+- impression formation
+  - first impressions
+    - happens within seconds
+- prejudice
+  - an often negative attitude toward a social group before you get to know them
+- discrimination
+  - unjustufied
+  - negative
+  - harmful
+  - action towards a person in a group
+  - just because of their belonging in a group
+  - blatant discrimination
+- how do people become prejudiced?
+  - humans think categorically
+    - put stuff in boxes to make it easier to think about
+  - ingroup favorism
+  - outgroup homogenenity
+  - smoke detector principle
+    - 
 
 
 
