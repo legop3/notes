@@ -739,7 +739,26 @@ ya gotta eat to live
   - ingroup favorism
   - outgroup homogenenity
   - smoke detector principle
-    - 
+    - better to have a false alarm than to risk a catastrophe
+    - better safe than sorry
+    - evolutionary adaptation
+    - flash judgements
+  - social comparison
+    - comparing yourself to others
+    - we need to see ourselves as good people
+    - we use other people to make ourselves feel better
+- we rationalize prejudice
+- fighting prejudice
+  - intergroup contact
+  - common group identity
+  - education
+  - jigsaw classroom
+    - assignments requiring group interaction
+- robber's cave experiment
+  - a bunch of white christian kids
+  - reduce prejudice by having opposing groups work together towards a common goal
+- does a person "deserve" the help?
+- 
 
 
 
