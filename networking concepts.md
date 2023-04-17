@@ -252,6 +252,7 @@ network bits are the ones at the beginning, host bits are the zeroes at the end.
     - all permissions of read, plus changing files and folders, change contents, and delete files and folders
   - full control
     - all permissions of change, plus being allowed to change the permissions, change owners of files and folders
+  - 
 - ## NTFS permissions
   - read - can read files and attributes. can't run executables
   - read and execute - same as read, can run executables

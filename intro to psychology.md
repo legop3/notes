@@ -758,7 +758,105 @@ ya gotta eat to live
   - a bunch of white christian kids
   - reduce prejudice by having opposing groups work together towards a common goal
 - does a person "deserve" the help?
-- 
+# psychological disorders
+- what is abnormal?
+  - deviates from social norms
+    - social norms can change as society changes
+    - they are different across societys
+  - statistically abnormal
+  - personal distress
+    - a large decider of whether or not is is a disorder
+  - impairment in daily functioning
+    - example: robin williams and high functioning depression
+- what causes abnormality
+  - way way back psychological disorders were blamed on spirits, demons, or sin
+  - biological theory of abnormality
+  - psychological theory
+  - sociocultural theory
+    - the way the person lives causes disorders
+  - biopsychosocial theory
+    - a mix of all three factors
+    - no one factor is more important
+    - most accepted theory by modern psychology
+
+- DSM
+  - first edition published in 1952
+  - currently DSM-5
+    - published in 2013
+    - first revision in 20 years
+  - new disorders
+    - premenstural dysphoric disorder
+  - criticisms of the dsm
+    - labelling common experiences as abnormal
+    - categorical model, yes or no answer
+      - no in between
+- generalized anxiety disorder
+  - characterized by anxiety
+    - worry
+  - physical and psychological symptoms
+    - muscle tension
+    - fatigue/sleep issues
+    - restlessness
+- specific phobia
+  - a phobia towards a defineable object
+  - avoidance of the object in any case
+  - common phobia
+    - snakes
+    - lightning
+    - closed spaces
+    - spiders
+  - all things that can hurt you
+- social anxiety disorder
+  - an irrational fear of being scrutinized
+- panic disorder
+  - intense anxiety that comes from an unidentified trigger
+- OCD
+  - strong compulsions fueled by anxiety
+  - checking a lock to make sure you locked the door
+  - washing your hands over and over out of fear of disease
+- collectivist vs individualistic
+  - no difference in anxiety rates
+- depressive disorders
+  - characterized by extreme moods and emotional states that disrupt daily functioning
+- bipolar disorder
+  - alternating between extremely high and low moods
+  - cycles are 6 months to a year
+  - cyclothemic disorder
+    - long term lower intensity version of bipolar disorder
+    - symptoms must be present for 2 years
+- eating disorders
+  - significant disturbances in eating
+  - eating very little to eating too much
+  - obsession with food
+  - anorexia
+    - refusing to eat enough food to maintain healthy weight
+    - weighing less than 85% of normal
+    - intense fear of gaining weight
+    - distorted body image
+  - bulimia nervosa
+    - overeating or binging followed by purging
+    - consistently follows this pattern
+    - dental problems
+    - chronic sore throat
+    - heartburn
+    - usually depressed or anxious
+  - binge eating disorder
+    - binge without the purge
+    - embarassed to eat
+    - binge at least once a week for 3 months
+  - who gets eating disorders and why?
+    - 10x more in females than males
+      - social issue
+    - young women in the US or western valued contries
+    - do not develop in collectivist cultures
+    - start in middle school or high school
+    - media influences
+      - thinness determines beauty
+      - determines worth
+    - possible issues with dopamine reward center
+    - tendancy to perfectionism
+    - impulsiveness, depression, anxiety
+    - 
 
 
 
