@@ -856,7 +856,83 @@ ya gotta eat to live
     - possible issues with dopamine reward center
     - tendancy to perfectionism
     - impulsiveness, depression, anxiety
-    - 
+- schizophrenia
+  - severe psychologial disorder
+  - bizzare disurbances in thinking and perception
+  - unrealistic take on reality
+  - psychosis
+  - positive symptoms
+    - additional symptoms
+    - experiences marked by an excess of normal function
+    - delusions
+    - hallucinations
+    - sensory experiences without stimulus
+  - negative symptoms
+    - behaviors that are lacking, missing
+    - present in people without schizophrenia
+    - flat affect
+      - displaying little or no emotion
+    - lack ability to read emotions of others
+  - cognitive symptoms
+    - disturbed, illogical ways that people think
+    - loose associations 
+    - word salad
+    - neologisms
+  - fairly rare
+    - global
+    - equal rates in men and women
+    - more common in urban areas
+    - appears in adolesence or early adulthood
+  - billogial factors
+    - brain structure
+    - neurotransmitters
+- disorders of childhood
+  - begin during childhod
+  - learning disorders
+  - ADHD
+    - emerges in childhood
+    - symptoms must be present before age 12 
+      - even if diagnosed later
+    - must appear in more than one setting
+    - substance abuse
+      - self medicating
+  - autism spectrum disorder
+    - eye contact
+    - bad at conversation
+    - impaired nonverbal interactions
+    - hyperfocus
+    - stimming
+  - who gets these and why?
+    - 5-7% of children qualify for diagnosis of ADHD
+    - actual diagnosis rates range from 11% to 15%
+    - autism runs in the family
+  - dissociative disorders
+    - where a person feels disconnected form an immediate experience
+    - common with PTSD
+    - dissociative identity disorder
+      - two or more distinct personalities
+      - selves are entirely seperate and alternate
+    - dissociative amnesia
+      - person can't recall information from their past
+    - dissociative fugue
+      - dissociative amnesia accompanied by unplanned travel to a new location
+- borderline personality disorder
+  - ceners on instability
+    - mood
+    - self image
+    - interpersonal relationships
+  - insecure, impulsive, emotional
+  - high likelihood of self harming behavior
+- antisocial personality disorder
+  - disregard, using other people
+  - manipulative
+  - exploitative
+  - no guilt
+  - common diagnosis for serial killers
+- who and why?
+  - borderline more common in females
+  - antisocial more common in males
+  - 
 
 
 
