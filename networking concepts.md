@@ -260,8 +260,40 @@ network bits are the ones at the beginning, host bits are the zeroes at the end.
   - write
   - modify - everything but full control
   - full control - everything, including changing permissions and taking ownership
-  
-  
+- ## chapter 6: directory service
+  - LDAP
+    - lightweight directory access protocol
+    - DAP with tcp/ip
+  - hierarchical organization
+    - makes managament of policies easier
+    - scalability
+    - security
+    - flexibility
+    - policy based administration
+  - logical structure
+    - organizaitonal units
+      - groups of people
+        - students, faculty, administration
+        - contains and groups people, computers, and printers
+    - domains
+      - a campus, an office building
+      - contains the organizational units
+    - trees
+      - a collection of domains
+    - forests
+      - a collection of trees
+  - folder objexts
+    - built in
+      - administrator and guest accounts built in
+      - cant disable the administrator account
+    - computers
+    - foreign security principles
+    - managed service accounts
+    - users
+      - stores two default users, several default groups
+  - domain objects
+    - a leaf object is a user, or a printer
+    - 
 
 
 
