@@ -932,7 +932,122 @@ ya gotta eat to live
 - who and why?
   - borderline more common in females
   - antisocial more common in males
-  - 
+
+# chapter 15 - therapy (the last chapter)
+- back in the good old days
+  - people with disorders were considered posessed
+  - held in dungeons
+  - bloodletting
+  - trefaining(?) - drilling holes in the skull
+- better in the 1700s
+  - more humane
+  - respect instead of punishment
+  - more effective treatments
+  - the beginning of psychotherapy
+  - biomedical therapy
+    - medications and procedures that change the brain
+- psychodynamic therapy
+  - freud crap
+  - psychoanalysis
+    - make the unconscious concious
+  - more focused on the present
+  - free association
+    - say aloud whatever comes to mind
+  - dream analysis
+    - interpretation of a person's dreams
+  - resistance
+    - blocking progress due to anxiety
+  - interperetation
+    - therapist finding hidden meanings
+  - working through
+    - interperetations are given a chance to sink in
+  - psychodynamic therapy today:
+    - short term therapy
+    - four issues that cause relationship problems
+- person-centered therapy
+  - an approach toward healthy growth
+  - bring ideal self and actual self closer together
+  - client determines course of therapy
+  - client decides what to talk about
+  - less structured it seems
+  - depends on the relationship of the client and the therapist
+    - empathy
+    - unconditional positive regard
+      - full acceptance of the client no matter what
+      - helps the client accept themselves
+    - genuineness
+      - truthfulness, realness, honesty
+      - congruence
+  - reflection
+    - therapist restates the clients words emphasizing their feelings
+  - people have the capacity to overcome ourselves
+- behavioral therapy
+  - application of operant and classical conditioning affecting outward behavior
+  - exposure therapy
+    - based on classical conditioning
+    - anxiety treated gradually
+    - forcing client to face their fears
+  - learn how to relax
+    - then, learn to relax in front of the object
+    - fears are learned we can unlearn them
+  - token economy
+    - earning rewards to reinforce target behavior
+  - aversive conditioning
+    - reducing unwanted behavior by pairing it with a bad experience
+    - antibuse
+  - participant modeling
+    - client watches a model perform the intended behavior
+    - clients goal is to repeat the behavior
+- cognitive therapy
+  - helps people connect thoughts and feelings
+  - use thoughts to change feelings
+  - cognitive behavioral therapy
+    - short term and structured
+    - therapist challenges illogical beliefs
+  - ABDCE model
+  - beck's cognitive therapy
+    - cognitive distortions
+      - all-or-nothing thinking
+      - overgeneralizations
+      - catastrophing
+      - mental filtering
+        - client ignores the positive
+        - focuses on the negative
+      - personalization
+        - client takes too much blame for personal events
+  - eclectic approach
+    - therapist picks best therapy for client based on studies from similar clients
+  - integrative approach
+    - therapist blends styles to create a new type of psychotherapy
+  - eclectic approach is like a fruit salad, integrative is like a smoothie
+  - group therapy
+    - therapy conducted with a group of clients
+    - emphasizes personal interactions
+    - similar clients
+    - observe and help others cope
+    - interpersonal skills
+    - practice talking to people
+  - self-help group
+    - voluntary
+    - individuals that talk about similar interests
+    - share strategies for solving problems
+    - AA
+  - family therapy
+    - aim to improve family system functions
+    - group therapy with family members
+    - assumes the family's system is flawed
+- how well does psychotherapy work?
+  - it works well.
+  - dodo bird effect: 
+    - all types of therapy have equal rates of success
+    - not as strong as they thought it was
+      - some therapies just don't work as well
+- common factors in therapy
+  - therapeautic alliance
+    - therapist and client work toward the same goals
+  - positive expectations
+  - attention
+    - focusing on fixing the problem
 
 
 
