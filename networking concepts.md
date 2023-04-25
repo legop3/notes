@@ -293,7 +293,8 @@ network bits are the ones at the beginning, host bits are the zeroes at the end.
       - stores two default users, several default groups
   - domain objects
     - a leaf object is a user, or a printer
-    - 
+- ## chapter 10
+  - 
 
 
 
@@ -309,3 +310,7 @@ conclusion: mitigate the problem
 quiz:
 network+ 7,8,10
 windows server chapter 1
+
+class a: 1-126
+class b: 128-191
+class c: 192-223
