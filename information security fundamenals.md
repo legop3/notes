@@ -353,4 +353,54 @@ SOC, RTOS, drones...
 - SIEM dashboard
   - sends alerts
 - SIP: voip signaling protocol
-- 
+# chapter 32
+- what is purposeful focus?
+- regulations, standards, legislation
+  - what is the target?
+  - laws affect and protect the privacy of individuals
+  - how data is classified
+  - how employees are expected to behave
+  - how to dispose of IT equipment
+  - GDPR - general data protection regulation
+    - EU's law about PII
+- key frameworks - how do we make it happen?
+  - benchmarks and secure configuration guides
+    - instruction manuals for hardware or software
+    - tells what secure configuration looks like
+    - security content automation protocol (SCAP)
+      - standardized solution for security automation
+  - framework standards
+    - employees must abide by them
+    - a single cohesive agenda
+      - cohesive
+  - center for internet security
+  - international organization for standardization
+    - ISO
+  - standards of attestations engagement (SSAE)
+  - cloud security alliance (CSA)
+  - national institute of standards and technology (NIST)
+- policy
+  - how do we get granularity?
+  - HIPAA!
+# chapter 33
+- training techniques
+  - gamification
+  - capture the flag
+  - phishing campaigns
+  - phishing simulations
+  - computer based training
+  - role-based training
+    - different schemes for finance or HR department
+  - all employees should be trained on PII
+- data concepts
+  - sensitive data is sensitive
+  - classified
+  - non-classified
+  - public information
+    - everyone can get it anyway
+  - internal information
+  - confidential information
+  - secret information
+  - top secret information
+    - nation-level information
+  - 
