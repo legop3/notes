@@ -1048,7 +1048,96 @@ ya gotta eat to live
   - positive expectations
   - attention
     - focusing on fixing the problem
+- importance of culture in psychotherapy
+  - cultural competence
+    - therapists ability to work sensiively with clients from diverse backgrounds
+  - cultural self-awareness
+    - the therapists recognition that their perspective is not always shared by others
+  - confidentiality
+    - the therapist maintains the privacy of client information
+  - informed consent
+    - permission given by the client
+    - ongoing process
+  - therapists must stay within the boundaries of their competence
+    - refer the client to a different therapist
+  - multiple relationship
+    - therapist has professional relationship
+    - and a personal relationship
+    - bad idea
+    - should be completely avoided
+  - cybertherapy
+    - therapy over the internet
+      - email
+      - zoom
+    - good for people who cant get in to see a therapist
+    - limitations
+      - risk of imposter therapists
+      - loss of nonverbal cues
+    - virtual reality exposure therapy
+      - face their fears in a video game basically
+  - biomedical therapies
+    - drug therapies
+    - physically altering bodily functions
+    - antipsychotic drugs
+      - deminish agitated behavior
+      - decrease hallucinations
+      - produce better sleep patterns
+      - primarily for schizophrenia
+      - dont work for everyone
+      - can really help if they do
+      - side effecs
+        - tardive dyskinesia
+          - spastic repetitive movements of mouth and extremidies
+        - severe weight gain
+    - antianxiety drugs
+      - benzodiazepines
+      - quick acting
+      - highly physically and psychologically addictive
+    - antidepressant medications
+      - side effects
+        - increased suicidal thinking (what)
+        - some have severe reactions with food and drink and drugs
+      - increase levels of serotonin reuptake
+      - or norepinephrine
+      - is their effectiveness just placebo?
+    - mood-stabilizing drugs
+      - lithium
+      - side effects
+        - sedation
+        - weight gain
+        - extreme thirst
+        - hand tremors
+      - anticonvulsants
+        - ??
+        - seizure medication
+        - actually does help
+    - electroconvulsive therapy
+      - exactly what it sounds like
+      - used for severe depression
+      - current passed through the brain 
+        - with the goal of causing a seizure
+      - patient is sedated and muscle relaxanted
+      - side effects
+        - memory loss
+    - transcranial magnetic stimulation
+      - weak electromagnetic current
+      - from a coil
+      - deep brain stimulation
+        - implanted electrode
+        - stimulates the brain periodically
+      - vagal nerve stimulation
+        - similar thing
+      - avoids side effects id ECT
+    - psychosurgery
+      - last resort
+      - brain surgery
+      - removal or distruction of brain tissue
+      - rare, permenant
+      - lobotomy
+        - disconnects the prefrontal lobe from the rest of the brain
+        - not done anymore
 
+test: chapters 11-15
 
 
 
