@@ -294,8 +294,32 @@ network bits are the ones at the beginning, host bits are the zeroes at the end.
   - domain objects
     - a leaf object is a user, or a printer
 - ## chapter 10
+  - DHCPDISCOVER  
+    - client calls out for all dhcp servers
+  - DHCPOFFER
+    - all dhcp servers yell back
+  - DHCPREQUEST
+    - client chooses the dhcp server
+  - DHCPACK
+    - dhcp server gives the address
+  - address renewal
+  - dhcp scope
+    - a pool of IP addresses
+    - scope name 
+      - a descriptive name for the scope
+    - start and end IP addresses
+    - prefix length or subnet mask
+    - lease duration
+    - exclusion range
+      - a range that cannot be leased
+  - dhcp filters
+    - filters clients based on mac address
+  - PXE boot and dhcp servers
+    - preboot execution environment
+      - network boot
+    - windows deployment services
+- ## chapter 11
   - 
-
 
 
 # final exam study:
