@@ -332,7 +332,7 @@ SOC, RTOS, drones...
   - add a layer of security by setting up a root CA that is offline unless needed
 
 # chapter 26; "reading the dictionary"
-- 
+- no.
 # chapter 27: summarizing the importance of policies processes and procedures for incident response.
 - incident response plan: a set of instructions to recover from a cybersecurity incident
 - the plan ensures that the right people are in place to deal with a threat
@@ -403,4 +403,69 @@ SOC, RTOS, drones...
   - secret information
   - top secret information
     - nation-level information
+# chapter 34 - risk management
+- risk types
+  - malicious attacks
+  - natural threats
+  - manmade threats
+  - vulnerabilities can be exploited
+  - external risk
+    - biggest concern to most organizations
+  - internal risk
+    - stems from those internal to the organization
+  - theft of intillectual property
+    - primary goal of internal and external threat actors
+  - multiparty
+    - external actors working with internal actors
+- manaagement strategies
+  - mitigate the risk 
+    - down to an acceptable level according to the organization
+  - transfer the risk to someone else
+  - avoid the risk by not installing it
+    - lost oppurtunity
+  - accept all or some consequences of a risk
+  - cybersecurity insurance
+  - risk management
+    - information assurance
+- risk analysis
+  - steps
+    - 1: identify organizations assets
+    - 2: identify the vulnerabilities
+    - 3: identify threats and threat likelihood / probability
+    - 4: identify monetary impact
+  - risk matrix / heat map
+  - risk appetite
+    - how much risk are you willing to have?
+  - control risk
+    - the control that you put in place may not work to protect the environment
+  - risk awareness
+    - ability to identify risks before they become threats
+  - qualatative risk assessment
+    - scale of 1-10 or 1-100
+    - likelihood
+    - impact
+    - likelihood * impact = qualatative risk
+  - quantatative risk
+    - single loss expectancy (SLE)
+      - monetary amount
+      - for one loss of a server
+    - annualized loss expectancy (ALE)
+      - how many servers will we lose a year?
+    - annualized rate of occurance (ARO)
+      - ALE * SLE = ARO
+  - disaster analysis
+    - fire
+      - supressants - clean agent fire extinguisher safe for people and equipment
+    - flood
+      - location dependent
+  - MTBF
+    - mean time before failure
+    - average number of failures per million hours of operation
+  - MTTR
+    - mean time to repair
+  - MTTF
+    - mean time to failure
+  - single point of failure
+    - if it fails, the whole thing fails
+    - this is what you should mitigate
   - 

@@ -338,3 +338,8 @@ windows server chapter 1
 class a: 1-126
 class b: 128-191
 class c: 192-223
+
+share permissions:
+read
+change
+full control
