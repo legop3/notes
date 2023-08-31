@@ -77,4 +77,3 @@
           - ordinal
             - based on the definitions of the values, there is a natural order in the dataset.
             - ex: t-shirt size - small, medium, large, XL
-s
