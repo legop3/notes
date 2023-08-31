@@ -1,0 +1,62 @@
+# network security fundamentals
+
+## module 1: introduction to security
+- what is information security?
+  - security is:
+    - to be free from danger, which is the goal of security
+    - the process that achieves that freedom
+  - as security is increased, convenience / avalability is decreased
+    - the more secure something is, the less convenient it may become to use
+  - information security describes the tasks of securing digital information, whether it is
+    - manipulated by a microprocessor
+    - preserved on a storage device
+    - transmitted over a network
+  - three types of information protection (CIA triad)
+    - confidentiality   
+      - only authorized individuals may access the information
+    - integrity
+      - ensures information is correct and unaltered
+    - availability
+      - ensures information is accessible to authorized users
+  - information security layers
+    - policies and procedures
+    - people
+    - products
+    - inner technical circle of informaion
+      - CIA
+      - at rest, processed, stored
+  - who are the threat actors
+    - adversary
+    - attacker
+    - an entity responsible for cyber incidents against others
+  - financial crime is often devided into three categories based on targets
+    - individual users --turned into--> at home workers
+    - enterprises <-------------------------/
+    - governments <------------------------/
+  - three types of hackers
+    - black hat
+      - doing the bad things
+      - script kiddies
+        - dont really know what theyre doing
+        - downloading free automated software and attacking with it
+      - hacktivists
+        - hacking to promote your ideaology
+        - changing contents of a website
+      - state actors
+        - government employed state owned hackers hacking other countries
+      - APT - advanced persistent threat
+      - insiders
+        - employees, contractors, business partners 
+        - harder to recognize
+        - spy
+        - sabotage
+    - white hat
+      - ethical hackers
+      - do hacky things for good
+      - test defenses
+      - pen testing
+      - all legal
+    - gray hat
+      - not always bad, not always good
+      - you can still go to jail
+      - not malicious
