@@ -59,3 +59,50 @@
   - hired in 1425 to create another set
   - used perspective technique with arches that recede backwards, getting smaller and smaller
     - still towards a vanishing point
+
+## color and light
+- reniassance artists usually had a goal to use visually accurate colors comparable to what is seen in real life
+- massacio
+  - linear perspective
+  - atmospheric perspective
+    - using size and color to convey things being farther away
+    - in the case of tribute money, the mountains become less saturated in color as they get farther away
+  - tribute money
+    - tells a story of st. peter
+    - story shows 3 parts all in one perspective
+    - viewers eyes are guided through the story by elements in the painting
+    - massico used a color made from a stone called lapis lazuli
+- gentile da fabriano
+  - shows the effects of light on color
+  - adoration of the magi
+    - shows reflection and refraction within the artwork
+    - painted on top of sort of a wooden canvas
+      - canvas had not really existed yet
+    - lots of gold leaf, greatly increased the cost of the work
+
+## the language of classicism
+- revival of classicism
+- brunelleschi, the old sacrasty
+  - dome set on top of a cube
+- domestic, non religious art
+- donatello, david
+  - bronze
+  - lost wax casting
+    - figure carved out of wax, mould made around figure, bronze poured into mold, wax gets vaporized, out comes bronze copy of wax figure. (i think)
+- zanobi de domenico, nerli cassone
+  - a wooden marriage chest called a cassone
+  - made of carved wood with gold leaf
+  - documentation of it's original ownership still exists, along with its backboard being intact
+- antonio del pollaiuolo, hercules and antaeus
+  - bronze sculpture
+  - 18 inches tall
+  - shows movement in the human body
+  - depicts a wrestling match between antaeus and hercules
+  - sculture is meant to be looked at from multiple vantage points
+    - also meant to be pickec up and looked at
+- sandro botticelli, birth of venus
+  - mythological painting
+  - canvas painting
+  - scene from a poem written by angelo poliziano
+  - shows a nude woman, venus standing on a large shell
+  - venus is the godess of love
