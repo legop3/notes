@@ -1,6 +1,5 @@
 # stat concepts for business
 
-## week 1
 ### variable types
 - categorical (qualitative)
   - nominal
@@ -77,3 +76,52 @@
           - ordinal
             - based on the definitions of the values, there is a natural order in the dataset.
             - ex: t-shirt size - small, medium, large, XL
+- experiments
+  - an experiment has an explanatory veriable that will hopefully show changes in the response variable, which us usually the result. the idea of an experiment is to show there is a positive effect between the two. the explanatory variable is usually the treatment
+  - an experiment must have a treatment
+  - random comparative experiment
+    - the group of subjects will be devided into at least two groups, one group is the control group, which gets the placebo/dummy treatment and is used for comparison to the experimental groups, which are experimented on. you can have more than one experiental group.
+  - treatment
+    - something that is imposed on the group. it is something (for example, a drug, and exercise, etc) that is not part of their normal existence.
+  - blind
+    - an experiment is blind when the subject does not know which group theyre in.
+  - double blind
+    - neither the researcher nor the subject know what group the subject is in
+  - block
+    - first of all, the subject group is seperated into demographic groups
+    - then a random comparative experiment is done in each group
+
+- observational studies
+  - no treatment
+  - the subjects behavior is not changed (there can be an explanatory varibale and a response variable, but nothing is done to change either)
+  - simply observing the subjects
+  - prospective
+    - a group of subjects is studied into the future throughout their lives
+    - ex: a group of kindergarteners until they graduate high school
+  - cross sectional
+    - information about the group of subjects is gathered at a certain point in time
+    - ex: census day at CSCC, they take a snapshot of all the students here.
+  - retrospective
+    - information about a group of subjects is gathered from past information
+    - ex: determening what caused lung cancer
+
+- confounding
+  - occurs when the effects of two or more variables cannot be seperated. this can be from variables in the study such as a weight loss study that has exercise and nutrition components. is it the fact that theyre exercising more, or eating better, that theyre losing weight?
+  - occurs when there are lurking variables. a lurking variable is a variable that is not studied but may affect either the explanatory or the response variable.
+  - we try not to have confounding
+
+- bias
+  - bias will skew the results in a particular manner or result. for example, not zeroing a scale causes the weight to be overstated.
+  - common types of bias:
+    - not having a random sample (such as a simple random sample, straitified, cluster and systematic)
+    - voluntary response and convenience are considered to be biased.
+    - not doing a random comparative experiment
+    - people may not be honest
+      - self interest - information is given such that it paints the individual in the best light
+      - social acceptability bias - people don't tell the truth because they don't want to be judged.
+  - sampling error
+    - how the sample is taken
+    - certain groups are left out of the sampling frame (list of population to be sampled)
+      - ex: people who dont have phones are left out of telephone polls
+  - non response error
+    - refusal to answer questions
