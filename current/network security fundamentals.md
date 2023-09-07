@@ -60,3 +60,54 @@
       - not always bad, not always good
       - you can still go to jail
       - not malicious
+
+## module 2: threat management and cybersecurity resources
+- why do pen testing?
+- ROE - rules of engagement
+- pen testing attempts to exploit vulnerabilities
+- the most important element in a pen test is planning (foot)
+  - bad or no planning can result in creep, which is an expansion beyond the initial set of the tests limitations
+  - bad planning can also create unneeded legal issues
+- a scan of a network usually only finds surface problems
+  - many network scans are automated, going system to system
+- a penetration test can go deeper and attempt to exploit vulnerabilites using manual techniques
+- the attacks:
+  - must be the same as those used by a threat actor
+  - should follow the thinking of threat actors
+- who should perform the test? 
+  - internal security personnel
+    - little or no additional cost
+    - tests can be conducted more quickly
+    - no contracts needed
+    - they already know whats going on
+    - can enhance training of employees
+    - disadvantages
+      - they have inside knowledge
+      - bias
+      - they will not act like an attacker
+      - could have lack of expertise
+      - reluctance to reveal
+- white box testing
+  - attacker knows everything
+- black box testing
+  - you dont tell the attacker a thing, they have to find everything they want to know
+- authorization
+  - written approval to conduct the test on all levels
+- explotiation level
+  - whats off limits? what should they exploit?
+- communication
+  - initiation - awareness to everybody
+  - completion - tell everyone its done
+  - incident response? no response = problem
+  - status - better with frequent staus updates
+  - emergency - critical vulnerbility found, report and pause testing
+- cleanup
+  - pen tester needs to keep a very good log of what they did
+  - they need to undo everything related to the pen test
+  - involves removing scripts, back doors, temp files, binaries
+  - any cridentials that were changed should be restored
+- repoting
+  - a report should be generated to document its objectives, methods used, and results
+  - a report should be in 2 parts:
+    - an executive summary designed for a less technical audience
+    - a technical part for the tech teams 
