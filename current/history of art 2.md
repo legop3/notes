@@ -6,6 +6,7 @@
 9/6
 # chapter 38 fifteenth-century reniassance art in florence
 - humanism
+  - celebration of human achievement
 - naturalism
 - trade routes between countries
 - observational science
@@ -26,6 +27,24 @@
 ## sculpture
 - 
 
+9/11
+# chapter 45 reniassance art in italy
+- institutions persisted
+  - church
+  - universities
+  - manufacturing
+  - land-holding
+- lots of printing and book production
+  - expanding knowledge and education
+  - literacy too
+- quest for knowledge leads artists to need more skill
+  - artists become higher up socially
+- women were not allowed to study or travel for education and experience
+- high reniassance
+  - oil painting became the preferred medium
+  - commissions increased from private sources
+- 
+
 
 # long term terms
 - romanesque - mideval architecture, round arches
@@ -40,3 +59,6 @@
   - everything goes to a single vanishing point, horizon line
 - atmospheric perspective
   - things far away in the background are more washed out, blurry, blue tinge
+- sfumanto - a smokey hazy quality, softness
+- chiaroscuro - the use of light and dark contrast to create volume
+- madonna - means the virgin mary
