@@ -125,3 +125,45 @@
       - ex: people who dont have phones are left out of telephone polls
   - non response error
     - refusal to answer questions
+9/11
+# unit 2
+- qualatative - categorical or word values, placed variables into categories
+- quantatative - numerical values, that you could use math with.
+- frequency - count of the value each time the variable takes that value
+  - favorite colors:
+    - 2 red
+    - 5 green
+    - 38 blue
+    - 8 yellow
+  - relative frequency
+    - frequency devided by the total number of values
+    - qualatative graphs - example
+
+      FAVORITE COLOR      FREQUENCY     RELATIVE FREQUENCY
+
+      purple                5              5/20=0.35
+      blue                  7              7/20=0.35
+      green                 4              4/20=0.2
+      red                   4              4/20=0.2
+      TOTAL                 20     
+
+  - nominal data ^^
+  - qualatative data ^^
+- pie chart - used for parts of a whole
+  - create a circle and mark the pieces. label each piece with the name and frequency or relative frequency.
+  - excel will use the relative frequency.
+- bar graph
+  - can be used for any qualatative data
+  - both an x and a y axis. the y axis is what frequency or relative frequency, the x axis is marked with the variable names as seperate bars.
+  - a pareto graph will rder the bars in order from highest to lowest
+- quantitative graphs
+- stem and leaf
+  - AKA stem plot
+  1. decide how to devide the data. the right most digit is the leaf, and the remaining left are the stem.
+  2. create a key to show how the data is devided. make sure we use a value that has different digits.
+  3. draw a vertical line. for a single set of data, the stems are on the left and the leaves are on the right. the leaves are in order where the smallest is closest to the stem.
+  - repeat instances of the same value (see paper notes packet for example)
+- dot plot
+  - requires an x axis with a nice even scale. the graph will also require a title. 
+  - every graph should have a title that is meaningful.
+  - an outlier is a data value that does not appear to belong in the dataset

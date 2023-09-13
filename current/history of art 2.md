@@ -43,7 +43,9 @@
 - high reniassance
   - oil painting became the preferred medium
   - commissions increased from private sources
-- 
+
+9/13
+# 
 
 
 # long term terms
