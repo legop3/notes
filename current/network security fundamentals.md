@@ -157,3 +157,13 @@
       - triggered by a specific event
     - rootkit
       - accesses lower levels of the OS, kernel
+- application attacks
+  - an application is a user program
+  - a web server provides services that are implemented as web applications through software applications running on the server
+  - XSS (cross site scripting)
+    - web application always needs to validate input
+    - an attacker can trick a website into feeding a malicious script to other user's computers
+  - injection
+    - SQL (structured query language) injection inserts statements to manipulate database servers
+  - request forgery
+    - a request that has been fabricated
