@@ -167,3 +167,26 @@
   - requires an x axis with a nice even scale. the graph will also require a title. 
   - every graph should have a title that is meaningful.
   - an outlier is a data value that does not appear to belong in the dataset
+- quantative graps
+- time series (revisited in unit 10)
+  - there are two variables (x, y) where x is any unit of time (a day, a month, a year, etc). the y variable is anything else (prices, sales, stocks)
+- histogram
+  - divide the dataset into classes, every value in the dataset should be in one class and only one class. 
+  - after the data set has been divided into classes, count how many values are in each class and that is the frequency of the class
+  - the histogram is graphed with frequency (or relative frequency) is on the y axis, and the classes are on the x axis.
+  - to calculate classes: (max-min)/# of classes needed -> round up to nearest whole number
+  - to find midpoint: (lower bound + next lower bound)/2
+  - shapes and distribution: see packet
+- how to create a good graph:
+  - every graph including the ones in excel should have a title
+  - each axis should have a label
+  - every axis should have a nice even scale
+- pictograms
+  - scales that use pictures to illustrate the graph
+  - can be very misleading
+  - do not use!
+
+
+
+9/13
+# unit 3

@@ -43,6 +43,16 @@
 - high reniassance
   - oil painting became the preferred medium
   - commissions increased from private sources
+- michelangelo's pieta, david
+  - pieta means pity
+  - david is 17 feet tall without pedestal
+  - human anatomy attention to detail
+  - antiquity influences
+    - hes naked
+    - contrapposto
+    - traditional marble
+    - naturalistic
+    - biblical story
 
 9/13
 # 

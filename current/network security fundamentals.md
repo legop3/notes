@@ -111,3 +111,49 @@
   - a report should be in 2 parts:
     - an executive summary designed for a less technical audience
     - a technical part for the tech teams 
+9/14
+# module 3: threats and attacks on endpoints
+- malware is continuously evolving
+  - imprison
+    - ransomware and cryptomalware
+      - cryptomalware
+        - encrypts the user's files, asks you to pay a certain amount to get your files back
+        - RaaS
+          - ransomware as a service
+          - anyone can rent ransomware
+  - launch
+    - viruses
+      - file based
+        - reproduces on the computer
+      - fileless
+        - infect OS processes instead of normal executable files
+        - usually lives in RAM
+        - persistence
+        - difficult to detect and defend against
+    - worms
+      - uses the network to replicate across computers
+      - enters through the network and takes advantage of a vulnerability in the computer
+      - delete files on the computer, allow remote access, etc
+    - bots
+      - botnet
+      - command and control from a central controller
+  - snoop
+    - spyware
+      - tracking software
+    - keylogger
+      - can be hardware or software
+  - deceive
+    - some malware attempts to hide its true intentions
+    - RAT (remote access trojan)
+      - hidden malware in common programs that you download
+      - allows remote access
+    - PUP (potentially unwanted program)
+      - advertising, pop-ups, etc
+    - trojan
+  - evade
+    - backdoor
+      - gives access to a computer that circumvents any normal security protections
+    - logic bomb
+      - triggered by a specific event
+    - rootkit
+      - accesses lower levels of the OS, kernel
