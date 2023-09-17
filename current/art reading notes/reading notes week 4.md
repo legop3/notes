@@ -1,0 +1,85 @@
+# chapter 46: sixteenth-century art of northern europe
+## intro
+- the 1500s
+- martin luther
+  - theology professor
+  - univerity of wittenburg
+  - questioned the selling of indulginces
+  - basically created protestanism
+    - protestanism is a direct interpretation of the bible, instead of relying on the clergy.
+  - catholic church unsurprisingly 
+- people were questioning mideval power structures
+## art and religious beliefs at the turn of the sixteenth century
+- garden of earthly delights - heironymous bosch
+  - triptych
+  - depicts human direction to worldly sinfulness
+  - on the outside, when closed, it shows the creation of the earth
+  - the inside shows the beginnings of humanity, humans living carelessley, and hell (in that order from left to right)
+- witches' sabbath - hans baldung grein
+  - people were becoming more fearful of witches
+  - chiaroscuro
+  - work shows an image of witches preparing for a "black mass" ritual where they boil a potion to cast spells
+  - witches are depicted as jewish women
+## the scene of hell in bosch's garden of earthly delights
+- lots of symbolism
+- probably not made to be displayed in a church
+- chaotic, but structired scenes
+- the hell scene shows people being tortured by supposedly sinful things
+  - gambling
+    - demons covered in dice and cards attack a group of people hiding beind a table
+  - non-religious music
+    - pepole are being tortured by musical instruments
+    - a pair of ears with a spear through them
+  - lust
+    - a pig secuces a naked man into signing a legal contract
+  - greed
+- tree man
+  - has trunks like a tree as legs
+  - the head of a man 
+  - egg shaped body
+    - egg is broken
+    - people are hanging out in there
+    - may be a commentary about the frequent visiting of taverns
+## portraiture
+- individual, family, and group identity
+- rise of self portraits in the early 1400s
+- self-portrait, albrecht durer
+  - fully frontal pose with no emotional expression
+    - this pose was usually reserved for images of christ
+  - possibly he wanted to show the importance of the artist as a creator
+  - lots and lots of detail
+  - he wanted to show off
+  - included a monogram
+- the money changer and his wife, quenten massys
+  - occupational portrait
+    - not specific people, just people doing their jobs
+  - a middle class couple sits at a table
+  - the husband sits counting money, weighing it with a scale
+  - the wife flips through a prayer book, but is distracted by the money on the table
+  - small details
+    - a tiny mirror showing a man reading on the other side of the room
+    - an open door behind the wife, showing two men talking behind the store
+## the rise of secular art
+- engraving
+  - a process used for print making where the artist engraves a metal plate, then presses copies of artwork to sell over and over
+- great piece of turf, albrecht durer
+  - painting of plants and nature
+  - watercolor on paper
+  - "worm's eye view"
+- view of the colloseum from the west, jan gossaert
+  - pen ink over black chalk on paper
+  - architectural art
+  - pictures the colloseum in a partially ruined state
+  - pieces are missing, showing how it was constructed
+- battle of darius and alexander, albrecht altdorfer
+  - landscape painting
+  - the landscape is the primary subject instead of the people
+  - bird's eye view
+  - there is a battle going on down on the ground
+    - darius and alexander are both barely visible in the painting
+    - it is hard to make out the individual people
+## terms
+- triptych
+  - a portable tri-fold self standing poster sort of thing brought from church to church
+- monogram
+  - an artists logo, basically. fits in a square, used for self promotion
