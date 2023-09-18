@@ -190,3 +190,44 @@
 
 9/13
 # unit 3
+9/18
+- measures of center
+  - tell us where the middle of the data is
+  - there are three measures of center
+  - mean
+    - average
+    - see packet
+  - median
+    - put the observations in order
+    - the median is the middle of the list
+  - mode
+    - the most repeated value
+    - note - there can be more than one node
+- measures of spread
+  - tells us how far apart our data is
+  - range
+    - maximum value - minimum value
+  - variance
+    - need to determine where the data is from
+    - population variance
+    - sample variance
+  - standard deviation
+  - see packet^^^
+- distribution shapes
+  - see packet
+  - in a symmetric shape, the mean is approxamitley equal to the median (very very close)
+  - skewed right = mean is greater than the median
+  - skewed left = mean is less than median
+- chebychev's rule
+  - used for any distrobution
+  - you do not need to know the shape
+  - see packet
+- imperical rule
+  - needs a normal or symmetric distrobution
+  - mean plus or minus:
+  - 1 standard deviation
+    - 68%
+  - 2 standard deviations
+    - 95%
+  - 3 standard deviations
+    - 99.7%
