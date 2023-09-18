@@ -55,8 +55,22 @@
     - biblical story
 
 9/13
-# 
 
+
+9/18
+# n. europe 1500-1600
+- protestant reformation
+  - shift away from traditional church, clergy, catholicism, indulgences
+- martin luther
+  - started the protestant reformation
+  - labeled as a heritic
+- lots of secular art
+  - art that isnt religious
+- printing press invented in 1450
+- merchant class of art patrons
+- germany
+  - lots of protestant and lots of catholic
+  - big carved altarpieces
 
 # long term terms
 - romanesque - mideval architecture, round arches
@@ -67,10 +81,13 @@
 - crossing
 - dome
 - quatrefoil - the shape of the
-- linear perspective
-  - everything goes to a single vanishing point, horizon line
-- atmospheric perspective
-  - things far away in the background are more washed out, blurry, blue tinge
+- linear perspective - everything goes to a single vanishing point, horizon line
+- atmospheric perspective - things far away in the background are more washed out, blurry, blue tinge
 - sfumanto - a smokey hazy quality, softness
 - chiaroscuro - the use of light and dark contrast to create volume
 - madonna - means the virgin mary
+- indulgences - paying the catholic church to get into heaven
+- secular - specifically not religious
+- triptych - a portable tri-fold self standing poster sort of thing brought from church to church
+- monogram - an artists logo, basically. fits in a square, used for self promotion
+- melancholia - a symbol of the human genius
