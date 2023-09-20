@@ -94,3 +94,5 @@
 - triptych - a portable tri-fold self standing poster sort of thing brought from church to church
 - monogram - an artists logo, basically. fits in a square, used for self promotion
 - melancholia - a symbol of the human genius
+- cycle painting - a series of paintings made to be grouped together
+- genre scenes - a scene from everyday life
