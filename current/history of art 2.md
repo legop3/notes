@@ -71,6 +71,9 @@
 - germany
   - lots of protestant and lots of catholic
   - big carved altarpieces
+9/20
+# 16th century art in northern europe
+- 
 
 # long term terms
 - romanesque - mideval architecture, round arches
