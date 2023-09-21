@@ -231,3 +231,33 @@
     - 95%
   - 3 standard deviations
     - 99.7%
+9/20
+- measures of position
+  - tells us there in the data a particular observation is
+  - z-score
+    - tells us how many standard deviations from the mean we are
+  - percentiles
+    - an observation such that k percent of the data is below the observation, and 100-k percent is above the observation.
+  - quartiles
+    - percentiles that divide up the data into nice little 25% chunks
+    - mainly 2 quartiles
+    - second quartile (Q2) is the median
+- finding outliers
+  - find IQR (inter quartile range)
+  - find lower boundary
+  - find upper boundary
+  - an outlier is anything above or below the upper or lower boundaries
+- 5 number summary
+  - enter list in stats menu
+  - stats -> calc -> 1 var stats
+  - last 5 numbers in output are the 5 number summary
+    - minX
+    - Q1
+    - Med
+    - Q3
+    - maxX
+- boxplot (box and whiskers)
+  - needs:
+    - 5 number summary
+    - an X axis with a nice even scale
+# unit 4
