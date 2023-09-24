@@ -96,3 +96,9 @@
 - melancholia - a symbol of the human genius
 - cycle painting - a series of paintings made to be grouped together
 - genre scenes - a scene from everyday life
+- ouroboros - a snake eating it's own tail
+- putti - a representation of a naked child, especially a cherub or a cupid in Renaissance art.
+- ultra-baroque - the integration of painting, sculpture, and architecture
+- retablo - a decorated vertical sctructure behind an altar, painting, sculture, elaborate frame work
+- estipite - a column or pillar in the shape of an inverted cone or pyramid
+- 
