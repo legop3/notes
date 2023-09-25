@@ -18,3 +18,6 @@ hacktool
 dangerousobject
 
 ∀ θ 
+
+dev/sda 21.5gb
+512 bytes

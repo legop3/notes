@@ -73,7 +73,31 @@
   - big carved altarpieces
 9/20
 # 16th century art in northern europe
-- 
+9/25
+# ch. 53: the baroque art of europe
+- 17th century
+- primarily in europe, spain and italy
+- the catholic reformation is happening
+- what is art doing?
+  - ornamental
+  - trying to appeal directly to viewer's emotions
+  - religious and political persuasions (ln79)
+  - lots of composite pieces of sculpture, painting and architecture
+  - lots of drama
+- caravaggio
+  - depicts himself as the decapitated head of goliath
+  - his self portraits are him as decapitated heads
+  - the most famous painter in rome despite his weirdness
+  - highly influential
+    - changes the way people paint
+  - followers of caravaggio. caravaggisti
+    - aritsts that emulate his style
+  - paints alla prima
+  - wasnt interested in teaching
+  - kind of a loner
+  - known for plucking models off the street
+  - paints religious figures as normal people ^
+  - very controversial
 
 # long term terms
 - romanesque - mideval architecture, round arches
@@ -101,4 +125,5 @@
 - ultra-baroque - the integration of painting, sculpture, and architecture
 - retablo - a decorated vertical sctructure behind an altar, painting, sculture, elaborate frame work
 - estipite - a column or pillar in the shape of an inverted cone or pyramid
-- 
+- tenebrism - a strong contrast of dark and light
+- all prima - painting without sketching, just go for it, no templates, planning
