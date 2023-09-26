@@ -261,3 +261,57 @@
     - 5 number summary
     - an X axis with a nice even scale
 # unit 4
+- probability
+  - very important, apparently
+  - measures of how likely an event is to occur
+  - theoretical
+    - this probablilty is determined by either a mathematical model or a mathematical formula
+    - ex:
+      - a coin has two sides, 1 head and 1 tail, so the probability of a head is 1/2
+      - binomial distrobution (unit 5)
+  - observed (aka emperical)
+    - this probability is calculated by observing events or experiments or simulations
+    - you are actually doing something to get real data rather than doing math
+    - ex:
+      - flipping a coin 100 times and counting h/t
+      - car insurance calculations, based on how old you are, where you drive, what you drive
+  - personal
+    - based on a guess, an opinion, or a feeling
+    - not mathematically sound
+  - the law of large numbers
+    - as the number of observations increases, the observed probability gets closer to the theoretical one
+    - ex:
+      - more penny flips will get you closer to 50% heads 50% tails
+  - sample space
+    - a list of all possible outcomes that could occur in a probability problem
+    - ex:
+      - when rolling a dice, sample space is {1, 2, 3, 4, 5, 6}
+    - event
+      - any subset of the sample space
+      - can be a singular outcome or multiple outcomes
+      - ex:
+        - rolling a 6 on a die {6}
+        - rolling an even number {2, 4, 6}
+    - unusual event
+      - any event that occurs with a probability of 5% or less
+  - probability rules
+    - probability is a number between 0 and 1
+      - 0 means it will never happen and 1 means it definitely will occur
+    - the sum of all probabilities in a sample space adds up to 1
+    - complement of A, P(A^c) is the probability that A does not occur
+    - see packet for
+      - probability rules
+      - P(A or B)
+      - conditional probability
+      - general multiplication rule
+        - independence
+          - the outcome of the first event does not affect the probability of the second event
+    - sampling with replacement
+      - independent
+      - ex:
+        - drawing marbles out of a bag, sampling with replacement means we put the marbles back in the bag so the sample space remains unchanged
+    - sampling without replacement
+      - dependent
+      - ex:
+        - drawing marbles out of a bag, sampling without replacement means that we do not put the marbles back in the bag, so the sample space is changed
+        - 
