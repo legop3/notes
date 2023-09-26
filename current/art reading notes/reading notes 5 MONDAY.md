@@ -32,9 +32,52 @@
     - stone carvings like these are displayed at funerals of distiguished leaders in temne and kissi communities still today
     - this particular carving might be a subject lying at his own funeral
 ## art of kongo and allada
-
-
+- portugese explorers sailed farther south arriving at the mouth of the kongo river
+- the supreme ruler of the kongo polity is the manikongo
+  - portugese regarded him as a monarch like their own
+  - the manikongo sent gifts to leaders in europe
+    - ivory horns
+      - instruments made out of elephand tusks
+    - elaborate woven baskets
+    - textiles
+      - mats, cushions, table coverings
+- gifts from allada
+  - the king of allada gave a collection of items to a young german merchant
+    - several ivory castings from the kingdom of owo
+    - two pieces of clothing that were worn by the king of allada
+      - with very long sleeves
+      - dyed in indigo
+      - these robes are the only garmets from africa from this time period that we know about
+- divination tray from allada
+  - also given by the king of allada
+  - tied to the religious practices of the yoruba
+  - this type of tray is still used in africa
+  - this specific tray was used by the king of allada
+  - in the top center, has a bearded face with three gourds above it
+    - this being represents disorder and confusion
+  - the tray was used by a diviner, who the king would consult about problems he faces
+    - the diviner would toss a palm fruit into the center, and take note of where it rolls
+    - the diviner would then read the markings and refer the king to a proverb based on it
+    - the proverb would help the king make his decision
+  - there are animals and other figures around the edge of the tray
+    - these brought the whole world's experiences into the consultation
+  - this tray was described by the european buyer as "an implement used in satanic rituals"
 ## clothing and formal analysis
-
+- what can we see in this robe in a museum?
+  - geometric shapes
+  - lots of lines
+  - dyed in indigo
+  - rows of arranged triangles
+- what could we see if it were on a manneuqin?
+  - how it fits the human body
+  - probably other similarly worn clothing as part of an outfit
+- this section basically says that we cant actually see how this robe originally was long long ago
+  - it is stuck out of the sun in a museum
+  - either framed on a wall or worn by a mannequin
+    - either way, we can't see how it moves
+  - we don't know exactly how it would have been worn
+  - what other clothes would be worn with it
+    - accesories
+    - a visual ensemble, as the book states
 ## terms
 - scarification - basically scar tattoos
