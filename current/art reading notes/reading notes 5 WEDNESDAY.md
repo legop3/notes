@@ -6,4 +6,5 @@
 
 ## art and conflict: asante and the bidjogo
 
+
 ## terms

@@ -32,7 +32,8 @@
     - stone carvings like these are displayed at funerals of distiguished leaders in temne and kissi communities still today
     - this particular carving might be a subject lying at his own funeral
 ## art of kongo and allada
-- 
+
+
 ## clothing and formal analysis
 
 ## terms

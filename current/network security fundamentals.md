@@ -194,3 +194,4 @@ prof. chuah
 - hueristic monitoring
   - dynamic analysis
   - identifies characteristics of a virus
+  - 

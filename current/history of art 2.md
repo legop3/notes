@@ -127,3 +127,4 @@
 - estipite - a column or pillar in the shape of an inverted cone or pyramid
 - tenebrism - a strong contrast of dark and light
 - all prima - painting without sketching, just go for it, no templates, planning
+- 
