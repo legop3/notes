@@ -10,14 +10,36 @@ cisco, ibm, jenkins
 
 stats m&m project:
 - do project part 1 in tests/quizzes
-  
-rc.conf 281
 
-united states 5th
-hacktool
-dangerousobject
+whic spectrums are used by wireless networks?
+2.4 or 5
 
-∀ θ 
+maximum distance supported by bt 5.x?
+200 feet or 60m
 
-dev/sda 21.5gb
-512 bytes
+all features of mdm
+application management
+content management
+remote wipe
+goefencing
+geolocation
+screen locks
+push notifications
+passwords and pins
+biometreicss
+context awsare authentication
+containeriaztion
+storage segmentation
+full device encryption
+
+
+which uem features can help an it administrator manage assets
+operating system deployment
+software deployment
+remote management
+license managemant
+software and hardware inventory
+updates management
+
+which method is used in sideloading?
+usb
