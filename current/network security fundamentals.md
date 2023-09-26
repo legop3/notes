@@ -167,3 +167,30 @@
     - SQL (structured query language) injection inserts statements to manipulate database servers
   - request forgery
     - a request that has been fabricated
+9/21
+prof. chuah
+# module 4: endpoint and application development security
+- an endpoint is a device that a user uses
+  - phone
+  - laptop
+  - desktop
+  - kiosk
+  - printer
+- threat intelligence sources
+  - it used to be that organizations did not share their security policies, concerns, information
+  - now, organizations report between each other, strategies, etc
+  - mistakes are always learned from
+- categories of sources
+  - open source information
+    - refers to any information that can be freely used without restriction
+    - OSINT
+    - cyber information sharing and collaboration program
+      - CISCP
+  - closed source information
+    - proprietary
+    - typically copyrighted information
+- signature based
+  - static analysis
+- hueristic monitoring
+  - dynamic analysis
+  - identifies characteristics of a virus

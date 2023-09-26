@@ -190,3 +190,74 @@
 
 9/13
 # unit 3
+9/18
+- measures of center
+  - tell us where the middle of the data is
+  - there are three measures of center
+  - mean
+    - average
+    - see packet
+  - median
+    - put the observations in order
+    - the median is the middle of the list
+  - mode
+    - the most repeated value
+    - note - there can be more than one node
+- measures of spread
+  - tells us how far apart our data is
+  - range
+    - maximum value - minimum value
+  - variance
+    - need to determine where the data is from
+    - population variance
+    - sample variance
+  - standard deviation
+  - see packet^^^
+- distribution shapes
+  - see packet
+  - in a symmetric shape, the mean is approxamitley equal to the median (very very close)
+  - skewed right = mean is greater than the median
+  - skewed left = mean is less than median
+- chebychev's rule
+  - used for any distrobution
+  - you do not need to know the shape
+  - see packet
+- imperical rule
+  - needs a normal or symmetric distrobution
+  - mean plus or minus:
+  - 1 standard deviation
+    - 68%
+  - 2 standard deviations
+    - 95%
+  - 3 standard deviations
+    - 99.7%
+9/20
+- measures of position
+  - tells us there in the data a particular observation is
+  - z-score
+    - tells us how many standard deviations from the mean we are
+  - percentiles
+    - an observation such that k percent of the data is below the observation, and 100-k percent is above the observation.
+  - quartiles
+    - percentiles that divide up the data into nice little 25% chunks
+    - mainly 2 quartiles
+    - second quartile (Q2) is the median
+- finding outliers
+  - find IQR (inter quartile range)
+  - find lower boundary
+  - find upper boundary
+  - an outlier is anything above or below the upper or lower boundaries
+- 5 number summary
+  - enter list in stats menu
+  - stats -> calc -> 1 var stats
+  - last 5 numbers in output are the 5 number summary
+    - minX
+    - Q1
+    - Med
+    - Q3
+    - maxX
+- boxplot (box and whiskers)
+  - needs:
+    - 5 number summary
+    - an X axis with a nice even scale
+# unit 4

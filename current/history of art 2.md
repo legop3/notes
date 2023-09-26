@@ -55,8 +55,49 @@
     - biblical story
 
 9/13
-# 
 
+
+9/18
+# n. europe 1500-1600
+- protestant reformation
+  - shift away from traditional church, clergy, catholicism, indulgences
+- martin luther
+  - started the protestant reformation
+  - labeled as a heritic
+- lots of secular art
+  - art that isnt religious
+- printing press invented in 1450
+- merchant class of art patrons
+- germany
+  - lots of protestant and lots of catholic
+  - big carved altarpieces
+9/20
+# 16th century art in northern europe
+9/25
+# ch. 53: the baroque art of europe
+- 17th century
+- primarily in europe, spain and italy
+- the catholic reformation is happening
+- what is art doing?
+  - ornamental
+  - trying to appeal directly to viewer's emotions
+  - religious and political persuasions (ln79)
+  - lots of composite pieces of sculpture, painting and architecture
+  - lots of drama
+- caravaggio
+  - depicts himself as the decapitated head of goliath
+  - his self portraits are him as decapitated heads
+  - the most famous painter in rome despite his weirdness
+  - highly influential
+    - changes the way people paint
+  - followers of caravaggio. caravaggisti
+    - aritsts that emulate his style
+  - paints alla prima
+  - wasnt interested in teaching
+  - kind of a loner
+  - known for plucking models off the street
+  - paints religious figures as normal people ^
+  - very controversial
 
 # long term terms
 - romanesque - mideval architecture, round arches
@@ -67,10 +108,22 @@
 - crossing
 - dome
 - quatrefoil - the shape of the
-- linear perspective
-  - everything goes to a single vanishing point, horizon line
-- atmospheric perspective
-  - things far away in the background are more washed out, blurry, blue tinge
+- linear perspective - everything goes to a single vanishing point, horizon line
+- atmospheric perspective - things far away in the background are more washed out, blurry, blue tinge
 - sfumanto - a smokey hazy quality, softness
 - chiaroscuro - the use of light and dark contrast to create volume
 - madonna - means the virgin mary
+- indulgences - paying the catholic church to get into heaven
+- secular - specifically not religious
+- triptych - a portable tri-fold self standing poster sort of thing brought from church to church
+- monogram - an artists logo, basically. fits in a square, used for self promotion
+- melancholia - a symbol of the human genius
+- cycle painting - a series of paintings made to be grouped together
+- genre scenes - a scene from everyday life
+- ouroboros - a snake eating it's own tail
+- putti - a representation of a naked child, especially a cherub or a cupid in Renaissance art.
+- ultra-baroque - the integration of painting, sculpture, and architecture
+- retablo - a decorated vertical sctructure behind an altar, painting, sculture, elaborate frame work
+- estipite - a column or pillar in the shape of an inverted cone or pyramid
+- tenebrism - a strong contrast of dark and light
+- all prima - painting without sketching, just go for it, no templates, planning
