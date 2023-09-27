@@ -98,6 +98,32 @@
   - known for plucking models off the street
   - paints religious figures as normal people ^
   - very controversial
+- bernini
+- artemisia gentileschi
+  - her father was a famous painter
+  - caravaggisti
+  - judith beheading holofernes
+    - over 6 x 5 inches tall
+    - mid-scene
+      - the climactic moment of the scene
+    - drama drama drama
+    - strong contrast (tenebrism)
+    - colorful clothing
+    - accurate skin tones
+- spain
+  - weakaning empire
+  - art scene dominated by the catholic church
+    - diego velasquez
+      - well known for texture and fabrics
+      - the court painter
+        - did lots of portraits of the royal family
+      - emphasis on clothing
+  - clara peeters
+    - popularized the new genre of still life
+    - still life scenes
+      - breakfast pieces
+        - art of fancy luxury food
+        - fancy dishes
 
 # long term terms
 - romanesque - mideval architecture, round arches
@@ -127,4 +153,6 @@
 - estipite - a column or pillar in the shape of an inverted cone or pyramid
 - tenebrism - a strong contrast of dark and light
 - all prima - painting without sketching, just go for it, no templates, planning
+- scarification - basically scar tattoos
+- still life - inanimant scene
 - 
