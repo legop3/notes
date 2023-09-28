@@ -314,4 +314,24 @@
       - dependent
       - ex:
         - drawing marbles out of a bag, sampling without replacement means that we do not put the marbles back in the bag, so the sample space is changed
-        - 
+    - independent
+      - the probabilities of one event does not change if the other event occurs
+      - the sample space is unchanged
+    - complement
+      - the complement of event A is everything in the sample space that is not A
+      - p(A^c)=1-P(A)
+      - see packet
+    - at most/least
+      - at most means maximum
+      - at least means minimum
+        - complement of at least 1 is zero
+    - mutually exclusive
+      - two events are mutually exclusive if:
+        - one event occurs, the other cannot occur
+        - the intersection of the two events is empty or does not exist
+    - and
+      - means muliplication or intersection
+      - looking to see if something is independent
+    - or
+      - means addition
+      - may need to use the idea of mutually exclusive or complement

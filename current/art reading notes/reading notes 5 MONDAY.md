@@ -1,4 +1,4 @@
-# ch. 49: african art and global trade (first half)
+# ch. 49: african art and global trade
 - foreign trade began to change the societies of africa
   - connecting african cultures to europe and asia
 - the beginnings of slavery
@@ -79,5 +79,11 @@
   - what other clothes would be worn with it
     - accesories
     - a visual ensemble, as the book states
+## art and history in benin
+
+## art of central africa: the kuba and karagwe
+
+## art and conflict: asante and the bidjogo
+
 ## terms
 - scarification - basically scar tattoos
