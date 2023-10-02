@@ -125,7 +125,12 @@
         - art of fancy luxury food
         - fancy dishes
 10/2
-# 
+# chapter 49: african art and global trade
+- the first direct contact between european and african people
+  - portugese people
+  - all in coastal areas in africa
+- lots of countries, languages, and cultures across africa
+- christianity was imported from portugal along with portugese coming to africa
 # long term terms
 - romanesque - mideval architecture, round arches
 - bapistery - a building or room reserved for baptisms
@@ -157,4 +162,4 @@
 - scarification - basically scar tattoos
 - still life - inanimant scene
 - ndop - wooden statue
-- 
+- hierarchy of scale - bigger things are more important

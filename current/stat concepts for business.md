@@ -329,6 +329,7 @@
       - two events are mutually exclusive if:
         - one event occurs, the other cannot occur
         - the intersection of the two events is empty or does not exist
+        - dependant(?)
     - and
       - means muliplication or intersection
       - looking to see if something is independent

@@ -8,8 +8,19 @@ remote
 vulnerability
 cisco, ibm, jenkins
 
-stats m&m project:
+stats m&m project part 1: due after midterm (10/22)
 - do project part 1 in tests/quizzes
+- directions file
+- rubric file
+- spreadsheet
+- needs to be a formal paper
+  - 12pt arial font
+  - double spaced
+  - intro
+  - 2 required graps
+  - table
+  - conclusion
+
 
 whic spectrums are used by wireless networks?
 2.4 or 5
