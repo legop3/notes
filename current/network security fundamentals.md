@@ -194,4 +194,51 @@ prof. chuah
 - hueristic monitoring
   - dynamic analysis
   - identifies characteristics of a virus
-  - 
+# module 5: mobile, embedded, and specialized device security
+- iot! iot! iot!
+- cellular
+  - mobile telecomminications switchingg office
+    - connects to cell transmitters 
+    - controls the network
+- wifi
+- infrared
+- 5g
+  - 5g is still below light in terms of frequency
+- mobile devices in businesses
+  - bring your own device
+    - the employee has to buy their device, install everything, etc
+  - corporate owned, personally enabled
+    - choose from a selection of company owned devices
+    - employee can also do personal activities on the device
+    - making sure that the device can be segmented
+  - choose your own device
+    - choose from a limited selection of devices
+      - pc, mac, tablet
+    - company has approved devices
+    - you buy it, they pay for it, they own it
+  - people like to be independent
+  - simplify IT structure
+  - BUT, mix of personal information
+  - lots of decisions are on the user instead of on the admin
+  - virtual desktop infrastructure
+    - cloud interface
+    - smartphone
+  - corporate owned
+- mobile devices are frequently lost or stolen
+- mobile device management
+- mobile application management
+- mobile content management
+- unified endpoint management
+- embedded systems (IOT!)
+  - raspberry pi
+    - a small computer
+  - FPGA
+    - a chip that can be reprogrammed in hardware
+  - SoC
+    - combines all parts of a computer onto a single chip
+    - often use RTOS, process high volumes of data for critical decision making
+  - cars are full of embedded systems
+  - network of devices
+  - industrial control systems
+  - HVAC controls
+  - multifunctional printer

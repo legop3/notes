@@ -124,7 +124,8 @@
       - breakfast pieces
         - art of fancy luxury food
         - fancy dishes
-
+10/2
+# 
 # long term terms
 - romanesque - mideval architecture, round arches
 - bapistery - a building or room reserved for baptisms
@@ -155,4 +156,5 @@
 - all prima - painting without sketching, just go for it, no templates, planning
 - scarification - basically scar tattoos
 - still life - inanimant scene
+- ndop - wooden statue
 - 

@@ -80,10 +80,43 @@
     - accesories
     - a visual ensemble, as the book states
 ## art and history in benin
-
+- benin was the capital of a kingdom
+  - retained its dominance for almost 5 centuries
+- the king of bernin from 1440-1473 was ewuare the great
+- figure of a portugese soldier
+  - lost wax casting
+    - a copper alloy poured into a mold still containg a wax positive of the sculpture
+    - the wax evaporates when the molten alloy is poured in
+  - an immense amount of detail and texture in his clothing
+  - he is aiming a gun
+- head for an ancestral altar
+  - copper-alloy
+  - a generic portrait of a king
+  - there is a hole in the top meant to have a carved tusk sitting in it
+  - the base of the head is flanged, to better support the tusk
+    - the flange has objects carved into it that represent more king-like things
 ## art of central africa: the kuba and karagwe
-
+- kuba royal statue
+  - made of wood
+  - blessing and protection were provided by these types of statues
+  - honors the king named mishe mishyaang mambul
+  - extremely idealized
+  - wears a sash, arm bands, and a flat crown
+  - in 1909 the statue was given to an official of the belgian government
+- cast-iron sculptures of karagwe
+  - the king of karagwe was Rumanika I
+  - he had hundereds of cast iron sculptures in display in the palace
+  - most were abstract images of cattle, like the one pictured
+    - it has very long legs
+    - very long horns
+    - an exaggerated back hump
 ## art and conflict: asante and the bidjogo
-
+- asante came after kongo, benin, and kuba
+- asante gold jewelry of kofi katakari
+  - commissioned by asantehene kofi katakari
+  - has a unique pattern of different rings of high and low relief
+- statue from a bidjogo shrine
+  - an equivalent to one of the brass heads from benin
 ## terms
 - scarification - basically scar tattoos
+- ndop - wooden statue
