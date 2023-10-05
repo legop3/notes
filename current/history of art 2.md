@@ -131,6 +131,28 @@
   - all in coastal areas in africa
 - lots of countries, languages, and cultures across africa
 - christianity was imported from portugal along with portugese coming to africa
+10/4
+# chapter 64: african art, colonialism, and the modern world (1860-1960)
+- most west or central african art in museums is taken during european colonization
+- in the 50s and 60s some african countries regained their independence
+- some art was considered evil or primitive
+  - nkisi nkonde
+    - an object that was used for different reasons within a community
+      - used only by the nganga, ritual specialist
+      - has an opening in its stomach for things to be placed inside
+        - most of the medecine pouches were removed
+        - medicine
+    - lots of them were burned when the colonizers wanted to convert africans to christianity
+- reliquaries
+  - sometimes a container for a relic
+    - a relic is like a mini statue that represents something
+      - usually aincent or spiritual or ancestral things
+  - many were abandoned during colonization
+- objects were rarely documented, in terms of where they came from, or who made them
+- masks
+  - one small part of a masquerade
+
+
 # long term terms
 - romanesque - mideval architecture, round arches
 - bapistery - a building or room reserved for baptisms
@@ -163,3 +185,4 @@
 - still life - inanimant scene
 - ndop - wooden statue
 - hierarchy of scale - bigger things are more important
+- masquerade - dancing, choreography, music, costumes, an event, celebration, occasion, performance, transformation of the human body, audience

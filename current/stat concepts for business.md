@@ -336,3 +336,42 @@
     - or
       - means addition
       - may need to use the idea of mutually exclusive or complement
+# unit 5: discrete probability distributions
+- random variable
+  - a numerical outcome (a number) associated with a probability event
+  - ex:
+    - rolling a dice {1, 2, 3, 4, 5, 6} so the number on the dice is the random variable
+    - flipping a coin {H, T} if heads i get $20, if tails i pay $40. the money amounts are the random variables
+- discrete random variables
+  - the random variable is a discrete number
+    - meaning that the number of outcomes are finite and countable
+    - ex:
+      - rolling a dice, and the above flipping a coin model are both discrete
+- continuous random variable
+  - random number is a continuous number
+    - meaning that probability is usually found for a range of random variable numbers
+- probability distrobution
+  - very similar to a probability model
+  - a list of
+    - the outcomes
+    - the values they take
+    - and the probability for each one
+  - ex: 
+    - the probability distribution model for rolling a dice is the same as the probability model
+    - suppose the dice has colors instead of numbers
+      - 3 sides red
+      - 2 blue
+      - 1 green
+      - win 
+        - 25 for green
+        - 10 for blue
+        - nothing for red
+- pdf
+  - probability distribution function
+  - calculates a single probability
+- cdf
+  - cumulative probability distrobution function
+  - calculates a running total of summing probabilities from the beginning to the current event
+  - ex:
+    - when rolling a dice, the cdf of 2 would add the probabilities of rolling a 1 and a 2
+  - the cdf of the ending value will equal 1 since all probabilities have to add up to 1
