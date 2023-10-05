@@ -242,3 +242,91 @@ prof. chuah
   - industrial control systems
   - HVAC controls
   - multifunctional printer
+10/05
+# module 6: basic cryptography
+- obfuscation
+- confidentiality, integrity, availability
+- cryptography
+  - scrambling information
+- steganography
+  - the hiding of data in plain sight
+  - embed information into a large media file
+  - uses the unsused portions of the file to hide the data
+- encryption
+  - changing the message to a different form
+- decryption
+  - chanigng the message back to normal
+- needs a key, information, algorithm, and key
+  - a key is a mathematical value, a set of numbers
+- plaintext
+  - data that is about to be encrypted or has been decrypted
+  - the input to an algorithm
+- ciphertext
+  - the scrambled output of encryption
+- cleartext
+  - data that is stored or transmitted without encryption
+- substitution cipher
+  - substitutes one character for another
+  - ROT13
+    - take the alphabet, rotate it 13 steps (a=n)
+  - XOR cipher
+    - 1, 0 = 1
+    - 1, 1 = 0
+    - 0, 0 = 0
+    - 0, 1 = 1
+- cryptography produces
+  - confidentiality
+    - only authorized parties can view it
+  - integrity
+    - information is unaltered
+  - authentication
+    - ensures sender can be verified
+  - nonrepudiation
+    - proves that a user performed an action
+  - obfuscation
+    - making something obscure or unclear
+- security through obscurity
+  - bad
+  - "its secure because no one knows how it works"
+- three states of data
+  - at rest
+  - in transit
+  - in process / in use
+- low power devices
+  - are generally less secure
+  - they have less power to encrypt
+- resource vs. security constraint
+- stream cipher
+  - takes one character and replaces it with another
+- block cipher
+  - takes a block of information and manipulates the entire block at once
+- sponge function
+  - takes as input a string of any length and returns a string of any requested variable length
+- hashing algorithms
+  - fixed size
+  - unique
+  - original
+  - secure
+    - cannot be reversed
+- message digest
+  - one of the earliest hash algorithms
+  - most popular is MD5
+- secure hash algorithm
+  - SHA2 is considered to be secure
+  - SHA3 was announced in 2015, better for low power devices, uses elliptic curve
+- RIPEMD
+- RSA
+  - asymmetric
+  - multiplies two large prime numbers
+  - the basis is factoring
+- ECC
+  - users share one elliptic curve
+    - they select one point on the curve
+  - uses less power than prime number
+    - key sizes are smaller
+- DSA
+  - digital signature algorithm
+  - verifies the sender
+  - prevents the sender from disowning
+  - proves message integrity
+- key exchange
