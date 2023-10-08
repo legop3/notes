@@ -3,4 +3,49 @@
   - the museion of ancient alexandria
     - a university with a library of important things
 - there were places in ancient rome where some things were exhibited
-- 
+## Wunderkammern
+- cabinets of wonders
+- displays that people would have in their homes
+- sometimes a literal cabinet, sometimes a room
+  - full of different treasures and things from around the world
+- usually owned privately, only really a thing that rich people did
+  - shown off to their friends and family
+- seen as a reflection of the universe
+## the british museum and the enlightenment
+- the enlightenment
+  - a movement aimed to learn more about the world
+  - a guide to modern science
+    - proving things based on testing and evidence
+  - led by the colonizing europeans
+- the british museum began as a gift from sir hans sloane
+  - with things from when he was a doctor in the west indian colonies, also some things that he got from other explorers
+- the museum was built to resemble a classical temple, which were places of protection and prestige
+  - it had an image of britannia, a symbol of the british empire
+    - this image showed who controlled the objects inside the museum
+- it was like a giant wunderkammer
+  - had many obscure objects along with many normal ones
+## The rise of museums
+- the enlightenment brought museums that were dedicated to art
+  - the calitoline (rome)
+  - the louvre (paris)
+  - the alte pinakothek (munich)
+- there were also botanical gardens, plant museums
+- zoological gardens, animal museums
+- eventually museums had historical objects
+  - they were laid out in order, to tell a story of progress over time
+    - subdivided by nation or artist
+    - this also often led to some art forms being considered more primitive than what european people were used to
+## The “white cube”
+- in the US, museums werent really a thing until the late 19th century
+- the white cube refers to an all white room with art pieces in it
+  - this was meant to remove as much distraction as possible
+  - "to direct viewers toward a pure experience of the artwork"
+- US muesums replicated classical european museums
+- the white cube approach might do more harm than good
+- john cotton dana
+  - rejected the made to order museum
+    - museums that replicated classical european museums
+  - believed that local museums should serve the local communities
+    - with their own art from local artists
+    - and their cultures
+    - many art museums today are working in this way
