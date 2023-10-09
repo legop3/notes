@@ -151,6 +151,38 @@
 - objects were rarely documented, in terms of where they came from, or who made them
 - masks
   - one small part of a masquerade
+10/9
+# museum week
+- glueseum
+- enlightenment
+  - 18th - 19th century
+  - pushing new ideas and discoveries
+  - a new way of thinking about things
+  - understanding science
+  - logic
+  - rejecting old ideas
+    - religion
+    - superstitions
+  - the british museum
+    - "like with like"
+    - universal museum
+    - encyclopedic museum
+    - secular
+- wunderkammer
+  - private collections
+  - place of gathering objects into collections
+  - microcosm of the world
+    - diverse things from all over the world
+- white cube
+  - 20th century
+  - museum of modern art
+  - minimizing visual distractions
+  - the museum is literally a white cube
+  - plain frames
+  - puts emphasis on the artwork instead of the room
+- parthenon marbles
+  - marble sculptures taken from greece
+  - while greece was under ottoman occupationoccupation
 
 
 # long term terms
