@@ -60,3 +60,5 @@ usb
 - stats: wednesday october 18th
   - review on tuesday
   - project part 1 due sunday october 22nd
+
+- nsf: open on thursday morning to midnight on friday

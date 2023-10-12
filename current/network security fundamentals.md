@@ -294,7 +294,7 @@ prof. chuah
   - in process / in use
 - low power devices
   - are generally less secure
-  - they have less power to encrypt
+    - they have less power to encrypt
 - resource vs. security constraint
 - stream cipher
   - takes one character and replaces it with another
@@ -330,3 +330,85 @@ prof. chuah
   - prevents the sender from disowning
   - proves message integrity
 - key exchange
+10/12
+# module 7: public key infrastructure and cryptographic protocol
+- an impostor could post a public key under the senders name
+- trusted third party can validate other people
+  - verifies that the key actually belongs to the owner
+- domain certs
+  - domain validation
+  - extended validation
+  - wildcard certificates
+  - SAN certificates
+    - MS exchange
+    - unified communications
+- hardware and software certs
+- X.509 format
+  - x.509 follows ITU-T x.690
+    - enforces
+      - basic encoding rules (BER)
+      - canonical encoding rules (CER)
+      - distinguished encoding rules (DER)
+- PKI
+  - everything involved in public key encryption
+  - trust model
+    - refers to the type of trust relationship
+      - direct trust
+        - one person knows the other person
+      - third party trust
+        - two individuals trust the same third party
+      - web of trust
+        - each user signs their own cert then gives it to all users
+      - hierarchical model
+        - a single hierarchy with one master CA called root
+        - the root signs all CAs with a single key
+        - if the root cert is compromised, all others are useless
+        - root CA having to sign everything could create a backlog
+      - distributed trust
+        - multiple CAs sign certs
+      - bridge trust model
+        - similar to distributed
+        - one CA acts as a facilitator to connect the other CAs
+        - facilitator does not issue certs
+  - certificate policy
+  - certificate practice statement
+    - a doc that tells how the CA manages certs
+- certificate life cycle
+  - creation
+  - suspension
+  - revocation
+  - expiration
+- key storage
+  - public keys are stored within certs
+  - private key is stored on the local system
+  - software storage exposes keys to attackers
+  - store keys in hardware
+    - smart cards
+    - tokens
+- key handling procedures
+  - escrow
+  - expiration
+  - renewal
+    - renew before it expires
+  - revocation
+    - if a key is compromised, revoke it
+  - recovery
+    - keys can be recovered if its safe
+  - suspension
+    - pause button on the key, turn it off and back on
+  - destruction
+    - unused keys should be destroyed
+- S/MIME
+  - secures email messages
+  - cert can be part of the body of the message
+- SRTP
+  - provides protection for VoIP
+  - UDP
+- IPsec
+  - transparent to users, apps, and software
+  - two modes
+    - transport
+      - encrypts only the data, leaves the header clear
+    - tunnel
+      - encrypts the header and the info
+- 
