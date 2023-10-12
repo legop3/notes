@@ -375,3 +375,12 @@
   - ex:
     - when rolling a dice, the cdf of 2 would add the probabilities of rolling a 1 and a 2
   - the cdf of the ending value will equal 1 since all probabilities have to add up to 1
+- binomial distribution
+  - a fixed number of trials
+  - two possible outcomes
+    - success
+    - or failure
+    - the success is whatever we are interested in
+  - probabilities will remain fixed
+    - the probabilities are independent
+  - multiplication

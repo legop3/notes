@@ -54,3 +54,9 @@ updates management
 
 which method is used in sideloading?
 usb
+
+
+# MIDTERM STUFFS
+- stats: wednesday october 18th
+  - review on tuesday
+  - project part 1 due sunday october 22nd
