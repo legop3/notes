@@ -411,4 +411,47 @@ prof. chuah
       - encrypts only the data, leaves the header clear
     - tunnel
       - encrypts the header and the info
-- 
+# module 8: networking threats, assessments, and defenses
+- including
+  - interception attacks
+  - mitm (inline)
+    - threat actor inside a communication of two parties
+    - pretending to be the other party for each
+    - eavesdropping or impersonation or both
+    - two phases
+      - finding a way to get in and intercepting
+      - decrypt the transmissions and use the information
+  - session replay
+    - a legit session is copied and saved to use at a later time
+    - capturing logon credentials
+    - stealing active session IDs
+    - network attacks
+    - endpoint attacks
+      - xss, rat, malicious javascript
+  - man in the browser
+    - intercepts communication between parties
+    - occurs between the browser and the underlying computer
+    - installs as an extension on the browser
+    - everything happens in the browser
+    - only does stuff on a specific targeted webpage
+    - captures form fields from the target webpage
+    - very hard for antimalware to detect
+- OSI model ??!?
+  - layer 2 attacks
+    - data link level
+    - can mess with everything above
+- ARP poisoning
+  - MAC addresses are stored in a cache to be paried with IPs
+  - spoofing MAC addresses
+- MAC cloning 
+  - find a valid MAC address
+  - copy that address, network thinks youre them
+- MAC flooding
+  - overflow switch with packets that each contain a different MAC address
+- DNS
+  - converts URL to IP address
+  - a DNS attack substitutes a DNS address 
+  - DNS hijacking
+    - redirects all users on a DNS server
+- powershell
+  - cmdlets
