@@ -46,8 +46,38 @@
 - prints were made of it in 1782
 - swinging was a common leisure activity for elites
   - in their gardens
+    - gardens were considered to be less formal than being inside
 # Neoclassicism, an introduction
-
+- neoclassicists preferred having no visible brushstrokes
+- drawing is more important than painting
+- clean sharp lines
+- neoclassicism was a child of the enlightenment
+  - connected classical traditions to enlightenment ideas
+  - politically charged
+- strong horizontal and vertical lines
+- not vibrant colors
+- jaques-louis david
 # Jacques-Louis David, Oath of the Horatii
-
+- shows three brothers saluting three swords being held up by their father, with women grieving behind him.
+- two families are going into battle because of a dispute
+- the women of the families are upset
+- the families are connected by marriage
+- this story came out of a play called Les Horaces by Corneille
+  - not an exact scene from the play, but probably inspired by it
+- painting is somewhat political
+  - to show people that their ideas will require sacrifice
 # Jacques-Louis David, Napoleon Crossing the Alps
+- painting shows napoleon riding on a horse on a mountain range
+  - happened in may 1800
+  - napoleon led the troops across the alps
+- commissioned by king charles IV of spain
+- napoleon refused to pose and model for david while he was painting
+- david had his son wear napoleons uniform and make the pose
+- napoleon also did not actually lead his troops across the alps
+- napoleons arm in this painting follows the slope of the mountain ridge
+- he is also very calm and controlled, while his horse is not
+- napoleon ordered three more copies of the painting
+  - one in madrid
+  - one in paris
+  - one in milan
+  - one also was made that stayed in davids studio
