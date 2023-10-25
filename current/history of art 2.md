@@ -182,7 +182,20 @@
   - puts emphasis on the artwork instead of the room
 - parthenon marbles
   - marble sculptures taken from greece
-  - while greece was under ottoman occupationoccupation
+  - while greece was under ottoman occupation
+10/26
+# eighteenth century art in europe
+- roccoco
+  - happens first
+  - playful
+  - bright
+  - colorful
+  - pastel
+  - nature
+  - sense of freedom
+  - leisure
+- neoclassical
+  - 
 
 
 # long term terms

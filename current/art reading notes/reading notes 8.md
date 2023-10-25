@@ -26,11 +26,65 @@
 - calotype
 - photographs create perspective in 2d like paintings did, but it just kind of happens
 - paris opera, charles garnier
-  - 
+  - a building
+  - built right in the middle of multiple new boulevards
+  - incorporated new building technologies from the industrial revolution
+  - was the most expensive building in paris in it's era
+- brooklyn bridge
+  - suspension bridge
+  - set a record for it's distance between towers
 ## the construction of the eiffel tower
-
+- named for gustave eiffel
+- built for the universal exposition of 1889
+- 984 feet tall
+- wrought iron
+- many parts were pre fabricated off site and just put together on site
+- lots of triangles to create structure
+  - kept it light, too
+- the tower's base was the gateway to the fair
+- it was criticized for being bare iron
+- loved by tourists
 ## capturing current events
-
+- a harvest of death, timothy h. o'sullivan and alexander gardener
+  - a photograph of dead chinese soldiers
+- photos of war could not yet capture action because of long exposure times
+- the american civil war was one of the first to be heavily photographed
+- photographers used mobile darkrooms, lugged large cameras and chemicals around
+- photographs were considered to be more accurate and trustworthy than handmade art
+  - it is also suspected that photographers staged or manipulated some photos of war
 ## realism and democritization of subjects
-
+- realism means art that tries to depict the subject accurately without idealization or distortion
+- also refers to a movement in france where artists wanted to represent things of their own era
+- the stonebreakers, courbet
+  - courbet hoped that his viewers would empathize with the poor
+  - the stonebreakers shows backbreaking labor
+    - a boy and a man breaking stones by hand to make gravel
+      - they are wearing beaten up clothes and shoes
+  - courbet actually asked two workers to model for his painting
+- alexander rutherford, william ramsey, and john liston
+  - a photograph by david octavius hill and robert adamson
+  - similar to a genre painting
+  - shows three ordinary people from the fishing village of newhaven scotland
+  - social documentary photography
+    - photographs that depict people in their everyday lives
+- debates over whether photography is simply documentation or if its art
+- james presley ball
+  - photographer
+  - operated one of the most successful photography galleries
+    - in cincinatti
+  - took portraits of white, black, and chinese people
 ## tradition mingles with new knowledge
+- people liked the middle ages
+- revivals of mideval type things combined with more modern ideas
+- the parting of lancelot and guinevere, julia margaret cameron
+  - a photo
+  - very soft
+    - out of focus
+  - the subjects are dressed in mideval clothing
+  - julia margaret cameron was criticized for her soft style of photos
+- mallow wallpaper, kate faulkner
+  - a wallpaper pattern
+  - repeating forms of plants
+  - interconnected patterns
+  - leaves and branches twisting over and under each other
+  - monochrome, shading adds depth and texture
