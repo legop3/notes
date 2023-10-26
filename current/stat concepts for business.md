@@ -384,3 +384,19 @@
   - probabilities will remain fixed
     - the probabilities are independent
   - multiplication
+# unit 6
+- the normal distribution is symmetric
+- 3 cases
+  - standard normal:
+    - mean = 0, stdev = 1, denoted by z
+  - individual observation from a population:
+    - mean = m, stdev = sigma, 
+  - sample mean distribution
+    - uses central limit theorem
+    - mean = mean of population = m, stdev = (stdev(pop)/sqrt(n))
+- proportions
+  - usually from a survey
+    - or a poll
+  - central limit theorem
+    - let bar X be the mean of a large (n>30) simple random sample from a population with mean M and standard deviation O. Then bar X has an approx. normal distribution with mean mbarx = M and stddev Ox = O/sqrt(n)
+    - let p hat be the sample proportion for a sample size of n and population proportion P.

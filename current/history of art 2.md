@@ -185,6 +185,7 @@
   - while greece was under ottoman occupation
 10/26
 # eighteenth century art in europe
+- wearing a hat = rich and successful
 - roccoco
   - happens first
   - playful
@@ -194,8 +195,27 @@
   - nature
   - sense of freedom
   - leisure
+  - swings
+  - ended by the enlightenment
+    - enlightenment means to make something clear
+    - science
+    - reason
+    - philosophy
+    - printing press
+    - the king gets his power from the people, not god
+    - enlightenment thinkers condemn roccoco art
+    - less religion, superstition, monarchy
+  - monarchy was abolished in 1792
 - neoclassical
-  - 
+  - the grand tour
+  - new classical
+    - revival of greco-roman art
+  - the idea that you control your own destiny
+  - very political
+  - political artwork
+- romanticism
+  - existed alongside neoclaccisism
+  - emotional expressiveness
 
 
 # long term terms
