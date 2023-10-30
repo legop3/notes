@@ -400,3 +400,10 @@
   - central limit theorem
     - let bar X be the mean of a large (n>30) simple random sample from a population with mean M and standard deviation O. Then bar X has an approx. normal distribution with mean mbarx = M and stddev Ox = O/sqrt(n)
     - let p hat be the sample proportion for a sample size of n and population proportion P.
+# unit 7 - confidence intervals
+- a confidence interval will capture the true population parameter c% of the time where c is the confience level
+- student T distribution
+  - another type of sampling distribution
+  - used for smaller sample sizes or sample data
+  - unlike the normal distribution, which is determined by the mean and standard deviation, the student T tistribution is determined bt degrees of freedom
+- degrees of freedom is equal to sample size - 1
