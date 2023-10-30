@@ -216,6 +216,28 @@
 - romanticism
   - existed alongside neoclaccisism
   - emotional expressiveness
+- 10/30
+# realism in european and north american art
+- the paper
+  - choose three artworks from the class
+  - explain their signifigance 
+  - from the time period of this class
+    - = from reniassance to today
+- photography
+  - daguerre was the first to record a fixed photograpic image
+    - on a silver coated metal plate
+    - with light reactive chemicals
+  - timothy o'sullivan
+    - captured the first photograps of war
+    - in the civil war
+    - worked with alexander gardener
+- realism
+  - realistic representation
+  - AKA naturalism
+- Realism
+  - starts in paris in the late 1800s
+  - avant-garde
+  - challenging the academies that make the rules for art
 
 
 # long term terms
