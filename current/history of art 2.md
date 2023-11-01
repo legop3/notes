@@ -238,8 +238,17 @@
   - starts in paris in the late 1800s
   - avant-garde
   - challenging the academies that make the rules for art
-
-
+- 11/01
+- urbanization changed the concept of time for people
+- courbet moved marginalized people into an honored status in his paintings
+- manet
+  - painter of modern life
+  - wants to paint the people around him
+    - instead of painting rich people and jesus forever
+  - does not try to paint perfectly
+    - because paintings are not real
+    - the luncheon on the grass is a good example
+  - 
 # long term terms
 - romanesque - mideval architecture, round arches
 - bapistery - a building or room reserved for baptisms
