@@ -407,3 +407,8 @@
   - used for smaller sample sizes or sample data
   - unlike the normal distribution, which is determined by the mean and standard deviation, the student T tistribution is determined bt degrees of freedom
 - degrees of freedom is equal to sample size - 1
+- point estimate
+  - the estimate of a population parameter at a point in time - basically it is the appropriate statistic
+  - so for the sample mean: X bar
+  - for the sample proportion: p hat
+  - 

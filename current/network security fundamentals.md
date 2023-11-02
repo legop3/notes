@@ -455,3 +455,28 @@ prof. chuah
     - redirects all users on a DNS server
 - powershell
   - cmdlets
+11/02
+# module 10: cloud and virtualization security
+- hosted services environment
+- cloud computing
+  - for a price you can scale what youre doing up or down to fit exactly what your organization requires
+  - aws
+  - azure
+  - google cloud
+- types of cloud
+  - public cloud
+    - a cloud that anyone can use
+  - community cloud
+    - same type of companies sharing a cloud
+  - private cloud
+    - a company runs their own cloud
+- elasticity and scalability
+- pay-per-use
+  - pay for a month, or a semester of compute time
+- on-demand
+  - spin up the hardware that you need when you need it
+- resiliency  
+  - any required system is backed up somewhere
+  - cloud provider handles the switching to the backup
+- transit gateways
+  - connects all the parts of the cloud to a single managed source
