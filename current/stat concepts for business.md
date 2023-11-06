@@ -411,4 +411,3 @@
   - the estimate of a population parameter at a point in time - basically it is the appropriate statistic
   - so for the sample mean: X bar
   - for the sample proportion: p hat
-  - 
