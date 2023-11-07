@@ -248,7 +248,23 @@
   - does not try to paint perfectly
     - because paintings are not real
     - the luncheon on the grass is a good example
-  - 
+11/06
+# impressionism and avant garde
+- impressionism
+  - loose brushstrokes
+  - plein aire
+    - painting outside
+    - capturing a moment in time
+      - life was speeding up cause of city
+    - invention of paint in tubes
+  - very colorful and light
+  - light was important
+  - subjects are everyday scenes and people
+    - landscapes
+    - cityscapes
+    - portraits
+    - candid
+- 
 # long term terms
 - romanesque - mideval architecture, round arches
 - bapistery - a building or room reserved for baptisms
@@ -282,3 +298,9 @@
 - ndop - wooden statue
 - hierarchy of scale - bigger things are more important
 - masquerade - dancing, choreography, music, costumes, an event, celebration, occasion, performance, transformation of the human body, audience
+- candid photo - a picture taken randomly without the subjects being posed or prepared
+- plein air painting - painting in natural light instead of studio light
+- pointillism - applying small dabs or dots of color
+- impasto - the texture produced by paint that is applied very thickly
+- cloisonnism - post-impressionist style where flat forms are painted in bold colors, seperated by flat contours
+- impasto - a thick application of paint
