@@ -480,3 +480,17 @@ prof. chuah
   - cloud provider handles the switching to the backup
 - transit gateways
   - connects all the parts of the cloud to a single managed source
+# module 11: wireless network security
+- foot trial
+  - tubefooter
+- bluejacking
+  - hijacking bluetooth systems
+  - more annoying than harmful, no data is stolen
+- bluesnarfing
+- most RFID tags are passive
+- a
+- b
+- g
+- n
+- ac
+- ax
