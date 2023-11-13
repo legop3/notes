@@ -264,7 +264,30 @@
     - cityscapes
     - portraits
     - candid
+11/13
+# modern art in europe and the americas
+- cubism
+  - pre-dada movement
+  - geometric shapes
+  - less realistic
+  - exremely stylized
+  - often monochromatic, dark colors
+  - navajo had been making abstract art in sand paintings forever
+- dada
+  - an attitude and a movement
+  - in art, music, writing, philosophy
+  - making something that questions pre existing ideas
+  - a response to war, capitalism, authority
+- early 20th century
+  - world war 1
+  - communism and fascism
+  - stock market crash of 1929, great depression
+  - nuclear energy
+  - freud and pavlov
+  - world war 2 began in 1939
 - 
+
+
 # long term terms
 - romanesque - mideval architecture, round arches
 - bapistery - a building or room reserved for baptisms
