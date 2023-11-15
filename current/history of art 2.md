@@ -274,6 +274,7 @@
   - often monochromatic, dark colors
   - navajo had been making abstract art in sand paintings forever
 - dada
+  - weaponizing nonsense against the institution
   - an attitude and a movement
   - in art, music, writing, philosophy
   - making something that questions pre existing ideas
@@ -285,8 +286,31 @@
   - nuclear energy
   - freud and pavlov
   - world war 2 began in 1939
-- 
 
+
+11/15
+# surrealism
+- an offshoot of dada
+  - not typical art
+  - challenges the norm
+  - not "fine art"
+  - a response to the war
+- oppenheim object
+  - fur covered cup, saucer, and spoon
+  - wanted to express the unconsious psychic state
+  - changes the meaning of the object
+- apiration of face and fruit dish, salvador dali
+  - oil on canvas
+  - face, but no face, but face
+  - bananna peel?
+  - what?
+  - left side is melting
+  - three different backgrounds
+  - brushstrokes are smooth, blended together
+- self portrait, leonora carrington
+  - hallucinatory
+- the history of mexico, diego rivera
+  - 
 
 # long term terms
 - romanesque - mideval architecture, round arches
