@@ -412,3 +412,4 @@
   - so for the sample mean: X bar
   - for the sample proportion: p hat
 # unit 8 - frog city
+- 
