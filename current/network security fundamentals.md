@@ -494,3 +494,6 @@ prof. chuah
 - n
 - ac
 - ax
+# module 12: authentication
+- making sure youre talking to the right people
+- 
