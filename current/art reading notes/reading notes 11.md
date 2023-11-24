@@ -1,0 +1,40 @@
+# Diaspora in the modern world
+- diaspora means "to scatter"
+  - described jews who were living in exile outside of israel
+  - now refers to all groups of people who dispersed from their homeland
+- marc chagall
+  - artist of jewish origin
+  - born in eastern europe
+    - riots in the late 19th century destroyed many jewish communities
+    - chagall's village was spared
+  - i and the village
+    - a painting by him
+    - dream-like depiction of his childhood
+  - he studied in paris, went back to vitebsk, returned to france, and escaped the nazi invasion of france by fleeing to the US. he returned when ww2 was over.
+- diaspora is also associated with the people taken from africa and enslaved 
+- lois mailou jones
+  - portrayed african american subjects in european styles of art
+  - studied in paris in 1937
+  - les fetiches
+    - a painting by her
+    - shows masks that were modeled after those from the ivory coast
+    - named that because of the colonial view that african religious icons were "fetishes"
+  - she reclaimed african imagery that european modernists had appropriated
+- maria magdalena campos-pons
+  - cuban artist living in boston
+  - she once incarnated fefa in a collaborative performance
+    - white paint on her face mimicking some african masks believed to incarnate spirits
+    - a birdcage crown
+    - chinese silk robe
+    - blue yarn symbolizing the ties between cuban and exiled families
+    - accompanied by cuban musicians
+      - playing a call and response based on yoruba chants
+    - connecting many different cultures together
+- student protests at tiananmen square in 1989
+  - ah xain
+    - left beijing for sydney in the late 90's
+    - experimented with body casts
+    - made a series of decorated porcelain busts
+      - one of these uses the body cast of an older chinese man
+      - with a design on the surface depicting chinese architecture
+      - as if the image was tattooed onto the man's head
