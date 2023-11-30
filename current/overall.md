@@ -68,3 +68,5 @@ usb
 
 
 # stats project part 2
+- due right after final
+- one paragraph per part
