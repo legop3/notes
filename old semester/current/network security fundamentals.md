@@ -496,4 +496,7 @@ prof. chuah
 - ax
 # module 12: authentication
 - making sure youre talking to the right people
-- 
+# 15
+- FIT: billionm sane as mtbf
+- ARO: annualized rate of occurance
+  - likelihood of a risk occurring within a year

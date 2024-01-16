@@ -70,3 +70,5 @@ usb
 # stats project part 2
 - due right after final
 - one paragraph per part
+
+- nsf final thursday 6am to friday midnight
