@@ -90,3 +90,40 @@
 
 
 - water soluble molecules cannot diffuse through the phospholipid layer
+## tissues
+- four tissue types
+  - epithelial
+    - covering, lining
+    - the epithelium
+    - covers body surfaces
+    - lines body cavities
+    - forms glands
+    - characteristics
+      - tightly aggregated cells
+      - no blood vessels
+      - highly regenerative
+      - supplied by nerves
+      - cells are polarized, have apical (outside) surface and basal surface (inside)
+    - functions
+      - protective
+      - excretion
+      - absorpsion
+      - secretion
+      - filtration
+      - sensory reception
+    - classification
+      - number of cell layers
+        - simple, single layer
+        - stratified, more than one layer of cells
+      - shape of apical cells
+        - squamous, flat
+        - cuboidal, block shape
+        - columnar, taller than wide
+        - transitional, changes shape
+      - 
+  - connective
+    - supportive
+  - muscle
+    - movement
+  - nervous
+    - control
