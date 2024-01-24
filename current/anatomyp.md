@@ -119,11 +119,125 @@
         - squamous, flat
         - cuboidal, block shape
         - columnar, taller than wide
+          - pseudostratified, a layer of cells that vary in height
         - transitional, changes shape
-      - 
   - connective
     - supportive
+    - its everywhere
+    - characteristics
+      - consists of cells and extracellular matrix
+        - ecm contains ground substance and fiber types
+          - reticular fibers
+          - elastic fibers
+          - collagen fibers
+      - vascular, varies between types
+      - all connective tissue comes from mesenchyme in the embryo
+    - functions
+        - connects things together
+        - provides protections and support
+        - fills open spaces in the body
+        - produces blood cells, within bone
+        - stores fat
+    - types
+      - loose
+        - areolar
+          - loose fibers and cells
+          - lots of space / groud substance
+          - found under the skin
+        - reticular
+          - loose, more reticular fibers and cells
+          - lots of space
+          - found in spleen, thymus, bone marrow, lymph nodes
+          - lymphatic tissue
+        - adipose
+          - AKA fat
+          - mostly cells
+          - stores energy
+          - found wherever there is fat
+      - dense
+        - regular
+          - collagen fibers
+          - strong in one plane, tensile
+          - found in tendons and ligaments
+        - irregular
+          - collagen fibers
+          - irregular pattern
+          - strong in all directions
+          - found in dermis of skin, capsules around organs
+        - elastic
+          - many elastic fibers and some collagen
+          - flexible
+          - found in aorta
+      - cartilage
+        - hyaline
+          - avascular
+          - lots of collagen
+          - cells sit in lacunae
+          - found in nose, trachea, embryonic skeleton
+        - elastic
+          - elastic and collagen
+          - avascular
+          - flexible
+          - found in external ear
+        - fibrocartilage
+          - avascular
+          - cells in lacunae
+          - very strong, force and compression resistant
+          - found in spine, knee joints
+      - bone
+        - highly vascularized
+      - blood
+        - the only fluid tissue
+        - cells surrounded by non living matrix
   - muscle
     - movement
+    - muscle fibers can contract
+    - 3 types
+    - skeletal
+      - attached to the bones, eye, and face
+      - muscles pull
+      - cylindrical cells / fibers
+      - many nuclei per cell
+      - voluntarily controlled
+      - striated
+    - cardiac
+      - comprises the heart muscle wall
+      - found only in the heart
+      - pumps the blood
+      - involuntary
+      - branching cells, one nucleus per cell
+      - intercalated disks
+      - striated
+    - smooth
+      - found in walls of hollow organs, except heart
+      - visceral muscle
+      - found in the walls of organs and blood vessels
+      - involuntary
+      - cells are spindle shaped
+      - one nucleus per cell
+      - often squeezing things through tubes
+      - NOT striated
   - nervous
     - control
+    - communication
+    - cellular, very little matrix
+    - neurons, very delicate, high energy
+      - they do not regenerate
+    - support neuroglia
+  - membranes
+    - line body cavities, internal spaces of organs
+    - mucous membranes
+      - epithilium plus loose connective tissue
+      - keeps tracts moist
+    - serous membranes
+      - simple squamous epithelium
+      - secrete serous fliud, lubrication
+      - lubricates organs in cavities, lungs, heart
+    - synovial membranes
+      - secretes synovial fluid
+      - lubricates joint cavities
+    - cutaneous membranes
+      - skin
+      - stratified squamous epithelium + dense irrecular connective tissue
+      - or, epidermis and dermis
+      - covers the entire body
