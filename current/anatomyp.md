@@ -101,25 +101,58 @@
     - characteristics
       - tightly aggregated cells
       - no blood vessels
-      - highly regenerative
+      - highly regenerative / high rate of mitosis
       - supplied by nerves
-      - cells are polarized, have apical (outside) surface and basal surface (inside)
+      - cells are polarized, have apical (outside, superficial) surface and basal surface (inside, deep)
+      - very little extracellular matrix, cells aren't floating in goo
     - functions
       - protective
       - excretion
+        - metabolization
       - absorpsion
+        - absorb water
       - secretion
       - filtration
+        - kidneys filtering
       - sensory reception
+        - on tongue, taste
     - classification
       - number of cell layers
         - simple, single layer
+          - in lungs
+          - simple squamous epithelium
+            - single layer of flat cells
+            - found in alveoli, glomeruli, and lining blood vessels
+          - simple cuboidal epithelium
+            - single layer of cube shaped cells
+            - found in lining of kidney tubules
+          - simple columnar epithelium
+            - single layer of rectangular cells
+            - found lining the gastrointestinal tract, lining of respiratory tract
+          - pseudostratified columnar epithrlium
+            - single layer of varied height cells
+            - has cilia, cell extensions
+            - found in upper respiratory tract, nose
+          - stratified squamous epithelium
+            - more than one layer, flat apical cells
+            - found in lining of esophagus, epidermis of skin
+          - stratified cuboidal epithelium
+            - more than one layer of cube shaped cells
+            - sweat glands
+          - stratified columnar epithelium
+            - found in male urethra
+          - transitional epithelium
+            - cells change shape
+            - stretching
+            - found in urinary bladder
         - stratified, more than one layer of cells
-      - shape of apical cells
+          - skin
+      - shape of apical (outside) cells (morphology)
         - squamous, flat
         - cuboidal, block shape
-        - columnar, taller than wide
+        - columnar, taller than wide, rectangular
           - pseudostratified, a layer of cells that vary in height
+            - in nasal lining
         - transitional, changes shape
   - connective
     - supportive
@@ -147,16 +180,17 @@
         - reticular
           - loose, more reticular fibers and cells
           - lots of space
+          - lots of ground substance
           - found in spleen, thymus, bone marrow, lymph nodes
           - lymphatic tissue
         - adipose
           - AKA fat
           - mostly cells
           - stores energy
-          - found wherever there is fat
+          - found wherever there is fat, breast, behind eye
       - dense
         - regular
-          - collagen fibers
+          - collagen fibers parallel to each other
           - strong in one plane, tensile
           - found in tendons and ligaments
         - irregular
@@ -165,30 +199,36 @@
           - strong in all directions
           - found in dermis of skin, capsules around organs
         - elastic
-          - many elastic fibers and some collagen
-          - flexible
-          - found in aorta
+          - many elastic fibers and some collagen fibers
+          - strong and flexible
+          - found in aorta, the biggest blood vessel in your body
       - cartilage
         - hyaline
           - avascular
           - lots of collagen
-          - cells sit in lacunae
+          - cells (chondrocytes) sit in lacunae
           - found in nose, trachea, embryonic skeleton
+            - growth plates of bones fuse together as you grow
         - elastic
           - elastic and collagen
           - avascular
           - flexible
-          - found in external ear
+          - found in external ear, eliglottis
         - fibrocartilage
           - avascular
           - cells in lacunae
           - very strong, force and compression resistant
-          - found in spine, knee joints
+          - found in spine, knee joints, pubic symphysis
       - bone
         - highly vascularized
+        - hard matrix of collagen and calcium
+        - cells are osteoblasts and osteocytes
       - blood
         - the only fluid tissue
         - cells surrounded by non living matrix
+        - red blood cells, white blood cells, platelets
+        - surrounded by blood plasma fluid matrix
+        - fibers are clotting protiens
   - muscle
     - movement
     - muscle fibers can contract
@@ -241,3 +281,26 @@
       - stratified squamous epithelium + dense irrecular connective tissue
       - or, epidermis and dermis
       - covers the entire body
+## class week 2
+- sub
+- neuron function
+  - action potentials
+    - nerve impulse
+    - depolarization
+      - cells polarity is flipping
+      - axon fills with Na+
+      - causes the charge to go to +30mV
+    - repolarization
+      - cells polarity is being reset
+      - K+ leaves the axon
+      - causes the charge to go back to -70mV
+      - refractory period, hyperpolarization happens
+        - sodium potassium pumps reset it
+  - resting membrane potential
+    - at rest, neuron is polarized
+    - inside of cell is negative, outside is positive
+      - RMP (resting) = -70mV
+      - action happens at +30mV
+    - more negative particles outside of cell
+    - more Na+ in ECF
+    - more K+ in ICF
