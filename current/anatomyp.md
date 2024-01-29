@@ -304,3 +304,93 @@
     - more negative particles outside of cell
     - more Na+ in ECF
     - more K+ in ICF
+## nueron structure and function
+- nervous tissue
+  - one of the 4 tissue types
+  - neuron
+    - the functional units of nervous tissue
+    - neuroglia
+      - supporting cells of the neurons
+        - ex. myelin coating
+
+- three main portions of a neuron
+  - cell body
+    - the cell, the circle
+    - generating and conducting electrical impulses
+    - nissil bodies makes protiens
+    - biosynthetic center, life source of the cell
+    - contains organelles
+  - dendrites
+    - arms coming off of the cell
+    - receptive regions of the neuron
+    - the input
+    - receptors for neurotransmitters
+  - axon
+    - the big long
+    - generating and unidirectional conducting region
+    - initiates and conducts action potentials
+  - axon hillock
+    - connects the cell body to the axon
+    - technically part of the axon
+    - beginning of the axon
+  - myelin sheath
+    - neuroglia
+    - produced by oligodendrocytes in central nervous system / brain, spinal cord
+    - produced by schwann cells in peripheral nervous system / anywhere else
+    - insulates axon from noise
+    - nodes of ranvier / gaps in myelin sheath
+      - impulses jump between gaps
+      - a process called saltatory conduction
+  - axon terminal
+    - telodendria
+      - branches at end of axon
+- synapse
+  - a synapse is a connection between neurons
+    - there is a small space between the neurons
+  - a neuromuscular junction is where a nerve meets a muscle cell
+    - theres a small space between the telodendria and the muscle cell
+- characteristics of neurons
+  - live up to 100 years
+  - amiotic, does not divide
+  - high metabolic rate, in constant need of oxygen and nutrients
+  - irritability, able to respond to a stimulus
+- the potential
+  - the potential to do something
+  - in units of mV
+- nerve impulses are action potentials
+- neurons generate action potentials
+- an electrical event involves the flow of ions across the axon cell membrane
+- a chemical will transmit to the next cell
+- gated channels
+  - cell membrane must have selective channels
+  - specific for sodium or potassium
+  - a chemical (ligand) or a voltage opens the channel
+  - chemical gated channels
+    - normally closed
+    - a chemical opens the channel to flow
+  - voltage gated channels
+    - normally closed
+    - voltage change opens the channel to flow
+- resting membrane potential
+  - at rest, the inside of the cell membrane is negative, the outside is positive
+  - RMP = -70mV
+  - polarised membrane
+- graded potential
+  - quick and short lived change
+  - stays in neuron
+  - could be less negative
+    - ex: -70mV to -50mV
+    - depolarization
+      - can lead to action potential if it gets to the threshold
+        - happens if the potential reaches the hillock
+      - voltage gated sodium channels open, positive sodium enters
+  - could be more negative
+    - ex: -70mV to -90mV
+    - hyperpolarization
+  - repolarization
+    - potassium channels open at +30mV
+    - potassium leaves the cell, cell goes back down to -70mV
+    - sodium potassium pump brings levels back to normal
+      - pumps sodium out and potassium back in
+- action potential
+  - action potential will send a message to another cell
