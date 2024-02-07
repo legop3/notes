@@ -394,3 +394,150 @@
       - pumps sodium out and potassium back in
 - action potential
   - action potential will send a message to another cell
+## integumentary system
+- integ oo men terry
+- part 1
+- (the skin)
+- functions
+  - protection
+    - mechanical damage
+    - chemical damage
+    - bacterial damage
+      - skin produces chemicals that kill bacteria on the surface
+    - UV radiation
+    - thermal
+      - too hot or too cold
+    - desiccation
+      - prevents us from drying out
+  - aids in excretion
+    - sweat contains urea
+  - helps produce vitamin D from UV light
+  - sensory organ
+  - thermal regulator
+    - helps us lose or retain heat
+    - sweat or blood vessel constriction
+- comprised of 3 layers
+  - epidermis
+    - stratified squamous epithelium
+    - 2 cell types
+      - keratinocytes
+        - contain keratin
+        - a tough protective protien
+        - make the skin protected from mechanical damage
+      - melanocytes
+        - produce melanin
+        - melanin absorbs UV light
+    - epidermis has 5 layers of cells
+      - stratum corneum
+        - top layer
+        - thickest layer
+        - entirely dead keratinocytes
+        - they are squished and flat
+        - scale like cells
+      - stratum lucidum
+        - only found in thick skin
+        - soles of feet, palms of hand
+        - less pigmentation
+        - doesnt tan
+      - stratum granulosum
+        - accumulating keratin granules
+      - stratum spinosum
+        - starting to produce the keratin
+      - stratum basale
+        - deepest layer
+        - single layer of cells
+        - melanocytes
+        - youngest keratinocytes
+  - dermis
+    - largest layer of the skin
+    - dense irregular connective tissue
+    - papillary layer
+      - top layer
+      - 20% of the dermis
+      - very close to the epidermis
+      - dermal papillae
+        - fingerprints
+        - papillae means bump
+        - projects bumps into the epidermis
+        - grippy fingerprints
+      - sensory receptors
+    - reticular layer
+      - deeper layer
+      - 80% of the dermis
+      - deep touch, pressure receptors
+      - composed of dense irregular connective tissue
+    - dermal sensory receptors
+      - meissners courpuscles
+        - light touch receptors
+        - large area
+      - pacinian corpuscles
+        - deep touch, pressure receptors
+        - large area
+  - hyopdermis
+    - subcutaneous
+    - below our skin
+    - adipose and areolar connective tissue
+      - adipose provides energy storage
+    - underneath our true skin
+    - deep to true skin
+    - anchors skin to underlying tissues
+- part 2
+- skin and accessory structures
+- hair
+  - functions
+    - minor protective
+      - eyelashes, nose hairs, head cusion
+    - sensory
+    - animals use hair for warmth and warning
+  - har follicle
+    - buried deep in the dermis
+    - produces the hair
+  - arrector pili muscle
+    - goosebumps
+    - hair stands on end
+  - sebaceous glands
+    - secrete sebum which lubricates
+    - sebum is bacteriocidal
+  - root hair plexus
+    - sensory nerve endings for each hair
+  - visible hair is called the shaft
+  - hair underneath the skin is called the root
+  - root is encased in the follicle
+- nails
+  - nail matrix
+    - under the skin
+  - root
+    - under the skin
+    - anchoring and growth for the nail
+  - cuticle
+  - lunula
+  - nail body
+    - the part you paint
+  - nail bed
+    - the part the nail covers
+- glands
+  - exocrine glands
+    - secrete product through a duct
+  - sweat glands
+    - apocrine sweat glands
+      - release sweat that contains sweat and protiens
+      - found in axillary and anogenital regions
+    - mericrine sweat glands
+      - release water-like sweat for evaporative cooling
+  - sebacious (oil) glands
+    - produce oil to lubricate the hair
+  - mammary glands
+    - secrete milk during late gestation and subsequent lactation
+    - similar to mericrine sweat glands
+- sensory receptors
+  - meissners corpuscles
+    - in papillary layer of dermis
+    - encapsulated receptors for light touch
+  - pacinian corpuscles
+    - in reticular layer of dermis
+    - deep touch, pressure
+    - encapsulated
+  - bare nerve endings
+    - unencapsulated receptors
+    - for pain cold and heat
+    - all over the body
