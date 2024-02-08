@@ -510,22 +510,29 @@
     - under the skin
     - anchoring and growth for the nail
   - cuticle
+    - the thin layer of skin around the base of the nail
   - lunula
+    - the white part of the nail
   - nail body
     - the part you paint
   - nail bed
     - the part the nail covers
 - glands
+  - endocrine glands
+    - secrete into the bloodstream
   - exocrine glands
     - secrete product through a duct
+    - secrete onto a surface
   - sweat glands
     - apocrine sweat glands
       - release sweat that contains sweat and protiens
       - found in axillary and anogenital regions
     - mericrine sweat glands
       - release water-like sweat for evaporative cooling
+    - sweat glands are not attached to hair follicles
   - sebacious (oil) glands
     - produce oil to lubricate the hair
+    - surrounds the hair follicle
   - mammary glands
     - secrete milk during late gestation and subsequent lactation
     - similar to mericrine sweat glands
@@ -541,3 +548,5 @@
     - unencapsulated receptors
     - for pain cold and heat
     - all over the body
+## class feb 8
+- 
