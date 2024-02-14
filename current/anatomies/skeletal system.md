@@ -1,0 +1,193 @@
+## part a
+- functions of the skeletal system
+  - support
+  - protection of soft tissues, lungs brain heart
+  - movement, leverage for muscles
+  - mineral storage, calcium and phosphorus
+  - hematopoesis, produces red blood cells
+  - storage of energy, yellow bone marrow contains fat
+- bones are classified by shape
+  - long bone = shaft + 2 ends
+    - fingers are long bones, arm bones
+  - short bones = cubelike, round
+  - flat bones = like skull
+  - sesamoid bone = round bones, kneecap
+  - irregular bone = vertabrae
+- tissues comprising long bone
+  - spongy bone
+    - literally
+    - bone with sponge holes filled with blood
+  - compact bone
+    - yes
+  - medularry cavity
+    - 
+  - marrow
+    - produces blood cells
+- structure of long bone
+  - diaphysis (shaft)
+    - medullary cavity
+  - epiphysis (bone ends)
+    - articular cartilage
+      - joint surfaces
+    - epiphyseal plate
+      - for growth
+      - if the person is done growing, turns into the epiphyseal line
+  - periosteum - connective tissue on the outer surface of the bone
+  - endosteum - connective tissue on the inside of the bone
+  - red marrow - forms blood cells, found in spongy bone
+  - yellow marrow - fat found in medullary cavity
+- the human skeleton
+  - name and locate major bones (scary)
+  - axial skeleton
+    - skull = cranial and facial bones
+    - bony thorax = sternum and ribs
+    - vertebral column
+  - the appendicular skeleton
+    - appendages
+    - upper limb
+      - arms
+      - attaches through scapula
+    - lower limb
+      - legs
+      - attaches through bony pelvis
+## part b
+- cranial bones
+  - part of the axial skeleton
+  - 8 cranial bones
+    - frontal bone - forehead
+    - 2 parietal bones = superior, lateral, top of head
+    - 2 temporal bones = inferior, lateral, around ear on either side, at top of jaw
+      - where the ear sits
+      - external autitory meatus - ear canal
+      - mastoid process
+        - bump behind ear
+      - styloid process
+      - muscles attach to the processes
+    - occipital bone = posterior, back bottom of head
+      - foramen magnum
+        - spinal cord hole
+      - occipital condyles
+        - first vertabrae connects to skull here
+    - sphenoid bone = bat shaped bone, goes across the entire front of the skull
+      - sella turcica
+        - where the pituitary gland sits
+    - ethmoid bone - part of the nasal septum and orbit of eye, in your skulls nose hole
+      - pointy part
+        - crista galli
+      - part with holes
+        - cribiform plate
+        - the smeller
+        - olfactory nerves
+- sutures
+  - joints between the skull bones
+  - joints are where two bones meet, these are joints
+  
+  - between frontal and parietal bones = coronal suture
+  - between parietal bones = saggital suture
+  - between parietal and temporal = squamous suture
+  - between parietal and occipital = lamdoid suture
+- sinuses
+  - cavities full of air
+  - lightens the skull
+  - enhances resonance of voice
+- foramina
+  - foramen magnum - spinal cord hole
+  - jugular foramen - jugular hole
+  - cartoid canal - for the carotid artery
+- fissures
+  - slit like structures for eye muscles to pass through
+  - superiir orbital fissure
+  - inferoir orbital fissure
+- facial bones
+  - 2 maxillae = upper jaw, behind upper lip, also roof of mouth
+  - 2 nasal bones = bridge of nose
+  - 2 zygomatic bones = cheekbones
+  - 1 mandible = lower jaw, chin
+  - 2 lacrimal bones = wall of orbit
+  - 1 vomer = inferior part of nasal septum
+  - 2 inferior nasal conchae = curved bones in nasal cavity
+  - 2 palatine bones = posterior portion of hard palate
+  - hyoid bone
+    - not connected to any other bone
+    - in the fleshy area between neck and mandible
+    - does not articulate with other bones
+    - used for speech
+- axial skeleton
+  - vertebral column
+  - cervical (7)    
+    - neck region
+    - atlas
+      - attaches to the skull
+    - axis
+      - 2nd vertabrae
+  - thoracic (12)
+    - chest area
+    - also 12 ribs
+  - lumbar (5)
+    - lower back
+  - sacrum
+  - coccyx
+    - tailbone
+  - parts of vertabrae
+    - spinous process
+      - the part that sticks out that you feel on your back
+    - vertebral foramen
+      - hole for the spinal cord in each vertabrae
+  - the bony thorax
+    - costal cartilage
+      - connects ribs to sternum / breastplate
+    - sternum = breastbone
+    - ribs (12 pairs)
+      - true ribs
+        - first 7 pairs
+        - have individual costal cartilage connecting to sternum
+      - false ribs
+        - pairs 8 through 12
+        - share costal cartilage or don't connect to sternum at all
+## part c
+- appenticular skeleton
+- upper and lower limb
+- arms and legs
+
+- upper limb
+- pectoral girdle
+  - collarbone and scapula
+  - acromion process
+    - muscles attach here
+    - articulates with clavicle
+  - coracoid process
+    - attachment for muscles
+  - glenoid cavity
+- humerus
+  - head - proximal
+    - articulates with the glenoid cavity of scapula
+  - posterior - distal
+- radius
+  - lateral
+  - thumb side
+- ulna
+  - medial
+  - pinky side
+- carpals (wrist)
+  - metacarpals - bones in palm
+- phalanges
+  - finger bones
+  - 2 in thumb
+  - 14 in each hand
+- lower limb
+  - pelvic girdle
+  - deep sockets
+  - attaches lower limb to axial skeleton
+  - made up of 2 coxal bones
+    - coxal bone is 3 bones
+      - ilium
+        - iliac crest
+        - hands on hip
+      - ischium
+        - sit on this
+      - pubis
+        - meet in the middle
+        - joined by pubic symphysis
+- femur bone
+  - thigh bone
+  - longest, strongest bone
