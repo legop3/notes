@@ -215,5 +215,27 @@
     - humerus = arm bone, shoulder to elbow
       - capitulum = at the distal end of the humerus
     - collarbone = connects arm to skeleton, appendicular
-    - os coxa = hip bones, connects femur to skeleton
-    - 
+    - os coxa = coxal bone = hip bones, connects femur to skeleton
+- joints
+  - classification of joints
+    - synarthroses = no movement, sutures
+    - ampiarthroses = some movement, wrist bones, between vertebrae
+    - diarthroses = highly movable, shoulder
+  - classification of movements
+    - flexion 
+      - pulling elbows closed
+    - extension
+      - pushing elbows flat
+    - rotation
+      - writst
+    - adduction
+      - towards midline
+    - abduction
+      - away from midline
+    - elevation
+      - raising shoulders
+    - depression
+      - lowering shoulders
+    - circumduction
+      - 360 degree motion
+      - shoulders and hips
