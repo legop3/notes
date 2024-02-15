@@ -192,3 +192,28 @@
   - thigh bone
   - longest, strongest bone
 ## in class
+- axial
+  - things that are in the center of the body
+  - head, spinal cord, ribs
+  - skull
+    - frontal bone = forehead, has the frontal lobe
+    - zygomatic bone = cheek bone
+    - foramen magnum = hole in occipital bone for spinal cord
+    - occipital condyle = pads on occipital bone that lets head sit on atlas
+  - bony thorax
+    - contains ribs, heart, lungs
+  - atlas is c1 vertebrae
+  - axis is c2 vertebrae
+- appendicular
+  - think appendages
+  - upper and lower limb only
+  - hands
+    - phalanges
+  - pelvis = two hip bones and a sacrum
+  - bones
+    - femur = thigh bone
+    - humerus = arm bone, shoulder to elbow
+      - capitulum = at the distal end of the humerus
+    - collarbone = connects arm to skeleton, appendicular
+    - os coxa = hip bones, connects femur to skeleton
+    - 
