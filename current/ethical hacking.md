@@ -5,4 +5,5 @@
     - when should we do testing, after hours or during business
     - what other subdomains to test
 - scanning! ^w^
+- wireless
   - 
