@@ -6,4 +6,7 @@
     - what other subdomains to test
 - scanning! ^w^
 - wireless
-  - 
+- social engineering
+  - gootert wootert
+  - conman - acts with confidence
+  - gophish is a phishing framework like metasploit

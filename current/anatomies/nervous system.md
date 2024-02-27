@@ -1,0 +1,58 @@
+## only one video
+- functions of the nervous system
+  - sensory input - nervous system recieves information and sends it to the central nervous system
+  - integration - analysis, thinking about the information that comes in, takes place in CNS
+  - motor output - instructions are sent from the CNS to muscles or glands that respond
+- central nervous system (CNS)
+  - brain
+  - spinal cord
+  - meninges
+    - protective membranes of the CNS
+    - 3 layers
+      - dura mater - outer most layer
+      - arachnoid mater
+        - subarachnoid space - filled with cerebrospinal fluid
+          - cerebrospinal fluid
+            - found in and around brain and spinal cord
+            - made from blood plasme
+            - nourish and protect
+            - suspends the brain so it doesnt crush itself
+            - in subarachnoid space
+            - found in ventricles of the brain
+              - produced in lateral ventricles
+              - flows from lateral to 3rd
+              - flows from 3rd to aquaduct
+              - flows to fourth ventricle
+              - either gors down the central canal of the spinal cord or to the subarachnoid space
+      - pia mater - directly adherent to the brain or spinal cord
+  - ventricle
+    - spaces within the brain and spinal cord
+    - produces CSF
+    - allows for the flow of CSF
+    - 2 lateral ventricles one per hemisphere
+    - third ventricle above thalamus
+    - fourth ventricle between cerebellum and pons
+    - cerebral aquaduct allows flow between 3rd and 4th ventricle
+- peripheral nervous system
+  - all nervous tissues outside the brain and spinal cord
+  - spinal nerves
+    - 31 of them
+    - cervical nerves = c1 - c8
+    - thoracic nerves = t1 - t12
+    - lumbar nerves = l1 - l5
+    - sacral nerves = s1 - s5
+    - coccygeal nerve = c0
+  - cranial nerves
+    - 12 of them
+  - two divisions of PNS
+    - sensory (afferent) nervous system
+      - information travels toward CNS from sensors
+    - motor (efferent) nervous system
+      - information travels away from CNS to outputs
+      - two branches
+        - somatic nervous system - skeletal muscle output, voluntary
+        - autonomic nervous system - smooth muscle, cardiac muscle, involuntary
+          - sympathetic nervous system
+            - fight or flight response
+          - parasympathetic nervous system
+            - resting or digesting
