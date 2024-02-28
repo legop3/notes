@@ -1,0 +1,124 @@
+## part a
+- the brain
+  - cerebrum
+    - largest part of the brain
+    - two cerebral hemispheres
+    - the higher brain - personality, thought, learning, memory
+    - longitudinal fissure divides the cerebral hemispheres
+    - transverse fissure divides cerebrum and cerebellum
+    - gyri - wrinkles, ridges of tissues, gyrus sincular
+    - sulci - grooves in between ridges
+    - cerebral cortex
+      - outer part of cerebrum
+      - gray matter
+        - gray because it contains cell bodies
+      - organized into 4 lobes
+        - frontal lobe
+          - at the front of the brain
+          - prefrontal cortex - cognitive functions
+          - motor cortex - controls skeletal muscles
+          - broca's area - motor speech
+        - parietal lobe
+          - at the top rear of the brain
+          - general sensory area - from skin and skeletal muscles
+          - gustatory area - for taste
+        - occipital lobe
+          - at the back of the brain
+          - visual area - for vision
+        - temporal lobe
+          - underneath parietal lobe, sticks out the sides of the brain
+          - auditory area - hearing
+          - olfactory area - smell
+          - wernicke's area - for understanding words
+    - cerebral white matter
+      - deep to cortex, deep to gray matter
+      - contains axons (nerve fibers) of motor neurons
+      - white because of myelin on the axons
+      - collections of nerve fibers are called tracts
+        - share a common function
+        - association tracts
+          - connect parts of brain together
+        - commissural tracts
+          - corpus callosum
+          - connects 2 hemispheres
+        - projection tracts
+          - go from brain to spinal cord, descending tract
+          - or from spinal cord to brain, ascending tract
+    - basal nuclei
+      - very deep in cerebrum
+      - gray matter (cell bodies)
+      - not much known about their function
+      - parkinsons effects these, though
+      - integrate motor control
+      - problems can cause resting tremors, early signs of parkinsons
+## part b
+  - cerebellum
+    - back part of brain
+    - balance and motor coordination
+    - fine tunes the timing of motor function
+    - recieving sensory information and uses it to reduce error in movements
+    - proprioception
+  - diencephalon
+    - buried inside brain
+    - 3 parts
+      - thalamus
+        - gateway to the cerebrum, relay station
+      - hypothalamus
+        - homeostatic functions
+        - emotions
+        - body tempurature regulation
+        - food intake regulation
+        - sleep-wake cycles
+        - endocrine function
+      - pineal gland / epithalamus
+        - poorly understood
+        - internal clock
+  - brain stem
+    - stem of brain
+    - 3 parts
+      - pidbrain
+        - hearing and visual reflexes
+        - cerebral aqueduct - connects 3rd and 4th ventricles of the brain
+        - nuclei
+      - pons
+        - one of the respiratory centers
+        - tracts
+      - medulla oblongata!
+        - main respiratory centers
+        - other visceral centers
+          - vomiting
+          - defication
+- reticular activating system
+  - mass of gray matter
+  - spans the pons, medulla, midbrain, and part of the diencephalon
+  - the system that keeps us mentally alert
+  - awake when activated
+  - asleep when not activated
+  - damage to this system can cause a coma
+- limbic system
+  - the emotional brain
+  - processes and experiences emotions
+  - areas of the cerebrum and diencephalon
+  - sense of smell sends information here
+  - smells are linked to emotions
+- spinal cord
+  - runs from the base of the brain to the first lumbar vertabra
+  - through foramen magnum
+  - found within vertebral canal
+  - has outer white matter and inner gray matter
+  - gray matter
+    - dorsal horn
+      - top of the angel wings
+      - sensory neurons
+      - dorsal root
+        - where the nerve enters the spinal cord
+      - dorsal root ganglion
+        - lump in the nerves entering the spinal cord
+    - ventral horn
+      - bottom of the angel wings
+      - ventral root
+        - nerves leaving the spinal cord
+  - white matter
+    - contains myrlinated tracts (white)
+    - aescending tracts - information toward the brain (sensory)
+    - descending tracts - information away from the brain (motor)
