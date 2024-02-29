@@ -8,9 +8,10 @@
   - spinal cord
   - meninges
     - protective membranes of the CNS
+    - packaging for the brain and spinal cord
     - 3 layers
-      - dura mater - outer most layer
-      - arachnoid mater
+      - dura mater - outer most layer, superficial
+      - arachnoid mater - middle layer, web-like structure (spider!)
         - subarachnoid space - filled with cerebrospinal fluid
           - cerebrospinal fluid
             - found in and around brain and spinal cord
@@ -25,6 +26,8 @@
               - flows to fourth ventricle
               - either gors down the central canal of the spinal cord or to the subarachnoid space
       - pia mater - directly adherent to the brain or spinal cord
+        - deepest layer of the meninges
+        - touches the brain and spinal cord
   - ventricle
     - spaces within the brain and spinal cord
     - produces CSF

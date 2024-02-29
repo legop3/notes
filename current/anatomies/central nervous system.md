@@ -3,21 +3,22 @@
   - cerebrum
     - largest part of the brain
     - two cerebral hemispheres
-    - the higher brain - personality, thought, learning, memory
+    - contains the lobes
+    - the higher brain - personality, thought, learning, memory, language
     - longitudinal fissure divides the cerebral hemispheres
     - transverse fissure divides cerebrum and cerebellum
     - gyri - wrinkles, ridges of tissues, gyrus sincular
-    - sulci - grooves in between ridges
+    - sulci - grooves in between ridges, sulcus singular
     - cerebral cortex
       - outer part of cerebrum
       - gray matter
-        - gray because it contains cell bodies
+        - gray because it contains cell bodies and dendrites
       - organized into 4 lobes
         - frontal lobe
           - at the front of the brain
           - prefrontal cortex - cognitive functions
           - motor cortex - controls skeletal muscles
-          - broca's area - motor speech
+          - broca's area - motor speech, broca = broken speech
         - parietal lobe
           - at the top rear of the brain
           - general sensory area - from skin and skeletal muscles
@@ -27,9 +28,11 @@
           - visual area - for vision
         - temporal lobe
           - underneath parietal lobe, sticks out the sides of the brain
+          - close to the ears
           - auditory area - hearing
           - olfactory area - smell
           - wernicke's area - for understanding words
+          - the brain's dictionary
     - cerebral white matter
       - deep to cortex, deep to gray matter
       - contains axons (nerve fibers) of motor neurons
@@ -38,12 +41,14 @@
         - share a common function
         - association tracts
           - connect parts of brain together
+          - stay within one hemisphere
         - commissural tracts
           - corpus callosum
           - connects 2 hemispheres
         - projection tracts
           - go from brain to spinal cord, descending tract
           - or from spinal cord to brain, ascending tract
+          - long distance
     - basal nuclei
       - very deep in cerebrum
       - gray matter (cell bodies)
@@ -58,8 +63,10 @@
     - fine tunes the timing of motor function
     - recieving sensory information and uses it to reduce error in movements
     - proprioception
+      - being able to sense the position of your joints
   - diencephalon
     - buried inside brain
+    - determines where signals need to go in and out of the brain
     - 3 parts
       - thalamus
         - gateway to the cerebrum, relay station
@@ -70,19 +77,26 @@
         - food intake regulation
         - sleep-wake cycles
         - endocrine function
+        - produces hormones
+          - pituitary gland releases hormones
       - pineal gland / epithalamus
         - poorly understood
         - internal clock
+        - produces melatonin, which induces sleep
+          - when it gets dark
+        - pituitary gland releases the melatonin
   - brain stem
     - stem of brain
     - 3 parts
-      - pidbrain
+      - midbrain
         - hearing and visual reflexes
         - cerebral aqueduct - connects 3rd and 4th ventricles of the brain
         - nuclei
       - pons
         - one of the respiratory centers
         - tracts
+        - attached to the cerebellum
+        - sends information to the cerebellum
       - medulla oblongata!
         - main respiratory centers
         - other visceral centers
@@ -107,15 +121,17 @@
   - found within vertebral canal
   - has outer white matter and inner gray matter
   - gray matter
+    - butterfly shaped
     - dorsal horn
-      - top of the angel wings
+      - towards the posterior, back
+      - top of the butterfly wings
       - sensory neurons
       - dorsal root
         - where the nerve enters the spinal cord
       - dorsal root ganglion
         - lump in the nerves entering the spinal cord
     - ventral horn
-      - bottom of the angel wings
+      - bottom of the butterfly wings
       - ventral root
         - nerves leaving the spinal cord
   - white matter
