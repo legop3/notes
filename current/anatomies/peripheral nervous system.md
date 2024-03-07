@@ -1,0 +1,115 @@
+# part a
+- nerves
+  - a nerve is a bundle of axons that lie outside the CNS
+  - sensory (afferent)
+    - toward CNS
+  - motor (efferent)
+    - from CNS
+  - mixed
+    - contains axons of both types
+    - information moving in 2 directions
+  - cranial
+    - 12 pairs
+      - cranial nerve 1 - olfactory nerve, smell
+      - cranial nerve 2 - optic nerve, vision
+        - purely sensory
+        - extension of retina
+        - sent to occipital nerve
+      - cranial nerve 3 - occulomotor nerve, motor nerve to move eye
+      - cranial nerve 4 - trochlear nerve, motor to superior oblique muscle, also moves eye
+      - cranial nerve 5 - trigeminal nerve, sensory to the face, motor to chewing muscles
+      - cranial nerve 6 - abducens, controls lateral rectus, motor to eye
+      - cranial nerve 7 - facial nerve, mixed, taste, supply muscles for facial expression
+      - cranial nerve 8 - vestiblocochlear nerve, sensory for hearing and balance
+        - 2 branches
+          - vestibular nerve
+          - cochlear nerve
+        - extend from inner ear
+      - cranial nerve 9 - glossopharyngeal nerve, mixed, sensory for taste, motor to throat, salivation
+      - cranial nerve 10 - vagus, wanderer, mixed, organs in thoracic and abdominal cavities
+        - wanderer
+        - innervates
+          - broncheals
+          - heart
+            - slows heart rate
+        - turns on digestion
+        - turns on urination
+      - cranial nerve 11 - accessory nerve, motor, to neck and back muscles
+        - large nerve
+        - innervates large neck muscles
+        - purely motor
+      - cranial nerve 12 - hypoglossal nerve, controls tongue muscle
+    - arising from the brain
+    - can be sensory, motor, or mixed
+    - most of them supply the head and neck
+    - cranial nerve 10 innervates the viscera in thoracic and abdominal cavities
+
+  - spinal
+    - plexi
+    - 31 pairs
+      - arise from spinal cord
+      - they are all mixed nerves, carrying both sensory and motor
+      - formed by lateral fusion
+        - of dorsal or posterior root (sensory)
+        - and ventral or anterior root (motor)
+      - immediately branch into rami
+        - ventral ramus - anterior
+          - innervates anterior trunk
+        - dorsal ramus - posterior
+          - innervates posterior trunk
+      - innervates trunk and appendages
+      - spinal cord goes from foramen magnum to 2nd lumbar vertebrae
+      - more cervical nerves than vertebrae
+    - peripheral nervous system
+    - spinal nerves are short
+    - they are created by a fusion of posterior root and anterior root
+      - posterior root contains sensory fibers
+      - anterior root contains motor nerve fibers
+# part b
+- spinal plexi
+- ventral ramus
+- a plexus is a collection of ventral rami
+- there are 4 plexi
+  - cervical plexus
+    - creates phrenic nerve
+      - supplies diaphgram
+  - brachial plexus
+    - creates median nerve
+      - supplies forearm and wrist flexors
+  - lumbar plexus
+    - creates femoral nerve
+      - supplies anterior thigh region
+  - sacral plexus
+    - creates sciatic nerve
+      - supplies posterior thigh
+- reflexes
+  - an automatic reaction to a stimulus
+  - rapid, predictable, involuntary, unlearned, born with them
+  - reflex arc
+    - nerve pathway of a reflex
+    - 5 components
+      - receptor - detects stimulus
+      - sensory neuron - sends info to CNS
+      - integration center - in CNS, links sensory and motor neurons
+      - motor neuron - carries info from CNS to effector
+      - effector organ - thing that responds to the receptor
+  - types of reflexes
+    - somatic reflex
+      - the effector organ is a skeletal muscle
+      - patellar reflex
+        - knee jerk reflex
+        - patellar tendon is receptor
+        - effector is quadriceps muscle
+      - flexor reflex
+        - muscles that detect injury and contract in response
+    - visceral reflex
+      - the effector organ is something involuntary
+      - smooth muscle, cardiac muscle, or gland
+      - urination
+      - defication
+      - blood pressure reflexes
+        - receptor = baroreceptor, detects blood pressure
+        - sensory neuron = takes BP info to medulla oblongata
+        - interneurons in CNS
+        - motor oeuron = sympathetic nerve (raise) parasympathetic nerve (lower)
+        - effector = heart and blood vessels
