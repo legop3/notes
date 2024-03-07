@@ -53,6 +53,7 @@
                 - choroid wraps around inside of eye
                 - ciliary body is muscles
                 - iris, is iris.
+                - gives the color of your eye
               - nervous tunic = retina, receptors of optic nerve
                 - inside layer
                 - retina is the sensory portion of the eye
@@ -65,7 +66,7 @@
               - anterior: aqueous humor (watery fluid)
                 - supplies nutrients
                 - always being produced
-              - posterior: vitreous humor (gel-like fluid)
+              - posterior: vitreous humor (gel-like substance)
                 - holds retina in place
                 - only gets made once, stays forever
         - hearing
@@ -81,9 +82,11 @@
        - hyperopia
          - farsightedness
          - can see far but not near
+         - not bending light enough
        - myopia
          - nearsightedness
          - can see near but not far
+         - bending light too much
     2. accomidation of the lens
        - changing the shape of the lens to focus light
        - for near vision
@@ -92,6 +95,7 @@
          - ciliary muscles contract
        - for far vision
          - lens is set up for that by default
+         - ciliary muscles relaxed
     3. change in diameter of pupil
        - for far vs close vision
        - constriction
@@ -122,3 +126,18 @@
         - bipolar neurons
       - ganglion
         - closest to vitreous humor
+# in class
+- the ear
+- outer ear
+  - earlobe 
+  - external auditory canal
+- middle ear
+  - eardrum (tympanic membrane)
+  - ossicles - tiny bones that transfer the sound waves
+- inner ear
+  - semicircular canals
+    - contain crystals and fluid
+  - cochlea
+    - propogates sound waves
+    - high frequency goes further in
+    - low frequency stops sooner
