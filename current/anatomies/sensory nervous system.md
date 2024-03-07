@@ -1,0 +1,125 @@
+# part a
+- sensation 
+  - any awareness that you have of the external or internal conditions of the body
+  - requires
+    - stimulus
+    - receptor to detect
+    - conduction along a neural pathway
+    - integration into a sensation in the brain
+  - sensory receptors
+    - exteroceptors
+      - at or near the surface of the body
+      - info about external environment
+    - interoceptors
+      - blood vessels and viscera
+      - info about internal environment
+    - proprioceptors
+      - info about body position, where your body is in space
+      - tendons, muscles, joints, inner ear
+  - classification by stimulus detected
+    - mechanoreceptors
+      - detects pressure, stretching
+      - proprioceptors or BP
+    - thermoreceptors
+      - detects changes in tempurature
+    - nociceptors
+      - detect pain
+      - physical or chemical tissue damage
+    - photoreceptors
+      - detect light
+      - only found in eye
+    - chemoreceptors
+      - detect chemicals
+      - taste, smell, oxygen, carbon dioxide, water
+  - general vs special senses
+    - general
+      - found over a large area of the body
+      - touch, pain, tempurature
+    - special
+      - found in specific organs in the head
+      - 5 of them
+        - vision
+          - 70% of sensory receptors in the body are in the eyes
+          - over a million nerve fibers in tracts for eyes
+          - only 1/6th of the eye is seen, the rest is in the skull
+          - external eye
+            - 3 tunics (layers)
+              - fibrous tunic = cornea and sclera, white of your eye
+                - outer layer
+                - cornea is front of eye
+                - sclera is white of eye
+              - vascular tunic = choroid, ciliary body, and iris, blood supply to eye
+                - middle layer
+                - choroid wraps around inside of eye
+                - ciliary body is muscles
+                - iris, is iris.
+              - nervous tunic = retina, receptors of optic nerve
+                - inside layer
+                - retina is the sensory portion of the eye
+          - internal eye
+            - lens and fluid
+              - lens can change shape to focus, becomes thicker
+              - called accomidation
+              - for close up vision
+            - lens divides eye into anterior and posterior segments
+              - anterior: aqueous humor (watery fluid)
+                - supplies nutrients
+                - always being produced
+              - posterior: vitreous humor (gel-like fluid)
+                - holds retina in place
+                - only gets made once, stays forever
+        - hearing
+        - taste
+        - smell
+        - equilibrium (balance)
+# part b
+- process of vision
+  - requires focusing light onto the retina
+    1. refraction of light
+       - bending light rays to bring them together at retina
+       - occurs at the cornea and lens
+       - hyperopia
+         - farsightedness
+         - can see far but not near
+       - myopia
+         - nearsightedness
+         - can see near but not far
+    2. accomidation of the lens
+       - changing the shape of the lens to focus light
+       - for near vision
+         - lens becomes thicker
+         - becomes more rounded
+         - ciliary muscles contract
+       - for far vision
+         - lens is set up for that by default
+    3. change in diameter of pupil
+       - for far vs close vision
+       - constriction
+         - for close, bright things
+       - dilation
+         - for far things
+    4. convergence of eyeballs
+       - they must look at the same thing
+       - on fovea centralis of each eye
+       - nervous tunic
+       - rods
+         - detect light
+         - highly sensitive
+         - night vision
+         - dim vision
+         - peripheral vision
+       - cones
+         - detect (c)olor
+         - bright light
+         - not very sensitive
+  - visual pathway
+    - retina has 3 layers of neurons
+      - photoreceptors
+        - rods and cones
+        - closest to choroid layer
+      - bipolar
+        - in the middle
+        - bipolar neurons
+      - ganglion
+        - closest to vitreous humor
+    - 
