@@ -10,23 +10,23 @@
     - information moving in 2 directions
   - cranial
     - 12 pairs
-      - cranial nerve 1 - olfactory nerve, smell
-      - cranial nerve 2 - optic nerve, vision
+      - cranial nerve 1 (I) - olfactory nerve, smell
+      - cranial nerve 2 (II) - optic nerve, vision
         - purely sensory
         - extension of retina
         - sent to occipital nerve
-      - cranial nerve 3 - occulomotor nerve, motor nerve to move eye
-      - cranial nerve 4 - trochlear nerve, motor to superior oblique muscle, also moves eye
-      - cranial nerve 5 - trigeminal nerve, sensory to the face, motor to chewing muscles
-      - cranial nerve 6 - abducens, controls lateral rectus, motor to eye
-      - cranial nerve 7 - facial nerve, mixed, taste, supply muscles for facial expression
-      - cranial nerve 8 - vestiblocochlear nerve, sensory for hearing and balance
+      - cranial nerve 3 (III) - occulomotor nerve, motor nerve to move eye
+      - cranial nerve 4 (IV) - trochlear nerve, motor to superior oblique muscle, also moves eye
+      - cranial nerve 5 (V) - trigeminal nerve, sensory to the face, motor to chewing muscles
+      - cranial nerve 6 (VI) - abducens, controls lateral rectus, motor to eye
+      - cranial nerve 7 (VII) - facial nerve, mixed, taste, supply muscles for facial expression
+      - cranial nerve 8 (VIII) - vestiblocochlear nerve, sensory for hearing and balance
         - 2 branches
           - vestibular nerve
           - cochlear nerve
         - extend from inner ear
-      - cranial nerve 9 - glossopharyngeal nerve, mixed, sensory for taste, motor to throat, salivation
-      - cranial nerve 10 - vagus, wanderer, mixed, organs in thoracic and abdominal cavities
+      - cranial nerve 9 (IX) - glossopharyngeal nerve, mixed, sensory for taste, motor to throat, salivation
+      - cranial nerve 10 (X) - vagus, wanderer, mixed, organs in thoracic and abdominal cavities
         - wanderer
         - innervates
           - broncheals
@@ -34,11 +34,11 @@
             - slows heart rate
         - turns on digestion
         - turns on urination
-      - cranial nerve 11 - accessory nerve, motor, to neck and back muscles
+      - cranial nerve 11 (XI) - accessory nerve, motor, to neck and back muscles
         - large nerve
         - innervates large neck muscles
         - purely motor
-      - cranial nerve 12 - hypoglossal nerve, controls tongue muscle
+      - cranial nerve 12 (XII) - hypoglossal nerve, controls tongue muscle
     - arising from the brain
     - can be sensory, motor, or mixed
     - most of them supply the head and neck
