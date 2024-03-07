@@ -122,4 +122,3 @@
         - bipolar neurons
       - ganglion
         - closest to vitreous humor
-    - 
