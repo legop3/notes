@@ -47,6 +47,9 @@
   - spinal
     - plexi
     - 31 pairs
+      - exit from intervertebral foramen
+      - dermatome
+        - the area of a skin innervated by a spinal nerve
       - arise from spinal cord
       - they are all mixed nerves, carrying both sensory and motor
       - formed by lateral fusion
@@ -71,17 +74,20 @@
 - a plexus is a collection of ventral rami
 - there are 4 plexi
   - cervical plexus
-    - creates phrenic nerve
-      - supplies diaphgram
+    - creates PHRenic nerve
+      - supplies diaPHgRam
   - brachial plexus
     - creates median nerve
       - supplies forearm and wrist flexors
+      - carpal tunnel
   - lumbar plexus
     - creates femoral nerve
       - supplies anterior thigh region
+      - if injured, couldnt extend knee
   - sacral plexus
     - creates sciatic nerve
       - supplies posterior thigh
+      - pain down back of leg
 - reflexes
   - an automatic reaction to a stimulus
   - rapid, predictable, involuntary, unlearned, born with them
@@ -107,6 +113,7 @@
       - smooth muscle, cardiac muscle, or gland
       - urination
       - defication
+      - vomiting
       - blood pressure reflexes
         - receptor = baroreceptor, detects blood pressure
         - sensory neuron = takes BP info to medulla oblongata
