@@ -1,0 +1,119 @@
+## part a
+- glands and hormones
+- function of the endocrine
+  - regulates
+    - digestion
+    - metabolismm
+    - blood pressure / volume
+    - calcium balance
+    - response to external environment
+- endocrine gland
+  - secretes into the bloodstream
+  - no duct
+  - no tube
+  - thyroid, adrenal, pituitary
+- exocrine gland
+  - product excreted 
+  - duct
+  - tube
+  - into an open cavity
+  - or onto skin
+  - sweat glands, sebaceous glands
+- mixed glands
+  - has both endocrine and exocrine functioin
+  - pancreas, testes, ovary
+- hormones
+  - secreted into bloodstream
+  - by endocrine gland
+  - travels to target organ
+  - target influinced by the hormone
+  - large hormones cannot enter the cell
+    - receptors will be on surface of cell
+    - hormone has a message for the cell
+    - uses a second messenger
+    - cAMP
+    - receptor > activates g protien > activates enzyme > forms second messenger cAMP
+  - some hormones can enter the cell
+    - receptor is inside target cell
+    - hormone can directly activate DNA
+    - testosterone
+    - receptor in cell > activates DNA > brings the effect
+- major endocrine glands
+  - pituitary gland
+    - 2 lobes
+    - adenohypophysis
+      - anterior
+      - glandular tissue (epithelial)
+      - secretes 6 different hormones
+        - TSH - thyroid stimulating hormone, causes thyroid to release thyroid hormone
+        - ACTH - adrenocorticotrophic hormone, causes adrenal cortex to release cortisol
+        - FSH - follicle stimulating hormone, stimulates egg and sperm development
+        - LH - leutinizing hormone, stimulates ovulation or testosterone production
+        - growth hormone - stimulates growth of muscles and bones
+        - prolactin - stimulates milk production
+      - sits in sella turcica
+    - neurohypophysis
+      - posterior
+      - a downgrowth of the hypothalamus
+      - stores oxytocin and ADH 
+      - ADH - anti diuretic hormone, retain water
+      - oxytocin - acts on uterus and mammary glands
+## part b
+  - thyroid glands
+    - influinces metabolism
+    - thyroid hormone
+      - metabolic hormone
+      - increases use of glucose
+      - hypothalamus releases TRH > TRH causes anterior pituitary gland to release TSH > TSH causes the thyroid gland to release thyroid hormone
+      - calcitonin
+        - lowers blood calcium levels
+        - causes calcium to be deposited into bone
+        - bone sparing hormone
+  - parathyroid glands
+    - posteroior to thyroid
+    - controls calcium
+    - 4 small glands in the back of the thyroid glands
+    - produce PTH
+      - raises blood calcium levels
+      - by removing it from bone
+      - saving it at kidneys
+      - absorbing it from small intestine
+      - bone destroying
+  - adrenal glands
+    - cortex
+      - cortisol
+        - increases blood glucose
+        - inhibits inflammation
+      - sex hormones
+        - testosterone and estrogen
+        - small amounts of both, regardless of gende
+        - before puberty
+      - aldosterone
+        - retains sodium
+        - increase blood pressure
+    - medulla
+      - epinephrine
+      - norepinephrine
+      - fight or flight responses
+  - pancreas
+    - mixed gland
+    - blood sugar
+    - exocrine
+      - releases digestive enzymes into small intestine
+    - endocrine
+      - insulin
+        - lower blood sugar levels in bloodstream
+        - causes glucose to be taken into cells and liver
+        - opens channels in cells
+      - glucagon
+        - raises blood glucose
+        - causes glucose to be released by liver
+  - gonads
+    - testes
+      - male gonad
+      - produces testosterone
+    - ovaries
+      - female gonad
+      - estrogen
+      - progesterone
+        - menstural cycle

@@ -40,3 +40,9 @@
 - midterm practice questions
 - midterm has 25 questions
 - all multiple choice
+## week after spring break
+## group policies
+- local
+  - applied to a local machine
+- domain based
+  - configured from domain controller
