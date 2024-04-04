@@ -1,0 +1,89 @@
+# part a
+## structure and function
+- 3 layers, walls, tunics
+  - tunica intima
+    - inner most layer
+    - endothilium
+  - tunica media
+    - middle layer
+    - smooth muscle and or elastic tissue
+    - can constrict and relax
+  - tunica externa
+    - outermost layer
+    - connective tissue
+    - connects blood vessel to surrounding tissue
+- arteries
+  - thicker walls
+  - smaller lumens
+  - retain a tubular shape
+  - to withstand high pressure
+  - (A)LWAYS take blood away from the heart
+- veins
+  - thinner walls
+  - larger lumens
+  - flattened shape
+  - valves in wall to prevent backflow of blood
+  - ALWAYS return blood to the heart
+- capillaries
+  - exchange materials
+  - nutrients, gasses, waste
+  - most numerous vessels
+- blood pressure
+  - force that blood has against blood pressure walls
+  - highest in the aorta
+  - decreases with distance from left ventricle
+  - lowest in vena cava
+  - fluctuates between systolic and diastolic blood pressure
+  - flow is opposed by resistance
+  - BP = CO * TPR
+    - CO = HR * SV
+  - atherosclerosis
+    - plaque builds up in artery wall
+    - increased resistance, increased BP
+  - pulse
+    - expansion of an artery located over a bony area
+# part b
+## arteries and veins
+- major arteries
+  - ascending aorta
+    - coronary arteries
+      - supply oxygenated blood to the heart muscle
+  - aortic arch
+    - brachiocephalic trunk
+      - arm and head
+      - right upper limb, right common caroted artery
+    - left common carotid atery
+    - left subclavian artery
+  - descending aorta
+  - thoracic aorta
+    - intercostal arteries
+    - descending aorta
+  - abdominal aorta
+    - celiac trunk
+      - liver, stomach, pancreas, spleen
+    - superior mesenteric artery
+      - portions of the intestines
+    - renal arteries
+      - kidneys
+    - gonadal arteries (testicular and ovarian)
+    - inferior mesenteric artery
+    - common iliac arteries
+      - right common iliac
+      - left common iliac
+    - femoral artery
+      - lower limb
+- major veins
+  - superior vena cava
+    - jugular veins
+      - neck and head
+    - subclavian veins
+      - upper limb
+      - blood comes from axillary and cephalic veins
+    - 2 brachiocephalic veins
+      - joins these two ^^
+  - thoracic vena cava
+    - azygous vein
+  - abdominal inferior vena cava
+    - hepatic veins
+    - renal veins
+    - common iliac veins
