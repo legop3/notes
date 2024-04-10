@@ -1,0 +1,168 @@
+## part a
+- liquid tissue
+- functions of blood
+  - transport
+    - carries oxygen to tissue
+    - carries waste away (co2)
+    - transmits hormones
+  - defense
+    - defends against pathogens
+      - viruses, bacteria, cancer
+    - removes dead and dying cells
+      - by engulfing them
+  - regulation
+    - body tempurature
+      - carries heat from muscles
+    - water-salt balance
+    - body pH
+      - maintains about 7.4
+- blood composition
+  - blood is connective tissue
+    - cells, cell fragments, and plasma
+  - formed elements
+    - made up by cells and cell fragments
+    - red blood cells
+      - heavy
+      - settle to the bottom in centrifuge
+    - white blood cells and platelets
+      - buffy coat
+      - thin shiny layer on top of the red blood cells
+    - plasma
+      - lands at the top after a centrifuge
+      - yellowish
+  - hematocrit
+    - the percentage of blood that is red blood cells
+    - 45-50% normally
+  - formed elements
+    - erythrocytes
+      - red blood cells
+      - biconcave disks
+      - anucleate
+      - 4 to 6 million per mm^3
+      - transport oxygen
+      - contains hemoglobin
+        - contains iron and binds to oxygen
+      - derived from stem cells in bone marrow
+    - blood types
+      - antigens on red blood cells determine the blood type
+      - 4 blood types in ABO
+        - A
+          - anti b
+        - B
+          - anti a
+        - AB
+          - anti none
+        - O
+          - anti a and b
+      - rh system determines positive or negative
+    - leukocytes
+      - white blood cells
+      - larger than red blood cell
+      - have a nucleus
+      - no hemoglobin
+      - 5000-11000 per mm^3
+      - fight infection
+      - destroy dead or dying cells
+      - killing cancerous cells
+      - able to leave the blood stream
+      - types of white blood cells
+        1. granular leukocytes - cytoplasmic granules
+           1. neutrophils 
+              - most abundant
+              - first to respond to infection
+              - engulf pathogens (cell eating)
+           2. eosinophils
+              - increase in number during parasitic worm infections
+              - lessen allergic reaction during allergic attack
+           3. basophils
+              - release histamines, dilates blood vessels
+              - release heparin, prevents clotting, promotes blood flow to injured tissue
+        2. agranular leukocytes
+           1. monocytes
+              - largest white blood cells
+              - differentiate into macrophages that phagocytize pathogens, old cells
+              - stimulate other white blood cells to defend
+           2. lymphocytes
+              - specific immunity
+              - destroy cancer cells
+              - brusal or marrow derived
+                - produce antibodies
+              - thymal derived
+                - attack any cell with foreign antigen
+      - thrombrocytes
+        - platelets
+        - fragments of a larger cell
+          - megakaryocyte
+## part b
+- hemostasis
+  - how we stop bleeding
+  - cessation of bleeding
+  - vascular spasm
+    - constriction of a broken blood vessel to decrease blood loss
+    - happens immediately
+  - platelet plug formation
+    - platelets adhere to collagen
+    - release chemicals that stimulate other platelets
+  - coagulation
+    - blood clotting
+    - a network of fibrin fibers
+    - long term fix
+    - allows for healing
+- hematopoesis
+  - stem cells (hemocytoblasts)
+    - create all formed elements in blood
+    - occurs in red bone marrow
+- complete blood count (CBC)
+  - analyzes
+    - white blood count
+      - 5000-9000
+      - total number of white blood cells
+      - differential WBC
+        - neutrophils: 60-70%
+        - lymphocytes: 20-25%
+        - monocytes: 3-8%
+        - eosinophils: 2-4%
+        - basophils: .5-1%
+        - determines the percentage of each of the 5 WBC types
+    - hemoglobin
+      - males: 14-18
+      - females: 12-16
+      - how much pigmented protien is present per 100ml
+    - hematocrit
+      - males: 40-52%
+      - females: 38-48%
+      - percentage of total blood volume made of RBCs
+  - RBC count 
+    - males: 4.6-6.2
+    - females: 4.2-5.4
+    - number of red blood cells
+- plasma
+  - fluid portion of blood
+  - nonliving
+  - 92% water
+  - 8% salts and organic molecules
+  - transports cells, waste, gasses, hormones, formed elements
+  - plasma protiens
+    - albumin
+      - contributes to osmotic pressure of blood
+      - can never leave the blood vessels
+      - produced by the liver
+    - gamma globulins
+      - immuno globulins
+      - some act to transport molecules
+    - fibrinogen
+      - fiber protien
+      - activates for blood clotting
+    - nutrients
+      - food for cells (ATP)
+      - lipids, glucose, ammino acids
+    - salts
+      - from intestines
+      - maintains osmotic pressure and pH
+    - nitrogeneous waste
+      - excreted by kidneys
+      - uric acid, urea
+    - gasses
+      - from lungs and other tissues
+      - cellular respiration
+      - oxygen and co2
