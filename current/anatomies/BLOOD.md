@@ -14,8 +14,15 @@
     - body tempurature
       - carries heat from muscles
     - water-salt balance
+      - kidneys
+      - filter sodium out of blood
     - body pH
       - maintains about 7.4
+      - higher = basic
+      - lower = acidic
+      - both ends are dangerous for the body
+      - 0-14
+      - 7 is the exact middle
 - blood composition
   - blood is connective tissue
     - cells, cell fragments, and plasma
