@@ -59,9 +59,14 @@
           - anti a
         - AB
           - anti none
+          - universal recievers
         - O
           - anti a and b
+          - universal donor
       - rh system determines positive or negative
+        - protien within blood
+        - positive = has protien
+        - negative = doesnt have protien
     - leukocytes
       - white blood cells
       - larger than red blood cell
@@ -88,34 +93,40 @@
            1. monocytes
               - largest white blood cells
               - differentiate into macrophages that phagocytize pathogens, old cells
+              - can eat cells because they are large
               - stimulate other white blood cells to defend
            2. lymphocytes
               - specific immunity
               - destroy cancer cells
-              - brusal or marrow derived
+              - brusal or marrow derived = B type
                 - produce antibodies
-              - thymal derived
+              - thymal derived = T type
                 - attack any cell with foreign antigen
       - thrombrocytes
         - platelets
+        - clotting factor
         - fragments of a larger cell
           - megakaryocyte
 ## part b
 - hemostasis
   - how we stop bleeding
   - cessation of bleeding
-  - vascular spasm
+  - 3 steps
+  1. vascular spasm
     - constriction of a broken blood vessel to decrease blood loss
     - happens immediately
-  - platelet plug formation
+  2. platelet plug formation
     - platelets adhere to collagen
-    - release chemicals that stimulate other platelets
-  - coagulation
+    - release chemicals that stimulate other platelets and collagen
+  3. coagulation
     - blood clotting
     - a network of fibrin fibers
     - long term fix
     - allows for healing
+    - blood has stopped bleeding
+
 - hematopoesis
+  - blood cell creation
   - stem cells (hemocytoblasts)
     - create all formed elements in blood
     - occurs in red bone marrow
@@ -138,6 +149,7 @@
     - hematocrit
       - males: 40-52%
       - females: 38-48%
+      - normal: 45-50%
       - percentage of total blood volume made of RBCs
   - RBC count 
     - males: 4.6-6.2
