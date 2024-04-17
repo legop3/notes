@@ -1,0 +1,61 @@
+# part a
+- consists of
+  - lymphatic vessels
+    - carry lymph toward the heart
+    - open ended system
+    - begin as lymphatic capilaries
+    - lymph nodes are scattered along lymphatic vessels
+      - filters of lymphatic fluid
+    - have valves in their walls
+    - lymph vessels join to form 2 large ducts
+      - thoracic duct
+        - from the rest of the body
+      - right lymphatic duct
+        - only from the upper right side
+  - lymphoid organs
+- roles of lymphatic system
+  - fluid balance
+  - dietary fat absorption
+    - lacteals
+      - absorb fatty products from intestines
+  - defense (D-FENS) against disease
+    - lymph nodes
+      - lymphocytes
+      - filter the blood from disease
+- what is lymph?????
+  - fluid leaves the blood and enters the tissue space
+  - fluid left behind in the cells gets taken by lymphatic capilaries
+  - interstitial fluid
+  - fluid is called lymph after it enters the capilary
+# part b
+- lymphatic organs
+  - tonsils
+    - rings of lymphatic tissue
+    - in throat
+    - trap bacteria in food or in air
+  - thymus gland
+    - in mediastinum
+    - involved in the programming of lymphocytes
+    - active during youth
+    - regresses after youth
+  - spleen
+    - largest lymphoid organ
+    - upper left side of the abdomen
+    - lymphocytes and macrophages
+    - removes pathogens and destroys old red blood cells
+  - peyers patches
+    - found along the walls of the intestines
+    - prevent bacteria from entering the wall of the intestines
+  - lymph nodes
+    - filtering organs
+    - remove bacteria and tumor cells from lymph fluid
+    - lymphocytes and macrophages
+    - clusters where:
+      - cervical
+        - head
+      - axillary
+        - armpits
+      - inguinal
+        - hip region
+    - swollen = indicate infection
+    - a place to find cancer cells if the cancer is traveling through body
