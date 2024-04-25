@@ -1,0 +1,112 @@
+pee!!!
+## part a
+- functions of
+  - elimination of waste
+    - nitrogen containing wastes
+      - creatine
+      - uric acid
+      - urea
+      - ammonium ions
+    - water balance
+      - kidneys either save water for body
+      - or lose water to urine
+    - regulation of pH
+- anatomy of urinary
+  - 2 kidneys
+    - produce urine from blood
+  - 2 ureters
+    - transport urine to bladder from kidneys
+  - urinary bladder
+    - store urine
+  - urethra
+    - evacuation of urine
+- kidneys
+  - 3 distinct regions
+    - cortex
+      - outer part
+    - medulla
+      - inner part
+    - renal pelvis
+      - dilated end of ureter
+      - middle of kidney
+- kidney blood supply
+  - renal arteries
+    - from abdominal aorta
+    - brings oxygenated blood to kidneys
+    - kidneys clean this "dirty blood"
+  - renal veins
+    - drain deoxygenated blood from kidneys
+    - "clean blood" gets returned
+    - to inferior vena cava
+- microscopic kidney anatomy
+  - nephron
+    - functional unit of kidney
+    - each kidney has about 1 million nephrons
+    - consists of
+      - glomerulus
+        - blood part
+        - tuft of blood capillaries
+        - afferent arteriole
+          - input
+        - efferent arteriole
+          - output
+      - renal tubule
+        - 4 portions
+          - bowmans capsule
+            - the part that the glomerulus sits in
+            - like a coffee filter
+          - proximal convoluted tubule
+          - loop of henle
+          - distal convoluted tubule
+    - 2 types
+      - cortical nephron
+        - found in cortex of kidney
+        - the majority of the nephrons
+        - does not extend
+      - juxtamedullary nephron
+        - found at junction between cortex and medulla
+        - allows for production of concentrated urine
+        - extends well into medulla
+    - collecting duct
+      - collect urine from many nephrons
+      - carry it to spaces in kidney
+## part b
+- urine formation in the nephron
+- 3 steps:
+  - filtration
+    - occurs in glomerulus
+    - very high pressure
+    - blood goes in afferent
+    - gets filtered from pressure
+    - blood goes out efferent
+  - reapsorption
+    - return to blood
+    - occurs at proximal convoluted tubule
+    - reabsorbs water
+    - returns to blood in the peritubular capillaries
+  - secretion
+    - put into the filtrate
+    - occurs in distal convoluted tubule
+- hormones in urine formation
+  - antidiuretic hormone
+    - released when dehydrated
+    - causes duct cells to reabsorb water
+    - saves water
+    - concentrates urine
+  - aldosterone
+    - increases Na+ reabsorption
+    - saves sodium
+- micturition
+  - process of urination
+  - bladder is smooth muscle
+  - external urethral sphincter
+    - to close urethra
+  - internal urethral sphincter
+    - smooth muscle
+    - involuntary
+  - steps of:
+    1. as bladder fills, it stretches
+    2. bladder sends sensory information to spinal cord
+    3. spinal cord sends motor information to muscle of bladder, bladder contracts
+    4. spinal cord tells internal urethral sphincter to relax
+    5. voluntary control, contracting or relaxing external urethral sphincter

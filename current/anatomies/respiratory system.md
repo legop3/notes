@@ -110,3 +110,61 @@
         - 2 lobes
           - superior
           - inferior
+## part b
+- lungs
+  - right lung is larger than left lung
+  - because of heart
+  - only right lung has a middle lobe
+  - alveoli
+    - at base of broncheal tree branches
+    - actual sites of gas exchange
+- process of breathing
+  - ventalation
+  - moving air in and out of the lungs
+  - inspiration / inhalation
+    - diaphgram
+    - external intercostals
+    - elevate ribs and sternum
+    - diaphgram contracts
+      - thoracic cavity increases in volume
+    - contract external intercostal muscles
+      - ribs and sternum elevate
+      - increase volume of thoracic cavity
+  - expiration / exhalation
+    - relaxation of diaphgram
+    - relaxation of external intercostals
+    - decrease volume
+    - release air
+  - boyle's law
+    - gasses will flow from high pressure to low pressure
+    - pressure gradient
+    - volume is inversely proportional to pressure
+    - where the pressure is low, the air will go :3
+- external respiration
+  - the exchange of gasses in the lungs
+  - oxygen
+    - higher concentration in the alveoli
+    - diffuses into blood
+  - carbon dioxide
+    - higher concentration in the blood
+    - diffuses from the blood to the alveoli
+- gas transport in the blood
+  - oxygen transport
+    - carried in 2 ways
+    - bound to hemoglobin in red blood cells (iron)
+    - small amount is dissolved into plasma
+  - carbon dioxide transport
+    - carried in 3 ways
+    - dissolved in plasma
+    - combined with hemoglobin
+    - most is carried as bicarbonate ions
+      - co2 + h2o -> [h2CO3] -> HCO3- + H+
+- internal respiration
+  - exhange of gasses in tissues
+  - blood and systemic capillaries
+  - oxygen
+    - higher concentration in blood
+    - diffuses from blood into cells
+  - carbon dioxide
+    - higher concentration in cells
+    - diffuses from cells into blood
