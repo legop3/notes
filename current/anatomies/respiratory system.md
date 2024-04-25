@@ -1,0 +1,112 @@
+## part a
+- functions
+  - gas exchange
+    - oxygen in
+    - carbon dioxide out
+  - regulation of blood pH
+    - by changing co2 levels in blood
+  - voice production
+    - move air past vocal cords
+  - olfaction
+    - smelling
+    - particles pass through nasal cavity
+  - innate immunity
+    - mucous membranes trap airborne micro organisms
+    - also trap dirt, dust, debris
+- anatomy of the 
+  - upper respiratory tract
+    - external nose
+      - made of hyaline cartilage, bone, connective tissue, skin
+    - nasal cavity
+      - extends from nares with septum
+      - septum extends to divide all the way to the pharynx
+      - hard palate
+        - roof of mouth
+        - floor of nasal cavity
+      - conchae
+        - ridges
+        - means shelf
+        - increase surface area
+      - paranasal sinuses
+        - air filled sinuses
+          - in bone
+          - maxillary
+          - frontal
+          - athmoid
+          - sphenoid
+          - reduce weight of skull
+          - resonate sound
+          - nasolacrimal ducts
+            - carry tears into nasal cavity
+    - pharynx
+      - air from the nasal cavit
+      - air, food, and water from oral cavity
+      - three regions
+        - nasopharynx
+          - behind the nasal cavity
+          - only air comes though here
+          - pharyngeal tonsils (adenoids)
+          - auditory tube
+            - connects to middle ear
+        - oropharynx
+          - behind oral cavity
+          - food, air, drink come through here
+          - palatine tonsils
+            - commonly removed
+          - lingual tonsils
+        - larygopharynx
+          - behind larynx
+          - food, air, drink come through here
+          - carries food to esophagus
+          - carries air to larynx
+    - associated structures
+  - lower respiratory tract
+    - larynx
+      - anterior throat between pharynx and trachea
+      - has outer casing
+        - 9 cartilages
+        - conneted with mucous membranes and ligaments
+          - forms attachment for vocal cords
+      - 2 pairs of ligaments
+        - superior ligaments
+          - vestibular folds (false vocal cords)
+        - inferior ligaments
+          - vocal folds (true vocal cords)
+      - epiglottis
+        - band of elastic cartilage
+        - free flap 
+        - bends toward the tongue
+        - makes sure food doesnt go down trachea
+    - trachea
+      - windpipe
+      - 16-20 cartilage rings
+      - c shaped
+      - don't form a ring in the back
+    - bronchi
+      - bronchial tree
+      - right and left primary bronchi
+        - branch into secondary
+          - branch into tertiary
+            - in lungs at this point and below
+            - almost 60 levels of branching
+              - terminal bronchioles
+                - smallest branch
+                - no cartilage
+                - mostly muscle
+                  - constrict during asthma attack
+    - lungs
+      - alveoli
+        - air sacs
+        - gas exchange
+        - diffusion gradients
+        - oxygen in
+        - carbon dioxide out
+      - right lung
+        - 3 lobes
+          - superior
+          - middle
+          - inferior
+      - left lung
+        - 2 lobes
+          - superior
+          - inferior

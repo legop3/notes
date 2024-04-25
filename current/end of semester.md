@@ -18,3 +18,7 @@ networking group project 2:
 
     set DNS server on workstation to the server's IP address
     my server admin password: Password1
+
+    my server admin username: droberts
+
+DaNiel@$RoBerts@$
