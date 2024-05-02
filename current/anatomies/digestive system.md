@@ -1,0 +1,40 @@
+- esophagus
+  - takes in food
+  - puts it in stomach
+- mouth
+  - mechanical digestion
+  - saliva breaks down carbohydrates
+    - amylase
+- stomach
+  - ulcers
+    - stomach eating itself
+  - acid reflux
+    - stomach acid goes into esophagus
+    - weakness in sphincter
+    - hurts
+    - burns away esophagus
+    - cured by surgery on sphincter
+- small intestine
+  - 3 parts
+    - dwadnum
+      - very short
+      - first exit out of stomach
+      - pancreas and liver
+        - sending enzymes
+        - liver produces bile
+        - bile enters into gull bladder
+      - C shaped
+      - cups pancreas
+    - jujujum
+      - absorpsion
+    - ilium
+- large intestine
+  - water regulation
+  - reabsorb water
+  - secum
+    - appendix
+      - lower right quadrant
+  - aescending colon
+  - transverse colon
+  - descending colon
+  - sigmoid colon

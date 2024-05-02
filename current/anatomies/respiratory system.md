@@ -158,7 +158,10 @@
     - dissolved in plasma
     - combined with hemoglobin
     - most is carried as bicarbonate ions
-      - co2 + h2o -> [h2CO3] -> HCO3- + H+
+      - PH balancing systems
+      - lungs and kidneys can both regulate
+      - co2 + h2o <-> [h2CO3] <-> HCO3- + H+
+      -    lungs                   kidneys
 - internal respiration
   - exhange of gasses in tissues
   - blood and systemic capillaries

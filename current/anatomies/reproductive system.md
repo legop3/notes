@@ -1,0 +1,23 @@
+- female
+  - urinary system is the same
+  - ovaries
+    - creates an egg
+    - oocyte
+    - eggs coaxed out by
+    - egg fertilized in uterin tube
+    - implants on the uterus after traveling through tube
+  - cervix
+    - doorway in and out of the uterus
+    - between uterus and vaginal cavity
+- male
+  - testicles
+    - external to the body in the scrotum
+    - produces testosterone
+      - in organ on side of testes
+    - produces sperm
+  - prostate
+    - the point where bladder and semen meet
+  - corpus cavernosum
+    - fills with blood
+    - erector
+  - 
