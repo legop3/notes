@@ -20,4 +20,196 @@
   - corpus cavernosum
     - fills with blood
     - erector
-  - 
+# videos
+# part a
+- functions of reproductive system
+  - produce gametes (sperm or egg)
+    - to fertilize ovum
+  - produce hormones for gender specific characteristics
+    - development of reproductive organs
+  - delivery of gametes or fetus to exterior
+- male
+  - structures
+    - gonads
+      - testes
+        - produce sperm
+          - seminiferous tubules
+        - produce testosterone
+          - interstitial cells
+            - found between tubules
+        - in scrotum
+    - external genitalia
+      - scrotum
+         - sac of skin, outside of the body
+      - penis
+        - transports sperm out of male tract
+        - contains erictile tissue
+        - glans penis
+          - tip
+        - prepuce
+          - foreskin
+          - around glans
+        - 3 columns of erectile tissue
+          - 2 corpora cavernosa
+          - corpus spunginosum
+    - duct system
+      - epididymis
+        - on posterolateral surface of testes
+        - sperm spend 20 days here to mature
+      - vas deferens
+        - transports sperm to pelvic cavity
+        - and to urethra
+        - spermatic cord
+          - encloses vas deferens
+          - vessels and nerves
+      - ejaculatory duct
+        - end of vas deferens
+        - enters prostate to merge with urethra
+      - urethra
+        - from base of bladder to tip of penis
+    - accessory glands
+      - prostate gland
+        - single gland
+        - 1/3rd of semen
+      - bulbourethral glands
+        - produce clear mucus
+        - neutralize urine in urethra
+      - seminal vesicles
+        - secretions make up about 65% of semen
+  - functions
+    - produce gametes (sperm)
+      - spermatogenesis
+        - stem cells in  seminiferous tubules
+        - requires FSH (follicle stimulating hormone)
+        - meiosis
+          - chromosomes inside cell are devided in half
+      - spermiogenesis
+        - process of sperm maturation
+        - occurs in epididymis
+      - sperm produced in testes
+    - produce testosterone
+    - delivery of sperm to female reproductive system
+  - hormones
+    - FSH (follicle stimulating hormone)
+      - from anterior pituitary gland
+      - stimulates sperm production
+        - by the seminiferous tubules of testes
+    - LH (leutinizing hormone)
+      - from anterior pituitary gland
+      - stimulates testosterone production
+        - by the interstitial cells of the testes
+    - testosterone
+      - from the interstitial cells of the testes
+      - stimulates sperm production
+      - development of male sex characteristics
+- female
+  - function
+    - produce gametes (ova) for fertilization
+      - development of eggs occur on the ovary
+    - nourish and maintain developing fetus
+      - fetus will develop in uterus
+    - production of hormones
+      - estrogen
+      - progesterone
+  - anatomy
+    - gonads
+      - ovaries
+        - in abdominopelvic cavity
+    - internal genitalia
+      - ovaries
+        - produce ova (eggs)
+        - you are born with all the eggs you will ever have
+        - produced while you are a fetus
+        - over 400 can be ovulated in a lifetime
+        - ovulation
+          - the egg leaving the ovary
+          - about every 14 days on average
+        - produce estrogen
+          - follicle cells
+        - produce progesterone
+          - corpus luteum
+      - fallopian tubes
+        - oviduct
+        - uteran tube
+        - site of fertilization
+        - open ended tube
+        - fimbraie
+          - finger like extensions
+          - sweep over the ovary
+          - pick up eggs
+      - uterus
+        - where fetus develops
+        - 3 walls
+          - perimetrium
+            - outer covering
+          - myometrium
+            - middle layer
+            - smooth muscle
+            - contractions during childbirth
+          - endometrium
+            - inner lining
+            - embryo implants here
+            - thickens each month to prepare for embryo
+        - cervix
+          - muscular neck of uterus
+          - outflow region of uterus
+          - protrudes into vagina
+      - vagina
+    - external genitalia
+      - mons pubis
+        - fat pad over pubid symphysis
+      - labias
+        - majora
+          - outer skin folds
+        - minora
+          - inner skin folds
+          - fourchette
+          - vestibule
+            - contains openings for urethra anc vagina
+      - clitoris
+        - counterpart to penis
+        - contains erectile tissue
+    - mammary glands
+      - alveolar glands
+        - produce milk
+      - lactiferous ducts
+        - lactiferous ducts
+          - milk flows through
+          - exits the nipple
+  - female cycle
+    - ovarian and uterine cycles
+    - changes in overies and uterus lining
+    - LH and FSH can stimulate ovaries
+    - FSH 
+      - stimulates follicular cells
+    - LH
+      - bringing corpus ludium
+    - 3 phases in cycle
+      - early cycle
+        - days 1-13
+        - egg and follicle growing on ovary
+          - told to by FSH
+        - follicle cells secrete estrogen
+          - estrogen levels rise
+        - first 5 days is menstruation
+          - lining of uterus shed
+        - days 6-13
+          - lining of uterus being built again
+      - mid cycle
+        - day 14
+        - surge in LH
+        - rise in estrogen
+        - surge causes ovulation
+      - late cycle
+        - days 15-28
+        - follicle cells remain after ovulation
+        - become the corpus luteum
+          - secretes progesterone
+        - progesterone levels rise
+  - hormones
+    - estrogen
+      - development of sex characteristics
+      - prepare uterus for fertilized egg
+      - prepare mammary glands for milk production
+    - progesterone
+      - prevents uterine contractions during pregnancy
