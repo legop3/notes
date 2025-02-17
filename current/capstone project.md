@@ -1,0 +1,11 @@
+# attend a professional gathering final
+- meet 2 people in addition to the organizer
+  - get first name, last name, and email address
+- write 300 - 500 words
+  - who did you meet?
+  - what was discussed
+  - what activities occured
+  - what is the plan for the next meeting
+  - why is this meetup valuable to individuals in your field?
+    - if not, how could it be changed to be valuable
+  - tone and style of a professional email
