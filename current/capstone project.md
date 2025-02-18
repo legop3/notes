@@ -97,3 +97,15 @@
   - cards for all people
   - breachsiren
   - join a group that isnt what youre used to
+
+
+
+
+
+
+- interview questions
+  - how did you get started in your field?
+  - what are your career goals over the next 10 years?
+  - what skills do you think are important for individuals just starting in tech?
+  - where do you recommend to start networking?
+  - what could you change about what you have done to get here?
