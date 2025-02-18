@@ -24,6 +24,7 @@
     3. attended stir trek
     4. spoke with manager
     5. software enginner at OCLC
+       - INTERNSHIP here
   - when you engage
     - you learn
     - get practice
@@ -41,6 +42,7 @@
 - silvat@oclc.org
 
 - finding your voice - ryan carroll
+- ryan@carrollmedia.dev
   - why?
     - being well rounded is crucial
       - what you do and how you do it
@@ -99,8 +101,7 @@
   - join a group that isnt what youre used to
 
 
-
-
+- code and coffee
 
 
 - interview questions
@@ -109,3 +110,4 @@
   - what skills do you think are important for individuals just starting in tech?
   - where do you recommend to start networking?
   - what could you change about what you have done to get here?
+  - what is the biggest thing you are working on now? (that you can talk about)
